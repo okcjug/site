@@ -1,8 +1,60 @@
 <!DOCTYPE html SYSTEM "http://www.thymeleaf.org/dtd/xhtml1-strict-thymeleaf-4.dtd">
 
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
-	<head th:replace="header.thyme::head"/>
-	<body onload="prettyPrint()">
+	<head th:replace="head.thyme::head"/>
+	<body class="main-layout">
+		<!-- header -->
+		<div th:replace="header.thyme::header"/>
+		<!-- end header -->
+		<!-- revolution slider -->
+		<div class="banner-slider">
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-md-7">
+						<div id="slider_main" class="carousel slide" data-ride="carousel">
+							<!-- The slideshow -->
+							<div class="carousel-inner">
+								<div class="carousel-item active">
+									<img src="images/slider_1.png" alt="#" />
+								</div>
+								<div class="carousel-item">
+									<img src="images/slider_1.png" alt="#" />
+								</div>
+							</div>
+							<!-- Left and right controls -->
+							<a class="carousel-control-prev" href="#slider_main" data-slide="prev">
+								<i class="fa fa-angle-left" aria-hidden="true"></i>
+							</a>
+							<a class="carousel-control-next" href="#slider_main" data-slide="next">
+								<i class="fa fa-angle-right" aria-hidden="true"></i>
+							</a>
+						</div>
+					</div>
+					<div class="col-md-5">
+						<div class="full slider_cont_section">
+							<h4>More Featured in</h4>
+							<h3>Jack Blogger</h3>
+							<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look</p>
+							<div class="button_section">
+								<a href="about.html">Read More</a>
+								<a href="contact.html">Contact Us</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- end revolution slider -->
+		<!-- section -->
+		<div class="section layout_padding">
+            <div th:replace="about.thyme::about"/>
+		</div>
+		<!-- end section -->
+		<!-- footer -->
+		<footer th:replace="footer.thyme::footer">
+		</footer>
+		<!-- end footer -->
+	<!--
 	<div id="wrap">
 		<div th:replace="menu.thyme::menu"/>
 		<div class="container">
@@ -21,7 +73,6 @@
 			<p>Older posts are available in the <a th:href='${content.rootpath+config.archive_file}' href='href'>archive</a>.</p>
 		</div>
 	</div>
-	
-	<div th:replace="footer.thyme::footer"></div>
+	-->
     </body>
 </html>
