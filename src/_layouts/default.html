@@ -30,11 +30,6 @@
 </head>
 <!-- body -->
 <body class="main-layout">
-<!-- loader  -->
-<div class="loader_bg">
-    <div class="loader"><img src="images/loading.gif" alt="#"/></div>
-</div>
-<!-- end loader -->
 
 <!-- header -->
 <header class="header-area">
@@ -45,9 +40,11 @@
                     <div class="row">
                         <div class="col-md-2 d_none">
                             <ul class="top_info">
+<!--
                                 <li><i class="fa fa-twitter" aria-hidden="true"></i>
                                     Twitter: <a href="https://twitter.com/{{ site.twitter_username }}">{{ site.twitter_username }}</a>
                                 </li>
+-->
                             </ul>
                         </div>
                         <div class=" col-md-8 col-sm-12">
@@ -70,8 +67,7 @@
                         <ul>
                             <li><a class="active" href="index.html">Home</a></li>
                             <li><a href="about.html">About</a></li>
-                            <li><a href="blog.html">Blog</a></li>
-                            <li><a href="testimonial.html">testimonial</a></li>
+                            <li><a href="news">News</a></li>
                             <li><a href="contact.html">Contact us</a></li>
                         </ul>
                         <button class="nav-toggler">
@@ -79,7 +75,6 @@
                         </button>
                     </nav>
                     <ul class="email text_align_right">
-                        <li><a href="Javascript:void(0)">Log In</a></li>
                         <li><a href="Javascript:void(0)"><i class="fa fa-search" aria-hidden="true"></i></a></li>
                         <!-- https://trackjs.com/blog/site-search-with-javascript-part-2/ -->
                     </ul>
@@ -93,24 +88,24 @@
 <div class="full_bg">
     <div class="slider_main">
         <!-- carousel code -->
-        <div id="banner1" class="carousel slide">
+        <div id="banner1" class="carousel1 slide">
+<!--
             <ol class="carousel-indicators">
                 <li data-target="#banner1" data-slide-to="0" class="active"></li>
                 <li data-target="#banner1" data-slide-to="1"></li>
                 <li data-target="#banner1" data-slide-to="2"></li>
             </ol>
+-->
             <div class="carousel-inner">
                 <!-- first slide -->
                 <div class="carousel-item active">
                     <div class="container">
                         <div class="carousel-caption relative">
                             <div class="row d_flex">
-                                <div class="col-lg-5 offset-lg-7 col-md-7 offset-md-5">
+                                <div class="col-lg-8 offset-lg-6 col-md-6 offset-md-8">
                                     <div class="creative">
-                                        <h1>We are help old people </h1>
-                                        <p>All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as
-                                            necessary, making this the first true generator on the Internet. It uses a dictionary of
-                                            over 200 Latin words, combined with</p>
+                                        <h1>Oklahoma City Java Users Group</h1>
+                                        <p>The home for Java and JVM enthusiasts in Oklahoma City, OK.</p>
                                         <a class="read_more" href="Javascript:void(0)">Read More</a>
                                     </div>
                                 </div>
@@ -119,7 +114,7 @@
                     </div>
                 </div>
                 <!-- second slide -->
-                <div class="carousel-item">
+<!--                <div class="carousel-item">
                     <div class="container">
                         <div class="carousel-caption relative">
                             <div class="row d_flex">
@@ -136,7 +131,9 @@
                         </div>
                     </div>
                 </div>
+-->
                 <!-- third slide-->
+<!--
                 <div class="carousel-item">
                     <div class="container">
                         <div class="carousel-caption relative">
@@ -154,6 +151,7 @@
                         </div>
                     </div>
                 </div>
+-->
             </div>
             <!-- controls -->
             <a class="carousel-control-prev" href="#banner1" role="button" data-slide="prev">
