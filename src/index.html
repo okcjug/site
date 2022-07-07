@@ -2,11 +2,16 @@
 layout: default
 title: Home
 pagination:
-    enabled: true
+    enabled: false
 ---
 
-{% for post in paginator.posts %}
+Posts:
+{{ site | jsonify }}
+<ul>
+{% for post in site.posts %}
 <li>
     <a href="{{ post.url }}">{{ post.title }}</a>
 </li>
 {% endfor %}
+</ul>
+(end posts)
