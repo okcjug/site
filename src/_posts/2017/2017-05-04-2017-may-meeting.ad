@@ -1,0 +1,45 @@
+---
+title: "2017 May Meeting"
+date: 2017-05-04
+type: post
+tags: blog
+status: published
+author: 8
+---
+
+== When: May 9, 2017    11:30 - 13:00
+
+== Where: StarSpace46  1141 W. Sheridan Avenue
+
+[[mapDiv]]
+
+Website: http://www.starspace46.com/
+
+== [.m_-8007405605425576190gmail-il]#Speaker: Brian Sheldon #
+
+== Topic: [.im]#Stick a fork in the websocket, it's done #
+
+I've wanted to make an app in the cloud (aka someone else's server) that
+uses several technologies.
+
+This is an indolent walk through of what I've come up with so far.
+
+The list of technology I plan on using is, javax.websocket, json,
+javascript, mapbox-gl.js (vector tile map), sqlite-jdbc, and Rest.
+
+If there is time, deploy it to gcloud (App Engine). I may have to use
+http://mapbox.com[mapbox.com] or node.js to serve the map tiles instead
+of sqlite-jdbc if I don't have time.
+
+My plan is to display a map of the world, click on the map to create a
+marker which then gets broadcast to anyone else on the web page.
+
+Clicking on a marker deletes it from everyone's map.
+
+'''''
+
+Please go to Meetup and sign up so we will have a count for the food.
+https://www.meetup.com/__ms211046919/okcjug/events/239703457/?rv=ea1&_xtd=gatlbWFpbF9jbGlja9oAJDlmZTQ3OGU1LTc5M2MtNDk1Yy1hN2I0LWU4N2RlYTg3NzE5Yw&_af=event&_af_eid=239703457&expires=1494014298103&sig=d16105fe5be7d36d9358d4cdd34a34c3dc3e715d[Meetup]
+We thank http://techlahoma.org/[Techlahoma] for generously
+providing the food and drink, and to
+http://www.starspace46.com/[StarSpace46] for providing the facility.

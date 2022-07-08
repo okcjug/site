@@ -1,0 +1,51 @@
+---
+title: "2017 April Meeting"
+date: 2017-04-05
+type: post
+tags: blog
+status: published
+author: 8
+---
+
+== When: April 11, 2017    11:30 - 13:00
+
+== Where: StarSpace46  1141 W. Sheridan Avenue
+
+[[mapDiv]]
+
+Website: http://www.starspace46.com/
+
+== [.m_-8007405605425576190gmail-il]#Counselor: Ryan Hoegg #
+
+== Topic: [.im]#We need to talk about "Production" #
+
+=== Hey Java Developers,
+
+I've been meaning to talk to you about something. We've been working
+together a while now, and I feel like you might not always give
+Production the respect it deserves. You don't always invite it to your
+requirements meetings, or work with it much during development.
+Sometimes it feels like you just hand Production your code and move on
+to other things!
+
+I'm setting up a meeting next week ([.aBn]#[.aQJ]#April 11##) to see if
+we can improve your working relationship.  Here's a rough agenda. I'll
+bring some background on these things, and I hope I can get some good
+conversation started and improve your relationship:
+
+* Service Discovery
+* Configuration
+* Secrets
+* Health
+* Logging
+* Monitoring
+* Telemetry
+* Capacity
+
+
+
+Please go to Meetup and sign up so we will have a count for the food.
+http://meetu.ps/e/CjXlj/hQ4T0/d[Meetup] We thank
+http://techlahoma.org/[Techlahoma] for generously providing the food
+and drink, and to http://www.starspace46.com/[StarSpace46] for providing
+the facility.

@@ -1,0 +1,31 @@
+---
+title: "May 2012 Meeting"
+date: 2012-04-19
+type: post
+tags: blog
+status: published
+author: 3
+---
+
+== **Monthly Meeting**  (http://okcjug.org/registration[register here])
+
+* **When:** May 8,
+11:30-12:40
+* **Where:**  http://thediv.org/contact-us/[theDiv]
+* *Sponsor:* none
+* **Speaker:** http://okcjug.org/bios/greg-bugaj[Greg Bugaj]
+* **Topic: **PhantomSQL
+
+Agenda
+
+* 11:30 am â€“ Welcome Announcements & Sponsor
+* 11:40 am â€“ Main Presentation
+* 12:40 pm â€“ Wrap Up
+
+Presentation Information
+
+PhantomSQL is a domain specific language designed for mining content
+from static and dynamic sources,
+It closely resembles SQL
+with features borrowed from Python and Ruby. This talk will cover both
+technical and not technical aspect of the language.

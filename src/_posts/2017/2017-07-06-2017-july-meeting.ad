@@ -1,0 +1,44 @@
+---
+title: "2017 July Meeting"
+date: 2017-07-06
+type: post
+tags: blog
+status: published
+author: 8
+---
+
+== When: July 11, 2017    11:30 - 13:00
+
+== Where: StarSpace46  1141 W. Sheridan Avenue
+
+[[mapDiv]]
+
+Website: http://www.starspace46.com/
+
+== [.m_-8007405605425576190gmail-il]#Speaker: Dylan Forciea #
+
+== Topic: [.im]#Akka Actors #
+
+Have you been frustrated trying to write a multithreaded program and
+sticking synchronized on all of your methods? Can 't tell your monitors
+from your semaphores? There has to be a better way! In this talk,
+we 'll discuss actor-based concurrency and how it can simplify
+multithreaded programming. We will distill down Akka Actors, a JVM
+implementation of the concurrency model that made Erlang famous. Hope to
+see you there.
+
+Bio: Dylan Forciea is a software engineer at Oseberg, Inc. in Oklahoma
+City. He has worked on lots of object-oriented software using Java and
+C++,  and now uses Scala to write software for the oil and gas
+industry. Prior to joining Oseberg, he has worked on systems ranging
+from image processing to satellite tasking and control to high rate data
+acquisition applications at companies such as Raytheon and Sandia
+National Laboratories.
+
+'''''
+
+Please go to Meetup and sign up so we will have a count for the food.
+https://www.meetup.com//okcjug/events/241104211/?showDescription=true[Meetup]
+We thank http://techlahoma.org/[Techlahoma] for generously
+providing the food and drink, and to
+http://www.starspace46.com/[StarSpace46] for providing the facility.

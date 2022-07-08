@@ -1,0 +1,47 @@
+---
+title: "2019 April Meeting"
+date: 2019-04-01
+type: post
+tags: blog
+status: published
+author: 11
+---
+
+== When: Tuesday April 9th 11:30 - 13:00
+
+== Where: StarSpace46 / Techlahoma 1141 W. Sheridan Avenue
+
+== Topic: Reactive Programming Applying Duality: The Lost Art of Denotational Semantics +
+
+The phrase Denotational Semantics is an academic term for mapping
+programs to mathematical objects as a way to define their meanings. This
+phrase is not well-known in industry but we use it here to make it clear
+that this presentation is a shamelss rip off of a talk by Erik Meijer of
+a similar title. Erik Meijer, the founder of Applied Duality, is often
+cited as the inventor of 'reactive', a group of frameworks which have
+shown up in almost every programming language. The universal
+applicability of Meijer's initial reactive framework is attributed by
+Meijer to long-established mathematical principles such as currying,
+duality, and coproducts. With these few simple constructions we can
+understand a wide variety of interfaces in a deeper way.
+
+As a practical example, we will cover Meijer's derivation of
+Observable/Observer interfaces as duals of Iterable/Iterator interfaces.
+The takeaway is that every developer can apply denotational semantics to
+better design and implement common programs. +
+
+=== Speaker: +
+
+*Justin Thomas*
+
+Justin is an awesome, funny Math guy who's became a Java prodigy in the
+last 5 years - switching from academia to the software industry. He
+holds a PhD in Mathematics from Northwestern University, and works at
+PCI as a Senior Principal Developer. He's got a passion for system
+architecture and super-clean well-structured code.
+
+*RSVP via Meetup*: https://www.meetup.com/okcjug/events/260243783/
+
+*StarSpace46 / Techlahoma*: 1141 W Sheridan Ave, Oklahoma City, OK 73106
+
+[[mapDiv]]

@@ -1,0 +1,34 @@
+---
+title: "September 2009"
+date: 2009-09-10
+type: post
+tags: blog
+status: published
+author: 1
+---
+
+== Lunch Meeting (link:/component/option,com_attend_events/task,view/id,40[register here]) +
+
+* When: September 8, 11:30-12:40
+* Where: Oklahoma City Coworking Collaborative **
+(seehttp://okccoco.com/?page_id=109[Meeting location])
+* Topic: Mockito
+* Speaker: link:/content/view/41/34/[Ryan Hoegg] +
+
+*Agenda*
+
+* 11:30 am - Welcome Announcements
+
+* 11:40 am - Main Presentation
+* 12:40 pm - Wrap Up
+
+== Presentation Information
+
+Mocking is a technique that comes in handy for many kinds of automated
+tests. Mockito is a Java framework that (in the project's own words)
+"tastes really good". I'll briefly present the different ways to use
+stubs and mocks, then roll up my sleeves and get into the code with you.
+Those of you who have not done much with mock objects will leave with a
+basic understanding of the technique and the Mockito library. Those of
+you who are already familiar with the technique, come armed with your
+tough questions!"

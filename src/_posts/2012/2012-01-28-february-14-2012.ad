@@ -1,0 +1,36 @@
+---
+title: "February 14, 2012"
+date: 2012-01-28
+type: post
+tags: blog
+status: published
+author: 3
+---
+
+== *Monthly Meeting (http://okcjug.org/registration[register here])*
+
+* *When:* February 14,
+11:30-12:40
+* *Where:* Oklahoma City Coworking Collaborative (see
+http://okccoco.com/?page_id=109[Meeting location])
+* *Sponsor:* ?
+* *Speaker:* http://okcjug.org/bios/jason-lee[Jason Lee]
+* *Topic:* Contexts and Dependency Injection
+
+== *Agenda*
+
+* 11:30 am â€“ Welcome Announcements
+* 11:40 am â€“ Main Presentation
+* 12:40 pm â€“ Wrap Up
+
+*Presentation Information* Java EE has had dependency injection for
+quite some time now.  The problem is that each system (e.g., EJB and
+JSF) have been left to specify and implement the feature on its own.
+ This has led to multiple, not quite compatible implementations.
+ Delivered as part of Java EE 6, CDI (JSR 299, Contexts and Dependency
+Injection) attempts to fix that by specifying IoC semantics that can be
+shared across subsystems (EJB, JSF, JPA, JAX-RS, etc).  In addition to
+basic injection, CDI offers means of decoration and interception, as
+well as a light-weight pub-sub event system.  In this presentation, we
+will hit the highlights of the major features of CDI, giving you
+concrete examples to get you going in your own applications.

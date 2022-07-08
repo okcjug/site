@@ -1,0 +1,52 @@
+---
+title: "2018 May Meeting"
+date: 2018-05-02
+type: post
+tags: blog
+status: published
+author: 8
+---
+
+== When: May 8, 2018    11:30 - 13:00
+
+== Where: StarSpace46  1141 W. Sheridan Avenue
+
+[[mapDiv]]
+
+Website: http://www.starspace46.com/
+
+== [.m_-8007405605425576190gmail-il]##Speaker: ##Jason Lee
+
+== Topic: Jerkey: An introduction to Kotlin DSLs using Jersey
+
+One of the many strengths of Kotlin is the ease with it allows us to
+write Domain Specific Languages. Perhaps you've seen Anko for Android,
+or maybe TornadoFX for JavaFX and gotten the itch to write your own, or
+maybe just wondered how its done. Wonder know more! In this session,
+we'll start from the beginning as we build Jerkey, Kotlin-based DSL for
+building Jersey applications (Jersey + Kotlin = Jerkey ;). We'll start
+by covering the basics you need to understand in order write a DSL.
+Next, we'll spec out how we want the DSL to look and work, and, finally,
+we'll implement it and in doing so demonstrate not only the power of
+Kotlin, but how well the Kotlin/Java interop really is by showing code
+paths bouncing between Java and Kotlin code. fun willBeHadByAll() \{ }
+
+=== [.im]#Speaker Bio #
+
+[.im]#Jason Lee is a Senior Principal Software Engineer with Oracle,
+where he functions as his team's architect. Prior to Oracle, he worked
+for NetSuite and Sun Microsystems, both of which were acquired by Big
+Red (so if you're hoping to be acquired by Oracle, give him a call).
+With over 21 years of experience, he has worked with a number of
+programming languages (Java, C/C++, Javascript, PHP, Python, Delphi and
+so on) in a variety of industries, with Java -- and Java EE -- being the
+primary focus for well over a decade now. He found Kotlin a few years
+ago, and has been trying to use it everywhere possible. #
+
+'''''
+
+Please go to https://www.meetup.com/okcjug/events/250327922[Meetup] and
+sign up so we will have a count for the food. We thank
+http://techlahoma.org/[Techlahoma] for generously providing the food
+and drink, and to http://www.starspace46.com/[StarSpace46] for providing
+the facility.

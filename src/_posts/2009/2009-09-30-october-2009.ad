@@ -1,0 +1,43 @@
+---
+title: "October 2009"
+date: 2009-09-30
+type: post
+tags: blog
+status: published
+author: 1
+---
+
+== Lunch Meeting (link:/registration[register here])
+
+* When: October 13,
+11:30-12:40
+* Where: Oklahoma City Coworking Collaborative ** (see
+http://okccoco.com/?page_id=109[Meeting location])
+* Topic: Balsamiq and Groovy
+* Speaker: link:/bios/chad-gorshing[Chad Gorshing]
+
+*Agenda*
+
+* 11:30 am - Welcome Announcements
+* 11:40 am - Main Presentation
+* 12:40 pm - Wrap Up
+
+== Presentation Information
+
+Do not confuse Balsamiq Mockups for anything related to Mockito, JMock
+or the like. Balsamiq Mockups is a product designed to help you and your
+team or clients design a wireframe GUI mockup quickly and easily.
+
+http://okcjug.org/wp-content/uploads/2009/09/Balsamiq-iphone.png[image:http://okcjug.org/wp-content/uploads/2009/09/Balsamiq-iphone-165x300.png[Balsamiq
+iPhone Mock-up,width=165,height=300]]
+
+"
+
+http://okcjug.org/wp-content/uploads/2009/09/BalsamiqMockupExample1.png[image:http://okcjug.org/wp-content/uploads/2009/09/BalsamiqMockupExample1-300x160.png[Balsamiq
+Desktop UI Mockup,width=300,height=160]]
+
+"
+
+Following a short demo of Balsamiq, we will cover the Groovy language.Â
+The basics will be assumed as Les Martin presented this in Sept. 2008,
+and hopefully we will be taken further down the rabbit hole.

@@ -1,0 +1,39 @@
+---
+title: "2017 December Meeting"
+date: 2017-12-07
+type: post
+tags: blog
+status: published
+author: 8
+---
+
+== When: December 12, 2017    11:30 - 13:00
+
+== Where: StarSpace46  1141 W. Sheridan Avenue
+
+[[mapDiv]]
+
+Website: http://www.starspace46.com/
+
+== [.m_-8007405605425576190gmail-il]##Speaker: ##Jason Lee
+
+== Topic: Kotlin All the Way Down[.im]## ##
+
+Recently, JetBrains held the (inaugural?) KotlinConf in San Francisco.
+Along with the conference came management application to help attendees
+manage their schedule. What made the application unique is that every
+part was written in Kotlin: the web site, the mobile application and the
+shared backend. In this session, we will look at some of these
+technologies, namely the web application framework Ktor and the Android
+application development library Anko, as we build a vastly simplified
+mobile app and backend. This demo application should give you all you
+need both to understand how each of these projects work as well as how
+to build your mobile application, all in Kotlin.
+
+'''''
+
+Please go to Meetup and sign up so we will have a count for the food.
+https://www.meetup.com/okcjug/events/245719737/?showDescription=true[Meetup]
+We thank http://techlahoma.org/[Techlahoma] for generously
+providing the food and drink, and to
+http://www.starspace46.com/[StarSpace46] for providing the facility.

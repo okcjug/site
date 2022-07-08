@@ -1,0 +1,35 @@
+---
+title: "August 9, 2001 Meeting"
+date: 2011-07-12
+type: post
+tags: blog
+status: published
+author: 3
+---
+
+== Monthly Meeting (link:/registration[register here])
+
+**When:**August 9, 11:30-12:40 *Where:* Oklahoma City Coworking
+Collaborative (see http://okccoco.com/?page_id=109[Meeting location])
+**Sponsor:**Valtech **Speaker:**Scott Centille *Topic:* Spring Roo
+Revistited
+
+=== Agenda
+
+* 11:30 am â€“ Welcome Announcements
+* 11:40 am â€“ Main Presentation
+* 12:40 pm â€“ Wrap Up
+
+== Presentation Information
+
+http://okcjug.org/wp-content/uploads/2011/01/scottc.jpg[image:http://okcjug.org/wp-content/uploads/2011/01/scottc.jpg[image,width=102,height=149]]"
+As a Java Developer, we all want to be more productive. Spring Roo can
+help by creating and managing your Spring-based applications by allowing
+you to easily add and configure features such as JPA, Spring MVC,
+WebFlow, JMS, Email, and Spring Security. For the June 2010 session, an
+introduction to Spring Roo was presented. However, in this session, we
+will revisit Spring Roo as a rapid application development framework,
+examine it's default architecture, see how usage of AspectJ's Inter-type
+declaration(ITD) features can reduce boilerplate code, quickly build and
+deploy a complete Spring MVC application and show usage of the
+incremental database reverse engineering (DBRE) addon.

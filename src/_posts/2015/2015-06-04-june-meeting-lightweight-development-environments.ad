@@ -1,0 +1,34 @@
+---
+title: "June Meeting: Lightweight Development Environments"
+date: 2015-06-04
+type: post
+tags: blog
+status: published
+author: 4
+---
+
+== When: June 9, 2015    11:30 - 13:00
+
+== Where: Prototek    401 NW 10th St.   Downtown OKC
+
+[[mapDiv]]
+
+Website: http://prototekokc.com/"
+
+== Speaker: Brett Schuchert
+
+== Topic: Lightweight Development Environments with Vagrant
+
+On software development teams,
+a lot of time,
+effort, and
+wasted work can come from the manual and unnecessarily complex way team
+members set up their development environments.  Brett will explain the
+ideas behind lightweight, reproducible, and portable development
+environments, and demonstrate the use of Vagrant to create them.
+
+== Pizza, Chairs, etc.
+
+We thank http://techlahoma.org/[Techlahoma] for generously
+providing the materials for the meeting, including the projector,
+pizza, and chairs.

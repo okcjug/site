@@ -1,0 +1,60 @@
+---
+title: "2019 March Meeting"
+date: 2019-02-02
+type: post
+tags: blog
+status: published
+author: 11
+---
+
+== When: Tuesday, March 12th 11:30 - 13:00
+
+== Where: StarSpace46 / Techlahoma 1141 W. Sheridan Avenue
+
+== Topic: Microservices with Micronaut +
+
+As microservices have exploded on to the scene, so have microservice
+frameworks. In the JVM world, we have a myriad of options. In an already
+crowded space, though, a new framework has appeared that is extremely
+promising. Micronaut is a polyglot microservice framework from the
+inventors of the Grails framework, supporting Java, Kotlin, and Groovy
+out of the box. Micronaut ships with support for a wide number of
+capabilities, including dependency injection, aspect oriented
+programming, object relational mapping (via JPA or GORM), cloud native
+features (Consul, Eureka, Kubernetes, AWS, and others),
+serverless/functions-as-a-service, and many more. It even comes with a
+testing framework.
+
+In this presentation, we'll see how to get started using Micronaut using
+a small subset of those features as we build a simple REST service. +
+We'll use JPA for persistence, and secure the application using JSON Web
+Tokens, all fully tested. At the end of the session, we'll have a solid
+foundation for building microservices using this new offering. +
+
+=== Speakers: +
+
+*Jason Lee*
+
+*Jason Lee* is a Senior Member of the Technical Staff for Oracle working
+on the GlassFish Administration Console as well as the RESTful
+Administration interface. Jason has extensive experience working with
+web-based technologies such as JavaServer Faces and Ajax, as well as
+many other enterprise technologies based on the GlassFish platform.
+
+Jason has been writing software professionally since 1997 in a wide
+variety of languages and environments, including Java, PHP, C/C++, and
+Delphi on both Linux/Unix and Windows. You can read more about what
+Jason's working on at his blog.
+
+Most importantly, Jason is married to a beautiful woman and has two sons
+who, thankfully, look like their mother.*John Chesser* has been writing
+Java on the front and back end for 18 years. John focuses on keeping it
+simple. He has experience writing full systems from scratch and
+maintaining older systems for companies like Creative Labs Inc. and
+Powercosts Inc.
+
+*RSVP via Meetup*: https://www.meetup.com/okcjug/events/258628656/
+
+*StarSpace46 / Techlahoma*: 1141 W Sheridan Ave, Oklahoma City, OK 73106
+
+[[mapDiv]]

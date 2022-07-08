@@ -1,0 +1,26 @@
+---
+title: "OKCJUG July 2013 Meeting"
+date: 2013-07-08
+type: post
+tags: blog
+status: published
+author: 6
+--- Some see Mark Smith talk about
+Algorithms. Tuesday, 7/9 @11:30, NW Library
+https://plus.google.com/events/cq5p987277q8umhvgmj2bn83src
+
+This presentation will use several sorting algorithms to explore how to
+evaluate how "good" your algorithm is and the process by which to test
+and evaluate it.
+
+We will explore the Quciksort in java and Groovy.
+
+If time allows we will also look at bubble sort, merge sort and heap
+sort.
+
+We will use the Big O notation to determine the "Goodness" of an
+algorithm.
+
+Come and build your ability to examine and think about the quality of
+your algorithms. This will be especially important to us as we begin to
+face the daunting task of dealing with today's Big Data demands.

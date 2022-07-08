@@ -1,0 +1,44 @@
+---
+title: "December 2008"
+date: 2009-09-10
+type: post
+tags: blog
+status: published
+author: 1
+---
+
+== Lunch Meeting (link:index.php?option=com_attend_events&task=view&id=28[register here] ) +
+
+When: December 9, 2008
+11:30-12:40
+
+Where: University of Phoenix room *308 * (see
+link:/component/option,%20%3Ca%20href=[illness] com_google_maps/Itemid,
+31/" title: ""Meeting
+location">Meeting location or http://tinyurl.com/6xz439[here] )
+
+* Topic:  Java Collections Framework
+
+Speaker: Paul Smith & link:content/view/91/34/[Brian Sheldon] +
+
+Sponsor: Teksystems
+
+*Agenda*
+
+* 11:30 am - Welcome Announcements
+
+* 11:40 am - Main Presentation
+* 12:40 pm - Wrap Up
+
+== NO Evening Meeting (unless more people want it)
+
+== Presentation Information
+
+ We will attempt to cover the basics of the Java Collections Framework.
+Our target audience is people who are fairly new to Java or want to hear
+about different types of collections. We probably won't spend much time
+on the most common collections, like ArrayList or HashMap. And yes,
+Brett, we will talk about ConcurrentHashMap If time allows, we may
+discuss other collection frameworks like google-collection.
+
+"

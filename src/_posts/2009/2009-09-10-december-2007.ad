@@ -1,0 +1,83 @@
+---
+title: "December 2007"
+date: 2009-09-10
+type: post
+tags: blog
+status: published
+author: 1
+---
+
+== Lunch Meeting - RESCHEDULED
+
+When: December 18,
+2007 11:30-12:40
+
+Where: University of Phoenix room 311 (see
+link:/component/option,%20%3Ca%20href=[help] com_google_maps/Itemid,31/"
+title: ""Meeting location">Meeting location)
+
+* Topic: Cross-Cutting Concerns: Aspect Oriented Programming versus
+rolling your own
+
+Speaker: link:/content/view/48/34/[Stephen Maina]
+([.nobr]#http://www.valtech.com/[Valtech]) #&
+link:/content/view/31/34/[Brett
+Schuchert] (http://objectmentor.com/[Object Mentor][.nobr]##)##
+
+Sponsor: http://www.objectstream.com[Objectstream]
+
+*Agenda*
+
+* 11:30 am - Welcome Announcements
+
+* 11:40 am - Main Presentation
+* 12:40 pm - Wrap Up
+
+== Evening Meeting - RESCHEDULED
+
+* When: December 18, 2007 at 6:00PM
+* Where: University of Phoenix room 311 (see
+link:/component/option,com_google_maps/Itemid,31/[Meeting location])
+* Topic: Cross-Cutting Concerns: Aspect Oriented Programming versus
+rolling your own
+* Speaker: link:/content/view/48/34/[Stephen Maina]
+([.nobr]#http://www.valtech.com/[Valtech]) #&
+link:/content/view/31/34/[Brett
+Schuchert] (http://objectmentor.com/[Object Mentor][.nobr]##)##
+* Sponsor: http://www.objectstream.com[Objectstream]
+
+*Agenda*
+
+* 6:00 pm - Hello Java - ??? +
+* 6:30 pm - Pizza
+* 7:00 pm - Welcome Announcements
+* 7:15 pm - Main Presentation continued
+* 8:45 pm - Giveaways and Wrap Up
+
+== Presentation Information
+
+=== Hello Java
+
+ +
+
+=== Main Presentation
+
+_Cross-Cutting Concerns: Aspect Oriented Programming versus rolling your
+own_
+
+In this session, we will have two presentations that show ways of
+accomplishing cross-cutting concerns; a facet that applies across many
+otherwise unrelated parts of a system. In one presentation, we'll take a
+very quick, code-based tour through using Aspect-J. In the other, we'll
+see reflection used to accomplish similar results.
+
+ +
+
+In the end, you'll have a better idea of ways to deal with cross-cutting
+concerns, which occur in most systems of at least a moderate size.
+
+ +
+
+Come prepared to look at some Java code and ask questions.
+
+"

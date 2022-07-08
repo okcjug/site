@@ -1,0 +1,29 @@
+---
+title: "June 2011 Meeting"
+date: 2011-05-11
+type: post
+tags: blog
+status: published
+author: 3
+---
+
+== Monthly Meeting (http://okcjug.org/registration[register here])
+
+*When*: June 14, 11:30-12:40 *Where*: Oklahoma City Coworking
+Collaborative (see http://okccoco.com/?page_id=109[Meeting location])
+*Sponsor*: *Speaker*: http://okcjug.org/bios/alex-miller[Alex Miller]
+*Topic*: Clojure Life *Agenda* 11:30 am â€“ Welcome Announcements 11:40
+am â€“ Main Presentation 12:40 pm â€“ Wrap Up
+
+== Presentation Information
+
+=== Clojure Life by Alex Miller
+
+Clojure is a new language that combines the power of Lisp with
+an existing hosted VM ecosystem (the Java VM).  Clojure is a
+dynamically typed, functional, compiled language with performance on
+par with Java. This talk will introduce the Clojure language using
+Conway's classic "game of life" with cellular automata.  We'll look at
+a Clojure implementation and explore different design choices around
+data representation and concurrency while digressing to teach the
+basics of the language itself.

@@ -1,0 +1,40 @@
+---
+title: "April 2009"
+date: 2009-09-10
+type: post
+tags: blog
+status: published
+author: 1
+---
+
+== Lunch Meeting (link:/index.php?option=com_attend_events&task=view&id=33[register here] ) +
+
+When: April 14,
+11:30-12:40
+
+Where: Oklahoma City Coworking Collaborative** ** (see
+http://okccoco.com/?page_id=109[Meeting location] )
+
+* Topic:  Griffon: Crash Course +
+
+Speaker: link:/content/view/82/34/[Les Martin] +
+
+*Agenda*
+
+* 11:30 am - Welcome Announcements
+
+* 11:40 am - Main Presentation
+* 12:40 pm - Wrap Up
+
+== Presentation Information +
+
+With so much development on web-based applications the desktop hasn't
+gotten much love in the last decade.  Frameworks based on the popular
+Ruby on Rails framework have sprouted up all over the web to help make
+developing web applications a zip.  Out of the growing popularity of the
+Groovy dynamic programming language for the Java platform a new
+framework has spawned.  A framework that has taken the concept of
+"convention over configuration" and made it at home in the Java desktop
+world.  Introducing Griffon. This ain't yer momma's Swing framework.
+
+"

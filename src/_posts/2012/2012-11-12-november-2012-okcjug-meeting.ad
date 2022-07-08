@@ -1,0 +1,32 @@
+---
+title: "November 2012 OKCJUG Meeting"
+date: 2012-11-12
+type: post
+tags: blog
+status: published
+author: 3
+---
+
+== **Monthly Meeting**  (https://plus.google.com/events/c0f7imc49ua5r8rbghe0qh0khbc[register here])
+
+* **When:** November 13,
+11:30-12:43
+* **Where:**Â
+https://plus.google.com/100007003478549060663/about?hl=en[Belle Isle
+Library]
+* *Speaker:* http://okcjug.org/bios/jason-lee[Jason Lee]
+* *Topic: Arquillian -* JBoss Testing Platform
+
+Agenda
+
+* 11:30 am â€“ Welcome Announcements
+* 11:40 am â€“ Main Presentation
+* 12:43 pm â€“ Wrap Up
+
+Presentation Information: Arquillian is a revolutionary testing platform
+built on the JVM that substantially reduces the effort required to write
+and execute Java middleware integration and functional tests. No more
+mocks. No more container lifecycle and deployment hassles. Just real
+tests!
+http://okcjug.org/wp-content/uploads/2012/11/arqdemo.tar.gz[Source] and
+http://okcjug.org/wp-content/uploads/2012/11/Y-U-No-Test.odp[slides].

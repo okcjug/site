@@ -1,0 +1,50 @@
+---
+title: "2018 June Meeting"
+date: 2018-06-05
+type: post
+tags: blog
+status: published
+author: 8
+---
+
+== When: June 12, 2018    11:30 - 13:00
+
+== Where: StarSpace46  1141 W. Sheridan Avenue
+
+[[mapDiv]]
+
+Website: http://www.starspace46.com/
+
+== [.m_-8007405605425576190gmail-il]##Speaker: ##Brent Wilkins
+
+== Topic: Java 9 Modules: What's the Hype All About?
+
+One of the biggest hypes about Java 9 is the Java Platform Modular
+System (JPMS) or Project Jigsaw. Modules give us 3 core principals:
+
+* Strong Encapsulation
+* Stable Abstraction
+* Explicit Dependencies
+
+In this talk we will discuss the history of JPMS, look at some of its
+core features and do some demos.
+
+=== [.im]#Speaker Bio #
+
+Brent Wilkins is a Senior Java Developer at Hobby Lobby, where he works
+on the HobbyLobby.com ecommerce website as a full-stack developer.
+Before that he spent 25 years in IT at The Hertz Corporation developing
+and architecting the full-stack Java platform for their US Rent-A-Car
+locations.   Slides for the presentation:
+http://okcjug.org/wp-content/uploads/Java-9-Modules.pdf[Java 9 Modules]
+Steps to recreate the Demo:
+http://okcjug.org/wp-content/uploads/Java-9-Modules-Notes.txt[Java 9
+Modules - Notes]
+
+'''''
+
+Please go to https://www.meetup.com/okcjug/events/251416031[Meetup] and
+sign up so we will have a count for the food. We thank
+http://techlahoma.org/[Techlahoma] for generously providing the food
+and drink, and to http://www.starspace46.com/[StarSpace46] for providing
+the facility.
