@@ -1,4 +1,4 @@
-title: "OKC JUG"
+title: "Oklahoma City Java Users Group"
 email: your-email@example.com
 description: OKC JUG site
 baseurl: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -70,7 +70,7 @@ pagination:
 
   # Optional, the default name of the index file for generated pages (e.g. 'default.html')
   # Without file extension
-  # indexpage: 'index'
+  indexpage: 'index'
 
 asciidoctor:
   attributes:

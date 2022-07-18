@@ -5,24 +5,17 @@ type: post
 tags: blog
 status: published
 author: 8
+when: 2018-03-13 11:30
+location: StarSpace46 / Techlahoma 1141 W. Sheridan Avenue
+topic: "Pentaho - Data Integration"
 ---
-
-== When: March 13, 2018    11:30 - 13:00
-
-== Where: StarSpace46  1141 W. Sheridan Avenue
-
-[[mapDiv]]
-
-Website: http://www.starspace46.com/
-
-== [.m_-8007405605425576190gmail-il]##Speaker: ##Brent Wilkins
-
-== Topic: [.im]#Pentaho - Data Integration #
 
 Pentaho Data Integration enables users to ingest, blend, cleanse and
 prepare diverse data from any source. With visual tools to eliminate
 coding and complexity, Pentaho puts all data sources and the best
 quality data at the fingertips of business and IT users.
+
+=== Speaker: Brent Wilkins
 
 '''''
 

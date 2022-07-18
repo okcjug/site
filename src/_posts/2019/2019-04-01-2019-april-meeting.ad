@@ -5,13 +5,10 @@ type: post
 tags: blog
 status: published
 author: 11
+when: 2019-04-09 11:30
+location: StarSpace46 / Techlahoma 1141 W. Sheridan Avenue
+topic: "Reactive Programming Applying Duality: The Lost Art of Denotational Semantics"
 ---
-
-== When: Tuesday April 9th 11:30 - 13:00
-
-== Where: StarSpace46 / Techlahoma 1141 W. Sheridan Avenue
-
-== Topic: Reactive Programming Applying Duality: The Lost Art of Denotational Semantics +
 
 The phrase Denotational Semantics is an academic term for mapping
 programs to mathematical objects as a way to define their meanings. This
@@ -28,9 +25,9 @@ understand a wide variety of interfaces in a deeper way.
 As a practical example, we will cover Meijer's derivation of
 Observable/Observer interfaces as duals of Iterable/Iterator interfaces.
 The takeaway is that every developer can apply denotational semantics to
-better design and implement common programs. +
+better design and implement common programs.
 
-=== Speaker: +
+=== Speaker:
 
 *Justin Thomas*
 

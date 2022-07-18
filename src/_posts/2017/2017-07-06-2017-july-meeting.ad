@@ -17,7 +17,7 @@ Website: http://www.starspace46.com/
 
 == [.m_-8007405605425576190gmail-il]#Speaker: Dylan Forciea #
 
-== Topic: [.im]#Akka Actors #
+== Topic: Akka Actors #
 
 Have you been frustrated trying to write a multithreaded program and
 sticking synchronized on all of your methods? Can 't tell your monitors

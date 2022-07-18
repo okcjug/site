@@ -5,26 +5,17 @@ type: post
 tags: blog
 status: published
 author: 8
+when: 2018-17-10 11:30
+location: StarSpace46 / Techlahoma 1141 W. Sheridan Avenue
+topic: "Rust For Java Developers"
 ---
-
-== When: Tuesday, July 10, 2018    11:30 - 13:00
-
-== Where: StarSpace46  1141 W. Sheridan Avenue
-
-[[mapDiv]]
-
-Website: http://www.starspace46.com/
-
-== [.m_-8007405605425576190gmail-il]##Speaker: ##Mitch Blevins
-
-== Topic: Rust For Java Developers
 
 Rust is a systems language from Mozilla designed for speed, safety, and
 fearless concurrency. For the Java developer looking to expand horizons,
 it has features and ideas that you may not even realize that you were
 missing.
 
-=== [.im]#Speaker Bio #
+=== Speaker:
 
 Mitch Blevins has been programming Java for 13 years and was an early
 Scala fanboi. He is currently fascinated by Rust.

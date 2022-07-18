@@ -5,19 +5,10 @@ type: post
 tags: blog
 status: published
 author: 8
+when: 2018-01-09 11:30
+location: StarSpace46 / Techlahoma 1141 W. Sheridan Avenue
+topic: "Google Web Toolkit"
 ---
-
-== When: January 9, 2018    11:30 - 13:00
-
-== Where: StarSpace46  1141 W. Sheridan Avenue
-
-[[mapDiv]]
-
-Website: http://www.starspace46.com/
-
-== [.m_-8007405605425576190gmail-il]##Speaker: ##James Bearden
-
-== Topic: [.im]#Google Web Toolkit #
 
 Google Web Toolkit is a development toolkit for building and optimizing
 complex browser-based applications. Its goal is to enable productive
@@ -27,14 +18,14 @@ JavaScript. Basically software is written in Java and then translated
 into JavaScript. It is open source, completely free, and used by
 thousands of developers around the world. More information is available
 at
-https://urldefense.proofpoint.com/v2/url?u=http-3A__www.gwtproject.org_&d=DwMFaQ&c=AY-yVZ-DdqDeX_Emj_gQCkuxsL_QuG_4YQ-FxcTYVkY&r=jGZpShqZMka_zNl1kNNR_VUqxoG4-lAOZlOrBejJ4HU&m=Perw8253eQtZxNl6D_Iup7cjhB8vALzzZxtII9ZAESo&s=ckjC0IBfbDZQFOz7uW16N5tZe7PDP-83DIrJ3HM2VDY&e=[http://www.gwtproject.org/]
+https://www.gwtproject.org[http://www.gwtproject.org/]
 
 === Speaker:
 
 James Bearden is owner of Nontrivial Solutions, which provides IT
 support to small businesses. The main focus of Nontrivial Solutions is
 an web based medical records and billing system
-(https://urldefense.proofpoint.com/v2/url?u=http-3A__chartcaddy.com&d=DwMFaQ&c=AY-yVZ-DdqDeX_Emj_gQCkuxsL_QuG_4YQ-FxcTYVkY&r=jGZpShqZMka_zNl1kNNR_VUqxoG4-lAOZlOrBejJ4HU&m=Perw8253eQtZxNl6D_Iup7cjhB8vALzzZxtII9ZAESo&s=a-GlcSwPyHK3oTjNSm3KRTnjkvyU0f3KTWOCMg_qjGk&e=[chartcaddy.com])
+(https://www.chartcaddy.com/index.html[chartcaddy.com])
 targeting outpatient behavioral health agencies. The front end for
 ChartCaddy is written with Google Web Toolkit. James graduated from The
 Ohio State University and has over 15 years experience programming Java

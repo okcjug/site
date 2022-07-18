@@ -17,7 +17,7 @@ Website: http://www.starspace46.com/
 
 == [.m_-8007405605425576190gmail-il]#Speaker: Jordan Parmer #
 
-== Topic: [.im]#Reactive Streams #
+== Topic: Reactive Streams #
 
 Ever read bytes from a file, packets from a network socket, records from
 a database, or messages from a message queue and run into problems with

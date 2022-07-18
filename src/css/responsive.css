@@ -3,8 +3,8 @@ File Name: responsive.css
 ---------------------------------------------------------------------*/
 
 @media (min-width: 1343px) and (max-width: 1500px) {
-   
-   
+
+
 }
 
 @media (min-width: 1200px) and (max-width: 1342px) {
@@ -15,49 +15,49 @@ File Name: responsive.css
 }
 
 @media (min-width: 992px) and (max-width: 1199px) {
-  
+
     .site-navbar ul li {
         padding-right: 57px;
     }
-       .full_bg { margin: 0 30px 52px 30px; padding: 0 25px 25px 25px;}
+    .full_bg { margin: 0 30px 52px 30px; padding: 0 25px 25px 25px;}
     .slider_main {height: 100%;}
     .creative h1 {
-    font-size: 52px;
-    line-height: 55px;
-}
-   .titlepage h2 {
-    font-size: 21px;
-    line-height: 29px;
-}
-.combined .titlepage p {
-    padding-top: 10px;
-    padding-bottom: 20px;
-}
-.dicti h4 {font-size: 19px;}
+        font-size: 52px;
+        line-height: 55px;
+    }
+    .titlepage h2 {
+        font-size: 21px;
+        line-height: 29px;
+    }
+    .combined .titlepage p {
+        padding-top: 10px;
+        padding-bottom: 20px;
+    }
+    .dicti h4 {font-size: 19px;}
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
-   
+
     .site-navbar ul li {
         padding-right: 31px;
     }
-       .full_bg { margin: 0 30px 52px 30px; padding: 0 25px 25px 25px;}
+    .full_bg { margin: 0 30px 52px 30px; padding: 0 25px 25px 25px;}
     .slider_main {height: 100%;}
     .creative h1 {
-    font-size: 52px;
-    line-height: 55px;
-}
-.perfect_img {
+        font-size: 52px;
+        line-height: 55px;
+    }
+    .perfect_img {
 
-    max-width: 712px;
-    margin: 0 auto;
-    margin-top: 40px;
+        max-width: 712px;
+        margin: 0 auto;
+        margin-top: 40px;
 
-}
-.clients_banner {padding-top: 30px;}
-.flot_right {float: left !important;}
-.dicti h4 {font-size: 22px;}
- .grid {
+    }
+    .clients_banner {padding-top: 30px;}
+    .flot_right {float: left !important;}
+    .dicti h4 {font-size: 22px;}
+    .grid {
         display: grid;
     }
     .order {
@@ -69,36 +69,36 @@ File Name: responsive.css
     .d_none {display: none;}
     .navbar-area {justify-content: flex-end;}
     ul.email {padding-right: 25px;}
-        .full_bg {
-    margin: 0 15px 52px 15px;
-    padding: 0 15px 15px 15px;
-}
+    .full_bg {
+        margin: 0 15px 52px 15px;
+        padding: 0 15px 15px 15px;
+    }
     .slider_main {height: 100%;}
     .creative h1 {
-    font-size: 52px;
-    line-height: 55px;
-}
-.perfect_img {
+        font-size: 52px;
+        line-height: 55px;
+    }
+    .perfect_img {
 
-    max-width: 712px;
-    margin: 0 auto;
-    margin-top: 40px;
+        max-width: 712px;
+        margin: 0 auto;
+        margin-top: 40px;
 
-}
-.clients_banner {padding-top: 30px;}
-.flot_right {float: left !important;}
+    }
+    .clients_banner {padding-top: 30px;}
+    .flot_right {float: left !important;}
 
- .grid {
+    .grid {
         display: grid;
     }
     .order {
         order: -1;
     }
     .dicti {
-    max-width: 505px;
-    margin: 0 auto;
-    margin-top: 30px;
-}
+        max-width: 505px;
+        margin: 0 auto;
+        margin-top: 30px;
+    }
     /* navbar css for mobile start */
     .nav-toggler {
         display: block;
@@ -121,7 +121,7 @@ File Name: responsive.css
         overflow: hidden;
         transition: .3s;
         z-index: 99999;
-        
+
     }
     .site-navbar ul li {
         width: 100%;
@@ -140,50 +140,50 @@ File Name: responsive.css
 }
 
 @media (max-width: 575px) {
-  .d_none {display: none;}
-  .header_top {
-    height: 190px;}
+    .d_none {display: none;}
+    .header_top {
+        height: 190px;}
     .navbar-area {justify-content: flex-end;}
     ul.email {padding-right: 25px;}
-        .full_bg {
-    margin: 0 5px 52px 5px;
-    padding: 0 5px 5px 5px;
-}
+    .full_bg {
+        margin: 0 5px 52px 5px;
+        padding: 0 5px 5px 5px;
+    }
     .slider_main {height: 100%;}
-.creative h1 {
-    padding-top: 30px;
-    font-size: 38px;
-    line-height: 39px;
-}
-.creative p {
- 
-    padding: 15px 0 20px 0;
+    .creative h1 {
+        padding-top: 30px;
+        font-size: 38px;
+        line-height: 39px;
+    }
+    .creative p {
 
-}
-.titlepage h2 {font-size: 27px;
-line-height: 35px;}
-.perfect_img {
+        padding: 15px 0 20px 0;
 
-    max-width: 712px;
-    margin: 0 auto;
-    margin-top: 40px;
+    }
+    .titlepage h2 {font-size: 27px;
+        line-height: 35px;}
+    .perfect_img {
 
-}
-.clients_banner {padding-top: 30px;}
-.flot_right {float: left !important;}
-#myCarousel .carousel-control-prev, #myCarousel .carousel-control-next {width: 70px;}
- .grid {
+        max-width: 712px;
+        margin: 0 auto;
+        margin-top: 40px;
+
+    }
+    .clients_banner {padding-top: 30px;}
+    .flot_right {float: left !important;}
+    #myCarousel .carousel-control-prev, #myCarousel .carousel-control-next {width: 70px;}
+    .grid {
         display: grid;
     }
     .order {
         order: -1;
     }
     .dicti {
-    max-width: 505px;
-    margin: 0 auto;
-    margin-top: 30px;
-}
-.dicti h4 {font-size: 19px;}
+        max-width: 505px;
+        margin: 0 auto;
+        margin-top: 30px;
+    }
+    .dicti h4 {font-size: 19px;}
     /* navbar css for mobile start */
     .navbar-area {
         margin-top: -67px;
@@ -209,7 +209,7 @@ line-height: 35px;}
         overflow: hidden;
         transition: .3s;
         z-index: 99999;
-        
+
     }
     .site-navbar ul li {
         width: 100%;

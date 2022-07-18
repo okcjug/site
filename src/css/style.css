@@ -557,13 +557,20 @@ ul.email li a i {
 .creative {
     text-align: left;
     padding: 1em;
-    background-color: rgba(0, 0, 0, 0.1);
+    background-color: rgba(0, 0, 0, 0.4);
     backdrop-filter: blur(5px);
 }
 
 .creative h1 {
     font-size: 67px;
     line-height: 70px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.creative h2 {
+    font-size: 32px;
     color: #fff;
     text-transform: uppercase;
     font-weight: bold;

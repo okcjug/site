@@ -17,12 +17,12 @@ Website: http://prototekokc.com/"
 
 == Speaker: Ryan Hoegg
 
-== Topic: [.im]#Intro to Continuous Delivery#
+== Topic: Intro to Continuous Delivery#
 
-[.im]#Continuous delivery is a central theme in the DevOps movement, and
+Continuous delivery is a central theme in the DevOps movement, and
 certainly a central component of the culture. It is the set of
 engineering techniques, practices, processes, and tools for releasing
-changes to software services frequently and reliably.# [.im]#We 'll
+changes to software services frequently and reliably.# We 'll
 review the concepts involved in CD, take a look a working CD pipeline
 for an example application, and discuss how this could apply to other
 projects.#   Pizza, Chairs, etc. We thank

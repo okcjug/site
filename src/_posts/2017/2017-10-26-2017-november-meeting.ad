@@ -17,7 +17,7 @@ Website: http://www.starspace46.com/
 
 == [.m_-8007405605425576190gmail-il]#Speaker: Hugh McKee, Lightbend #
 
-== Topic: [.im]#The Lagom Microservice Framework #
+== Topic: The Lagom Microservice Framework #
 
 So you're going to build a microservice system. And this is not just any
 system. This system is going to process a ton of traffic, and it cannot

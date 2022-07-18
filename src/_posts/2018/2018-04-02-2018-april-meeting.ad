@@ -5,24 +5,15 @@ type: post
 tags: blog
 status: published
 author: 8
+when: 2018-04-10 11:30
+location: StarSpace46 / Techlahoma 1141 W. Sheridan Avenue
+topic: "Gremlin - Using Graph Database Thinking to Make Database Queries Functional"
 ---
-
-== When: April 10, 2018    11:30 - 13:00
-
-== Where: StarSpace46  1141 W. Sheridan Avenue
-
-[[mapDiv]]
-
-Website: http://www.starspace46.com/
-
-== [.m_-8007405605425576190gmail-il]##Speaker: ##Brent Shambaugh
-
-== Topic: Gremlin - Using Graph Database Thinking to Make Database Queries Functional
-
-== [.im]# #
 
 How to use Gremlin, and how to write a Gremlin query within a Java
 program.
+
+=== Speaker: Brent Shambaugh
 
 '''''
 

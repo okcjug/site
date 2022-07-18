@@ -5,19 +5,10 @@ type: post
 tags: blog
 status: published
 author: 8
+when: 2018-06-12 11:30
+location: StarSpace46 / Techlahoma 1141 W. Sheridan Avenue
+topic: "Java 9 Modules: What's the Hype All About?"
 ---
-
-== When: June 12, 2018    11:30 - 13:00
-
-== Where: StarSpace46  1141 W. Sheridan Avenue
-
-[[mapDiv]]
-
-Website: http://www.starspace46.com/
-
-== [.m_-8007405605425576190gmail-il]##Speaker: ##Brent Wilkins
-
-== Topic: Java 9 Modules: What's the Hype All About?
 
 One of the biggest hypes about Java 9 is the Java Platform Modular
 System (JPMS) or Project Jigsaw. Modules give us 3 core principals:
@@ -29,7 +20,7 @@ System (JPMS) or Project Jigsaw. Modules give us 3 core principals:
 In this talk we will discuss the history of JPMS, look at some of its
 core features and do some demos.
 
-=== [.im]#Speaker Bio #
+=== Speaker:
 
 Brent Wilkins is a Senior Java Developer at Hobby Lobby, where he works
 on the HobbyLobby.com ecommerce website as a full-stack developer.

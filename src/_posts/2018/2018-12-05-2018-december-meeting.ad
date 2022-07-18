@@ -5,26 +5,17 @@ type: post
 tags: blog
 status: published
 author: 8
+when: 2018-12-11 11:30
+location: StarSpace46 / Techlahoma 1141 W. Sheridan Avenue
+topic: "Reactive Micro-Services"
 ---
-
-== When: Tuesday, December 11, 2018    11:30 - 13:00
-
-== Where: StarSpace46  1141 W. Sheridan Avenue
-
-[[mapDiv]]
-
-Website: http://www.starspace46.com/
-
-== [.m_-8007405605425576190gmail-il]##Speaker: ##Andres Barbaro
-
-== Topic: Reactive Micro-Services
 
 We will start by introducing the concept of reactive programming and how
 it can benefit, simplify, and streamline software development and
 deployment. Then we will dig into the Reactor implementation of this
-idea and finally we will run some code to show reactive at work.
+idea, and finally we will run some code to show reactive at work.
 
-=== [.im]#Speaker Bio #
+=== #Speaker Bio
 
 Andres Barbaro is Vice President of Software Development at Power Costs,
 Inc. (PCI); Responsible for managing the software development and
