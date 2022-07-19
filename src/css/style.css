@@ -995,3 +995,23 @@ ul.menu_footer li a:hover {
 .portfolio_page .footer {
     margin-top: 60px;
 }
+
+/** pager **/
+ul.pager {
+    list-style: none;
+}
+
+ul.pager li {
+    display: inline;
+    padding: 5px 5px 5px 10px;
+    border-color: #BABDB6;
+    border-style: solid;
+    border-width: 1px;
+
+}
+
+ul.pager li.selected {
+    background-color: #EEEEFF;
+}
+/** pager **/
+

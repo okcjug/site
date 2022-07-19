@@ -13,6 +13,7 @@ gems:
 plugins:
   - jekyll-feed
   - jekyll-archives
+  - jekyll-paginate-v2
 
 sass:
   style: compressed
@@ -83,7 +84,7 @@ tag_page_layout: tag
 tag_page_dir: tag
 
 excerpt_separator: "// more"
-permalink: /:year/:title:output_ext
+permalink: /news/:year/:title:output_ext
 defaults:
   - scope:
       path: ""
@@ -91,11 +92,11 @@ defaults:
     values:
       layout: "author"
   - scope:
-      path: ""
+      path: "/news"
       type: "posts"
     values:
       layout: "post"
-      permalink: /:year/:title
+      permalink: /news/:year/:title
   - scope:
       path: ""
     values:
