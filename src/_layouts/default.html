@@ -49,7 +49,7 @@
                         </div>
                         <div class=" col-md-8 col-sm-12">
                             <div class="logo">
-                                <a href="index.html">{{ site.title }}</a>
+                                <a href="/index.html">{{ site.title }}</a>
                             </div>
                         </div>
                         <div class="col-md-2 d_none">
@@ -86,6 +86,7 @@
 <!-- end header inner -->
 <!-- banner -->
 <div class="full_bg">
+    {% if page.banner == true %}
     <div class="slider_main">
         <!-- carousel code -->
         <div id="banner1" class="carousel slide">
@@ -117,59 +118,7 @@
                     </div>
                 </div>
                 {% endfor %}
-                <!-- first slide -->
-                <!--<div class="carousel-item active">
-                    <div class="container">
-                        <div class="carousel-caption relative">
-                            <div class="row d_flex">
-                                <div class="col-lg-8 offset-lg-3 col-md-6 offset-md-3">
-                                    <div class="creative">
-                                        <h1>Oklahoma City Java Users Group</h1>
-                                        <p>The home for Java and JVM enthusiasts in Oklahoma City, OK.</p>
-                                        <a class="read_more" href="Javascript:void(0)">Read More</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>-->
-<!--
-                <div class="carousel-item">
-                    <div class="container">
-                        <div class="carousel-caption relative">
-                            <div class="row d_flex">
-                                <div class="col-lg-8 offset-lg-3 col-md-6 offset-md-3">
-                                    <div class="creative">
-                                        <h1>We are help old people </h1>
-                                        <p>All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as
-                                            necessary, making this the first true generator on the Internet. It uses a dictionary of
-                                            over 200 Latin words, combined with</p>
-                                        <a class="read_more" href="Javascript:void(0)">Read More</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <div class="container">
-                        <div class="carousel-caption relative">
-                            <div class="row d_flex">
-                                <div class="col-lg-8 offset-lg-3 col-md-6 offset-md-3">
-                                    <div class="creative">
-                                        <h1>We are help old people </h1>
-                                        <p>All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as
-                                            necessary, making this the first true generator on the Internet. It uses a dictionary of
-                                            over 200 Latin words, combined with</p>
-                                        <a class="read_more" href="Javascript:void(0)">Read More</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
             </div>
--->
             <!-- controls -->
             <a class="carousel-control-prev" href="#banner1" role="button" data-slide="prev">
                 <i class="fa fa-angle-left" aria-hidden="true"></i>
@@ -181,68 +130,13 @@
             </a>
         </div>
     </div>
+    {% endif %}
 </div>
 <!-- end banner -->
 <!-- perfect -->
 <div class="perfect">
     <div class="container_width">
         {{ content }}
-<!--
-        <div class="row d_flex grig">
-            <div class="col-lg-6">
-                <div class="perfect_img">
-                    <span>02 feb</span>
-                    <figure><img src="images/perfe1.jpg" alt="#"/></figure>
-                </div>
-            </div>
-            <div class="col-lg-6 order">
-                <div class="titlepage text_align_left">
-                    <h2>Some Tips for Planning a Perfect Summer Vacation in </h2>
-                    <p>All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the
-                        first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined withAll the
-                        Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first
-                        true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with</p>
-                    <a class="read_more" href="perfect.html">Read More</a>
-                </div>
-            </div>
-        </div>
-        <div class="row d_flex">
-            <div class="col-lg-6">
-                <div class="titlepage flot_right text_align_left">
-                    <h2>Magic: Things You Can’t Resist</h2>
-                    <p>All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the
-                        first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined withAll the
-                        Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first
-                        true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with</p>
-                    <a class="read_more" href="perfect.html">Read More</a>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="perfect_img right_span">
-                    <span>03 feb</span>
-                    <figure><img src="images/perfe2.jpg" alt="#"/></figure>
-                </div>
-            </div>
-        </div>
-        <div class="row d_flex grig">
-            <div class="col-lg-6">
-                <div class="perfect_img">
-                    <span>04 feb</span>
-                    <figure><img src="images/perfe3.jpg" alt="#"/></figure>
-                </div>
-            </div>
-            <div class="col-lg-6 order">
-                <div class="titlepage text_align_left">
-                    <h2>Magic: Things You Can’t Resist</h2>
-                    <p>All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the
-                        first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined withAll the
-                        Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first
-                        true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with</p>
-                    <a class="read_more" href="perfect.html">Read More</a>
-                </div>
-            </div>
-        </div>
--->
     </div>
 </div>
 <!-- end perfect -->
@@ -266,13 +160,13 @@
                                         <div class="row d_flex">
                                             <div class="col-md-6">
                                                 <div class="dicti">
-                                                    <figure><img src="images/test2.png" alt="#"/></figure>
+                                                    <figure><img src="/images/test2.png" alt="#"/></figure>
                                                     <h4>Dictionary</h4>
                                                 </div>
                                             </div>
                                             <div class="col-md-6">
                                                 <div class="dicti">
-                                                    <figure><img src="images/test3.png" alt="#"/></figure>
+                                                    <figure><img src="/images/test3.png" alt="#"/></figure>
                                                     <h4>chunks as necessary,</h4>
                                                 </div>
                                             </div>
@@ -286,13 +180,13 @@
                                         <div class="row d_flex">
                                             <div class="col-md-6">
                                                 <div class="dicti">
-                                                    <figure><img src="images/test2.png" alt="#"/></figure>
+                                                    <figure><img src="/images/test2.png" alt="#"/></figure>
                                                     <h4>Dictionary</h4>
                                                 </div>
                                             </div>
                                             <div class="col-md-6">
                                                 <div class="dicti">
-                                                    <figure><img src="images/test3.png" alt="#"/></figure>
+                                                    <figure><img src="/images/test3.png" alt="#"/></figure>
                                                     <h4>chunks as necessary,</h4>
                                                 </div>
                                             </div>
@@ -306,13 +200,13 @@
                                         <div class="row d_flex">
                                             <div class="col-md-6">
                                                 <div class="dicti">
-                                                    <figure><img src="images/test2.png" alt="#"/></figure>
+                                                    <figure><img src="/images/test2.png" alt="#"/></figure>
                                                     <h4>Dictionary</h4>
                                                 </div>
                                             </div>
                                             <div class="col-md-6">
                                                 <div class="dicti">
-                                                    <figure><img src="images/test3.png" alt="#"/></figure>
+                                                    <figure><img src="/images/test3.png" alt="#"/></figure>
                                                     <h4>chunks as necessary,</h4>
                                                 </div>
                                             </div>
@@ -388,13 +282,13 @@
                     <div class="hedingh3  text_align_left">
                         <h3>Contact Us</h3>
                         <ul class="top_infomation">
-                            <li><img src="images/loc.png" alt="#"/>
+                            <li><img src="/images/loc.png" alt="#"/>
                                 Locations
                             </li>
-                            <li><img src="images/call.png" alt="#"/>
+                            <li><img src="/images/call.png" alt="#"/>
                                 +71 89078493
                             </li>
-                            <li><img src="images/mail.png" alt="#"/>
+                            <li><img src="/images/mail.png" alt="#"/>
                                 <a href="Javascript:void(0)">demo@gmail.com</a>
                             </li>
                         </ul>
@@ -404,10 +298,9 @@
                     <div class="hedingh3 text_align_left">
                         <h3>Useful Link</h3>
                         <ul class="menu_footer">
-                            <li><a href="/default.html">Home</a></li>
-                            <li><a href="/about.html">About</a></li>
-                            <li><a href="/blog.html">Blog</a></li>
-                            <li><a href="/service.html">Service</a></li>
+                            <li><a href="/index.html">Home</a></li>
+                            <li><a href="/about">About</a></li>
+                            <li><a href="/news">News</a></li>
                             <li><a href="/contact.html">Contact</a></li>
                         </ul>
                     </div>

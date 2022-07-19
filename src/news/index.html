@@ -1,0 +1,14 @@
+---
+title: About
+layout: default
+pagination:
+    enabled: true
+---
+
+<ul>
+{% for post in paginator.posts %}
+<li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+</li>
+{% endfor %}
+</ul>
