@@ -1,0 +1,24 @@
+---
+title: "2019 January Meeting"
+date: 2019-01-08
+type: post
+tags: blog
+status: published
+author: 11
+when: 2019-01-08 11:30
+location: StarSpace46 / Techlahoma 1141 W. Sheridan Avenue
+topic: "Spice up your Java with Project Lombok"
+---
+
+In this session we will showcase the main features of Project Lombok
+(https://projectlombok.org) and demonstrate how you can make your Java
+code cleaner, more readable, and way less verbose. With the information
+shared in this talk you should be able to start using Lombok right away
+in your Java projects - even legacy projects.
+
+=== Speaker Bio
+
+Bryce Easly is a Senior Full Stack Developer who loves technology and
+has been developing web applications for almost a decade. He's built
+complex systems using Java for Southwest Airlines, Power Costs Inc
+(PCI), and he's currently at Tango Analytics.

@@ -1,0 +1,42 @@
+---
+title: "November Meeting"
+date: 2015-11-09
+type: post
+tags: blog
+status: published
+author: 4
+---
+
+== When: November 10, 2015    11:30 - 13:00
+
+== Where: Prototek    401 NW 10th St.   Downtown OKC
+
+[[mapDiv]]
+
+Website: http://prototekokc.com/"
+
+== Speaker: Kenyatta Clark
+
+== Topic: Docker for Java Developers
+
+Producing good software is a goal many of us strive for by honing our
+skills at design principles,
+language mastery,
+architecture, methodologies, and expert use of libraries, frameworks,
+and platforms.  Satisfied with our code, we then figure out how to
+deploy it, or we hand it over to an operations team who handles running
+it in production. Running software in production is the whole point!
+ We can apply a lot of our skills and practices from software
+development to its deployment, and to the infrastructure on which it
+runs. https://www.docker.com/what-docker[Docker] is "an open platform
+for distributed applications for developers and sysadmins" that provides
+a standardized way to package applications with the specification of
+their environment.  This means everything from the operating system to
+the application server is specified in code, and will be identical
+between your environments.
+
+=== Pizza, Chairs, etc.
+
+We thank http://techlahoma.org/[Techlahoma] for generously
+providing the materials for the meeting, including the projector,
+pizza, and chairs.

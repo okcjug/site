@@ -1,0 +1,71 @@
+---
+title: "June 2008"
+date: 2008-06-10
+type: post
+tags: blog
+status: published
+author: 1
+---
+
+== Lunch Meeting (link:/index.php?option=com_attend_events&task=view&id=16[register here]) +
+
+When:June 10, 2008 11:30-12:40
+
+Where: University of Phoenix room *308 * (see
+link:/component/option,com_google_maps/Itemid,31/[Meeting location] or
+http://tinyurl.com/6xz439[here] )
+
+* Topic: Introduction to Spring Web Flow
+
+Speaker: link:/content/view/73/34/[Scott Centille]
+
+Sponsor:Teksystems
+
+*Agenda*
+
+* 11:30 am - Welcome Announcements
+* 11:40 am - Main Presentation
+* 12:40 pm - Wrap Up
+
+== Evening Meeting (link:/index.php?option=com_attend_events&task=view&id=17[register here]) +
+
+When: June 10, 2008 6:00PM
+
+Where: University of Phoenix room *305* (see
+link:/component/option,com_google_maps/Itemid,31/[Meeting location or]
+http://tinyurl.com/6xz439[here] )
+
+* Topic: Spring Web Flow, Java for Nerdlings, Java Workshop
+* Food and drinks will *not* be provided! +
+
+*Agenda*
+
+* 6:30 pm - Welcome Announcements
+* 6:35 pm - Open the floor to questions etc. +
+
+== Presentation Information
+
+Spring Web Flow is a core module of the Spring Framework that is a
+strong fit for web applications with demanding page flow requirements.
+The system lets you capture a logical page flow as a self-contained
+module that can be reused in different situations in a consistent
+fashion. The system is ideal for web applications that execute business
+processes over a series of steps spanning HTTP requests, and those
+demanding wizards, dynamic flows, and/or flows whose executions need to
+be audited or annotated. The system exists at a higher-level of
+abstraction, building on base Model 2 frameworks like Struts and Spring
+MVC, capturing your application's page flow explicity in a declarative
+fashion.
+
+ +
+In the presentation, we will discuss the following:
+
+* What is Spring Web Flow?
+* Why consider using it?
+* Architectural Overview, i.e. how does it work?
+* How to integrate it into your existing web applications, e.g. Struts
+or Spring Web MVC.
+
+
+
+"

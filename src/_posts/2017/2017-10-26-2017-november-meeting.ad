@@ -1,0 +1,48 @@
+---
+title: "2017 November Meeting"
+date: 2017-10-26
+type: post
+tags: blog
+status: published
+author: 8
+---
+
+== When: November 14, 2017    11:30 - 13:00
+
+== Where: StarSpace46  1141 W. Sheridan Avenue
+
+[[mapDiv]]
+
+Website: http://www.starspace46.com/
+
+== [.m_-8007405605425576190gmail-il]#Speaker: Hugh McKee, Lightbend #
+
+== Topic: The Lagom Microservice Framework #
+
+So you're going to build a microservice system. And this is not just any
+system. This system is going to process a ton of traffic, and it cannot
+go down - no excuses! This session covers techniques and tools that you
+can use to scale individual microservices up or down as traffic rates
+change. We also look at hardening your system eliminating single points
+of failure and automatically recovering when various outages occur. The
+cornerstone of this approach is Event Sourcing and CQRS (Command Query
+Responsibility Segregation). ES and CQRS provide the platform for both
+scale and resilience. We will see how this is done using Java, the Akka
+toolkit, the Play framework, and the Lagom microservice framework.
+*Speaker Bio*: Hugh McKee is a developer advocate at Lightbend. He has
+had a long career building applications that evolved slowly, that
+inefficiently utilized their infrastructure, and that was brittle and
+prone to failure. That all changed when we started building reactive,
+asynchronous, actor-based systems. This radically new way of building
+applications rocked his world. As an added benefit, building application
+systems became way more fun than it had ever been. Now he is focused on
+helping others to discover the significant advantages and joys of
+building responsive, resilient, elastic, message-driven applications.
+
+'''''
+
+Please go to Meetup and sign up so we will have a count for the food.
+https://www.meetup.com/okcjug/events/244486090/?showDescription=true[Meetup]
+We thank http://techlahoma.org/[Techlahoma] for generously
+providing the food and drink, and to
+http://www.starspace46.com/[StarSpace46] for providing the facility.

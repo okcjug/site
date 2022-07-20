@@ -1,0 +1,87 @@
+---
+title: "September 2007"
+date: 2007-09-11
+type: post
+tags: blog
+status: published
+author: 1
+---
+
+== Lunch Meeting
+
+* When: September 11th, 2007 11:30-12:40
+* Where: University of Phoenix (see
+link:/component/option,%20%3Ca%20href=[tadalafil]
+com_google_maps/Itemid,31/" title: ""Meeting location">Meeting location)
+* Topic: Concurrency
+* Speaker: link:/content/view/31/34/[Brett Schuchert] +
+* Sponsor: http://objectmentor.com[Objectmentor]
+
+*Agenda*
+
+* 11:30 am - Welcome Announcements
+
+* 11:40 am - Main Presentation
+* 12:40 pm - Wrap Up
+
+== Evening Meeting
+
+* When: September 11th, 2007 at 6:00PM
+* Where: Computer Club of Oklahoma City (see
+link:/component/option,com_google_maps/Itemid,31/[Meeting location])
+* Topic: Concurrency
+* Speaker: link:/content/view/31/34/[Brett Schuchert]
+* Sponsor: http://objectmentor.com[Objectmentor]
+
+*Agenda*
+
+* 6:00 pm - Hello Java
+* 6:30 pm - Pizza
+* 7:00 pm - Welcome Announcements
+* 7:15 pm - Main Presentation continued
+* 8:45 pm - Giveaways and Wrap Up
+
+== Presentation Information
+
+=== Hello Java
+
+From no-threading to the executor framework built in to Java 5
+
+* This is a quick hop through basic threading.
+** We start with a single-threaded server with a failing test (due to
+performance).
+** We fix the performance problem by introducing basic threading
+(justified by the Single Responsibility Principle)
+** We then upgrade the server to us the Executor framework instead
+hand-rolling threads
+** This is a quick example of creating a fixed-size thread pool
+** If time permits (it probably won't), we'll look at a deadlock problem
+with the executor framework.
+
+=== Main Presentation
+
+This presentation assumes familiarity with Java, JUnit 4, and basic
+Threading - the hello Java should suffice
+
+* We begin with a simple problem of an unguarded, shared resource
+** We fix the problem using synchronized (basic)
+** We fix the problem by NOT guarding (intermediate) using a Java 5
+class to do so
+** We then discuss the background behind how this works
+* We continue with a real problem, trying to screen scrape some web
+pages using the HTTP Client. The whole process takes 30 seconds
+** We evaluate the work to figure out
+*** The CPU bound parts
+*** The I/O bound parts
+*** Estimate how much we can speed things up
+** We then test our way into a multi-threaded solution
+** Evaluate the results
+** Remove contention
+** Move towards our theoretical maximum speed
+** Along the way we'll learn a little more about the executor framework
+* If we have time (we probably won't), we'll have a look at a few more
+of the Java 5 classes:
+** Barrier or Latch (haven't picked which one yet)
+** ConcurrentHashMap
+
+"

@@ -1,0 +1,38 @@
+---
+title: "June 2012 Meeting"
+date: 2012-06-07
+type: post
+tags: blog
+status: published
+author: 6
+---
+
+== **Monthly Meeting**  (http://okcjug.org/registration[register here])
+
+* **When:** June 12, 11:30-12:40
+* **Where:**  http://thediv.org/contact-us/[theDiv]
+* *Sponsor:* http://www.mbopartners.com/[MBO Partners]
+* **Speaker:** http://okcjug.org/bios/kenyatta-clark[Kenyatta Clark]
+* **Topic: **Spring Data JPA
+
+Agenda
+
+* 11:30 am â€“ Welcome Announcements & Sponsor
+* 11:40 am â€“ Main Presentation
+* 12:40 pm â€“ Wrap Up
+
+Presentation Information
+
+Implementing a data access layer of an application has been cumbersome
+for quite a while. Too much boilerplate code has to be written to
+execute simple queries as well as perform pagination, and auditing.
+Spring JPA aims to significantly improve the implementation of data
+access layers by reducing the effort to the amount that's actually
+needed. As a developer you write your repository interfaces, including
+custom finder methods, and Spring will provide the implementation
+automatically. (Note, this approach is not limited to JPA and has been
+applied to other persistance stores such as MongoDB and Neo4j as part of
+the Spring MongoDB and Spring Neo4j projects). Spring JPA also takes the
+concept of a specification from Eric Evans' book Domain Driven Design,
+that carries the same semantics and provides an API to define such
+Specifications using the JPA criteria API.

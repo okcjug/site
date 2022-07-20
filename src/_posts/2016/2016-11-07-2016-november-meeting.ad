@@ -1,0 +1,35 @@
+---
+title: "2016 November Meeting"
+date: 2016-11-07
+type: post
+tags: blog
+status: published
+author: 8
+---
+
+== ***** NOTICE: NEW LOCATION  *****
+
+=== When: November 8, 2016    11:30 - 13:00
+
+=== Where: StarSpace46  1141 W. Sheridan Avenue
+
+[[mapDiv]]
+
+Website: http://www.starspace46.com/
+
+=== Speaker: [.m_-8007405605425576190gmail-il]#Ryan Hoegg #
+
+=== Topic: Microservices and Me #
+
+Those of us involved with software systems have probably been hearing
+and reading about microservice architecture more and more. We'll explore
+why that is, what benefits this approach offers, and how to go about
+designing and building systems this way. We'll touch on promise theory,
+service discovery, handling failure, and disposable software.
+
+This talk is meant for humans who work together to try to get computers
+to do useful things.  That includes java developers.
+
+We thank http://techlahoma.org/[Techlahoma] for generously
+providing the food and drink, and to
+http://www.starspace46.com/[StarSpace46] for providing the facility.

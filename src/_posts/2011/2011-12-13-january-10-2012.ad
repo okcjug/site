@@ -1,0 +1,30 @@
+---
+title: "January 10, 2012"
+date: 2011-12-13
+type: post
+tags: blog
+status: published
+author: 3
+---
+
+== Monthly Meeting (http://okcjug.org/registration[register here])
+
+* *When:* January 10, 11:30-12:40
+* *Where:* Oklahoma City Coworking Collaborative (see Meeting location)
+* *Sponsor:* Principal Technologies
+* **Speaker:** Greg Bugaj
+* *Topic:* Application Security from the perspective of hackers
+
+== Agenda
+
+* 11:30 am â€“ Welcome Announcements
+* 11:40 am â€“ Main Presentation
+* 12:40 pm â€“ Wrap Up
+
+== Presentation Information
+
+As developers most of us are not much concerned with security pass the
+authentication/autorization phase. I will try to show you how
+application can be compromised and exploited using common application
+vulnerabilites and then I will show you how we can mitigate these
+problems.

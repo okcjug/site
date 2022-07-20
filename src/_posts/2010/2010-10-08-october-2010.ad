@@ -1,0 +1,32 @@
+---
+title: "October 2010"
+date: 2010-10-08
+type: post
+tags: blog
+status: published
+author: 3
+---
+
+== Monthly Meeting (http://okcjug.org/registration[register here])
+
+* When: October 12, 11:30-12:40
+* Where: Oklahoma City Coworking Collaborative
+(see http://okccoco.com/?page_id=109[Meeting location])
+* Speaker: Brett Schuchert
+* Topic: FitNesse and SliM: rapid intro
+
+=== Agenda
+
+* 11:30 am â€“ Welcome Announcements
+* 11:40 am â€“ Main Presentation
+* 12:40 pm â€“ Wrap Up
+
+=== Presentation Information
+
+This one hour talk will show the basics of getting started writing
+automated acceptance tests in FitNesse. The presentation will
+demonstrate adding acceptance tests to existing production code. Here's
+the outline: - Quick problem overview - Description in examples - Turing
+the examples into FitNesse tests - Writing fixtures, the "glue code"
+that makes the tests runn - Getting tests to pass We will look at a few
+different kinds of tables, as many as time permits.

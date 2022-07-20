@@ -1,0 +1,44 @@
+---
+title: "2017 September Meeting"
+date: 2017-09-06
+type: post
+tags: blog
+status: published
+author: 8
+---
+
+== When: September 12, 2017    11:30 - 13:00
+
+== Where: StarSpace46  1141 W. Sheridan Avenue
+
+[[mapDiv]]
+
+Website: http://www.starspace46.com/
+
+== [.m_-8007405605425576190gmail-il]#Speaker: Jordan Parmer #
+
+== Topic: Reactive Streams #
+
+Ever read bytes from a file, packets from a network socket, records from
+a database, or messages from a message queue and run into problems with
+I/O blocking, throttling, or resource management? Find yourself writing
+more boilerplate code than business logic to stream data? In a world
+where operations are asynchronous, data is "live", and transactions per
+second are measured by the millions, streaming data has never been more
+important. Enter Reactive Streams. Reactive Streams is an initiative to
+provide a standard for asynchronous stream processing with non-blocking
+back pressure. In this talk, I'll introduce the "What's" and "Why's" of
+Reactive Streams and give demonstrations using akka-streams on the JVM.
+*Bio*: Jordan is a software engineer at Oseberg and leads the Data
+Platform team. He founded OKC-FP, a user-group focused on functional
+programming. He's been a professional programmer for 13 years and has
+worked on firmware, desktop, web, and enterprise systems. His latest
+focus is distributed data processing and functional programming.
+
+'''''
+
+Please go to Meetup and sign up so we will have a count for the food.
+https://www.meetup.com/okcjug/events/243041309/?showDescription=true[Meetup]
+We thank http://techlahoma.org/[Techlahoma] for generously
+providing the food and drink, and to
+http://www.starspace46.com/[StarSpace46] for providing the facility.

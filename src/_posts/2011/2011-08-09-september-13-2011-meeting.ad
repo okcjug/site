@@ -1,0 +1,32 @@
+---
+title: "September 13, 2011 Meeting"
+date: 2011-08-09
+type: post
+tags: blog
+status: published
+author: 3
+---
+
+== Monthly Meeting (link:/registration[register here])
+
+* *When*: September 13, 11:30-12:40
+* *Where*: Oklahoma City Coworking Collaborative (see Meeting location)
+* *Sponsor*: ?
+* *Speaker:* http://okcjug.org/bios/jason-lee[Jason Lee]
+* *Topic*: Introduction to Android Development
+
+== Agenda
+
+* 11:30 am â€“ Welcome Announcements
+* 11:40 am â€“ Main Presentation
+* 12:40 pm â€“ Wrap Up
+
+== Presentation Information
+
+In this presentation, we'll take a "Hello, World" look at Android
+development. We will develop, from the ground up, a very simple
+application, covering such fundamental topics as Activities, Views,
+Menus, and data access. Time permitting, we'll finish off the session
+with a quick look at testing your Android application. We won't cover
+every topic and API available to developers, but you should leave with
+enough information to get you started on your own Android app.

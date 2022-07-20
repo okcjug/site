@@ -1,0 +1,80 @@
+---
+title: "January 2008"
+date: 2002-01-08
+type: post
+tags: blog
+status: published
+author: 1
+---
+
+== The OKC JUG Third Anniversary Edition! +
+
+=== Lunch Meeting (link:index.php?option=com_attend_events&task=view&id=3[register here]) +
+
+When: January 8, 2008 11:30-12:40
+
+Where: University of Phoenix room 311 (see
+link:/component/option,com_google_maps/Itemid,31/[Meeting location])
+
+* Topic: Build the Right System with Test Driven Requirements - Lean
+Pull Applied
+
+Speaker: link:/content/view/51/34/[Rod Coffin ]
+(http://www.semantra.com/[Semantra]) and link:/content/view/52/34/[Don
+McGreal] +
+
+Sponsor:http://valtech.com[Valtech]
+
+*Agenda*
+
+* 11:30 am - Welcome Announcements
+
+* 11:40 am - Main Presentation
+* 12:40 pm - Wrap Up
+
+=== Evening Meeting (link:index.php?option=com_attend_events&task=view&id=4[register here]) +
+
+* When: January 8, 2008, 2007 at 6:00PM
+* Where: University of Phoenix room 311 (see
+link:/component/option,com_google_maps/Itemid,31/[Meeting location])
+* Topic: Build the Right System with Test Driven Requirements - Lean
+Pull Applied
+* Speaker: link:/content/view/51/34/[Rod Coffin]
+(http://www.semantra.com/[Semantra]) and link:/content/view/52/34/[Don
+McGreal]
+* Sponsor:http://valtech.com[Valtech]
+
+*Agenda*
+
+* 6:00 pm - Hello Java - ??? +
+* 6:30 pm - Pizza
+* 7:00 pm - Welcome Announcements
+* 7:15 pm - Main Presentation continued
+* 8:45 pm - Giveaways and Wrap Up
+
+=== Presentation Information
+
+==== Hello Java
+
+ +
+
+==== Main Presentation
+
+The software profession faces many challenges including our general
+approach to requirements.  A high percentage of implemented
+functionality is seldom used and requirement deficiencies are frequented
+cited among the top five reasons for project failure.  How can we as
+software professionals and craftsmen know that we are producing the most
+valuable system at just the right time for our users?  The concept of
+"pull" from lean manufacturing, in combination with agile values and
+practices, provides a powerful guide for how we can improve our
+profession by allowing the incremental specification of functionality to
+"pull" the creation of working software.  In this workshop participants
+will experience how a real working system can be constructed from the
+ground up through the definition of executable specifications.  In a
+cycle comparable to that of Test Driven Development participants will
+see how, through a series of micro-iterations, requirements can pull the
+creation of executable specifications, integration tests, unit tests,
+and production code.
+
+"

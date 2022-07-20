@@ -1,0 +1,63 @@
+---
+title: "May 2008"
+date: 2008-05-13
+type: post
+tags: blog
+status: published
+author: 1
+---
+
+== Lunch Meeting (link:/index.php?option=com_attend_events&task=view&id=14[register here]) +
+
+When: May 13, 2008 11:30-12:40
+
+Where: University of Phoenix room *308 * (see
+link:/component/option,%20%3Ca%20href=[buy] com_google_maps/Itemid,31/"
+title="Meeting location">Meeting location or
+http://tinyurl.com/6xz439[here] )
+
+* Topic: link:content/view/71/1/[Persistence in Java with Hibernate and
+JPA]
+
+Speaker: link:content/view/70/34/[Michael E. Shorter]
+
+Sponsor: GDH +
+
+*Agenda*
+
+* 11:30 am - Welcome Announcements
+
+* 11:40 am - Main Presentation
+* 12:40 pm - Wrap Up
+
+== Evening Meeting (link:/index.php?option=com_attend_events&task=view&id=15[register here]) +
+
+When: May 13, 2008 6:00PM
+
+Where: University of Phoenix room *305* (see
+link:/component/option,com_google_maps/Itemid,31/[Meeting location or]
+http://tinyurl.com/6xz439[here] )
+
+* Topic: Java for Nerdlings,Java Workshop
+* Food and drinks will *not* be provided! +
+
+*Agenda*
+
+* 6:30 pm - Welcome Announcements
+* 6:35 pm - Open the floor to questions etc. +
+
+== Presentation Information
+
+Synopsis: Ever since JDBC was introduced to the Java community, +
+providing access to relational databases via SQL and metadata, there
+has +
+been a quest to transparently integrate access to these databases in +
+Java. Hibernate paved the way as an open source answer to this quest. +
+Later, JPA was introduced officially as a first-class citizen using +
+annotations. Today, Hibernate remains agile with its use of
+annotations +
+and criteria. +
+
+
+
+"

@@ -1,0 +1,76 @@
+---
+title: "April 2008"
+date: 2008-04-08
+type: post
+tags: [blog]
+status: published
+author: 1
+---
+
+== Lunch Meeting (link:/index.php?option=com_attend_events&task=view&id=11[register here]) +
+
+When: April 8, 2008 *12:30*-1:40
+
+Where: University of Phoenix *+++room changed to 308+++* (see Meeting location)
+
+* Topic: Spring in Action
+
+Speaker:
+http://www.nofluffjuststuff.com/conference/speaker/craig_walls.html[Craig
+Walls] +
+
+Sponsor:
+link:/component/option,com_weblinks/task,view/catid,15/id,15/[No Fluff
+Just Stuff] +
+
+*Agenda*
+
+* 12:30 am - Welcome Announcements
+* 12:40 am - Main Presentation
+* 1:40 pm - Wrap Up
+
+== Evening Meeting (link:/index.php?option=com_attend_events&task=view&id=12[register here] ) +
+
+When: April 8, 2008 5:30PM
+
+Where: University of Phoenix *+++still in room 311+++* (see
+link:/component/option,com_google_maps/Itemid,31/[Meeting location])
+
+* Topic: Spring in Action
+
+Speaker:
+http://www.nofluffjuststuff.com/conference/speaker/craig_walls.html[Craig
+Walls]
+
+Sponsor:
+link:/component/option,com_weblinks/task,view/catid,15/id,15/[No Fluff
+Just Stuff]
+
+*Agenda*
+
+* 5:30 pm - Pizza, welcome announcements, and main presentation
+* 6:30 pm - Wrap Up
+
+== Presentation Information
+
+Spring has been one of the most exciting frameworks to emerge in the
+past few years. With Spring you can decouple your application's objects,
+enrich them with AOP, and apply transactional boundaries and security to
+them declaratively. It simplifies data access, remoting, web services,
+and JMS. It comes with its own web framework. And, even though Spring
+eliminates much of the need for EJBs, it will still integrate nicely
+with any EJBs you may have lying around. What's not to love?
+
+Everyone's favorite Java framework continues to improve,
+with significant enhancements in Spring 2.0 and many more slated for
+the upcoming Spring 2.1 release. Maybe you've already seen or read
+about Spring and perhaps you've even developed applications
+using Spring. But have you seen the latest that Spring has to offer.  +
+ +
+In this example-driven presentation, I'll lead a guided tour through the
+key features of Spring, with an emphasis on what's new in Spring 2.0 and
+what is to come in Spring 2.1. Whether you're a Spring newbie or a
+seasoned Spring developer, there'll be something new for
+nearly everyone.
+
+"

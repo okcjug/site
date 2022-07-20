@@ -1,0 +1,37 @@
+---
+title: "October 11, 2011 Meeting"
+date: 2011-09-17
+type: post
+tags: blog
+status: published
+author: 3
+---
+
+== Monthly Meeting (http://okcjug.org/registration[register here])
+
+* *When*: October 11, 11:30-12:40
+* *Where*: Oklahoma City Coworking Collaborative (see Meeting location)
+* *Sponsor*: ?
+* *Speaker:* http://okcjug.org/bios/ryan-hoegg[Ryan Hoegg]
+* *Topic*: Map Reduce
+
+== Agenda
+
+* 11:30 am â€“ Welcome Announcements
+* 11:40 am â€“ Main Presentation
+* 12:40 pm â€“ Wrap Up
+
+== Presentation Information
+
+MapReduce: Distributed Computing with Apache Hadoop Scalable software is
+built so that increasing data or usage does not result in degraded
+service.  Distributed computing is one way to make data processing
+software scale gracefully.
+(from http://hadoop.apache.org/common/docs/r0.20.0/mapred_tutorial.html#Overview):
+"Hadoop Map/Reduce is a software framework for easily writing
+applications which process vast amounts of data (multi-terabyte
+data-sets) in-parallel on large clusters (thousands of nodes) of
+commodity hardware in a reliable,
+fault-tolerant manner."
+In this talk, I will introduce the Map/Reduce algorithm, and demonstrate
+how to write a Map/Reduce application using Java and Apache Hadoop.

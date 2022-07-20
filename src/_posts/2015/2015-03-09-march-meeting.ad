@@ -1,0 +1,39 @@
+---
+title: "March Meeting"
+date: 2015-03-09
+type: post
+tags: blog
+status: published
+author: 8
+---
+
+== When: March 10, 2014    11:30 - 13:00
+
+
+
+== Where: Prototek    401 NW 10th St.   Downtown OKC
+
+[[mapDiv]]
+
+Website: http://prototekokc.com/"
+
+== Speaker: Karl Kirch
+
+
+
+== Topic: Webscale HTTP services with Dropwizard
+
+Building web apps in Java has changed significantly over the past few
+years. Many of those changes revolve around keeping your application
+fast,
+maintainable,
+and flexible in the face of ever changing deployment environments (aka
+"the cloud") and rapidly changing standards. Dropwizard looks to fit in
+the areas that J2EE does not and even replace it in a large number of
+cases. So if web APIs are your thing, come checkout Dropwizard and how
+it can help when building production ready APIs.
+
+== Pizza, Chairs, etc.
+
+We thank Techlahoma for generously providing the materials for the
+meeting, including the projector, pizza, and chairs.

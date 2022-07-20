@@ -1,0 +1,37 @@
+---
+title: "March 12, 2013 Meeting"
+date: 2013-03-08
+type: post
+tags: blog
+status: published
+author: 3
+--- What:  Practical Integration with
+Mule Where:
+https://maps.google.com/maps/ms?msid=216695189249498761913.0004d76ac5ac80851d55d&msa=0&ll=35.594253,-97.619158&spn=0.006386,0.00854[Library
+one NW122 east of MacArthur ] When:  11:30 am to 12:45 pm Who: Â
+ Ryan Hoegg Register:
+ https://plus.google.com/events/cpnel58g6f7g45508b05nier58g[register
+here on G+]
+
+Ask a random IT person about the systems in his environment, and chances
+are that the answer will sound something like this:
+
+"Well, we are almost done with the new release of Whiz Bang, which uses
+Spring Data, AMQP, and MongoDB with a lot of jQuery for the front end.Â
+That's being held up because of our maintenance release of Beige and
+Dusty, which most of our customers use.  They both send information to
+FileCabinet 11.8r3, which we bought from a vendor 16 years ago, and we
+still have our invoicing system in Decrepit 6, which runs on AS400."
+
+It seems like everyone has a bunch of different systems with a lot of
+different technologies involved.  Integration is what we do to get them
+all working together.
+
+This talk is about how to do integration with Mule ESB, and includes a
+walk through of
+an http://www.confluex.com/blog/mule-example-imperial-manufacturing/[example
+project].
+
+Bio:Ryan Hoegg is a software nut, and works as an Integration Architect
+at http://www.confluex.com/[Confluex].  He lives with his wife and
+children in Northwest OKC.

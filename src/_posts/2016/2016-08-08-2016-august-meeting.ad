@@ -1,0 +1,35 @@
+---
+title: "2016 - August Meeting"
+date: 2016-08-08
+type: post
+tags: blog
+status: published
+author: 8
+---
+
+== When: August 9, 2016    11:30 - 13:00
+
+== Where: Prototek    401 NW 10th St.   Downtown OKC
+
+[[mapDiv]]
+
+Website: http://prototekokc.com/"
+
+== Speaker: Justin Strittmatter, Senior Software Engineer, MBO Partners
+
+== Topic: How 'd we get here? - Event sourcing / CQRS pattern# ##
+
+We've all come across many buzz words, new hyped techniques, and
+â€œThe next big thingâ€? in our reading.  For the last few years I 've
+been seeing a lot about CQRS, Domain Driven Development, and Event
+Sourcing and thought it was time to find out what all the hype was
+about.  In this talk we will discuss the Pattern of event sourcing and
+CQRS and what some of the advantages/disadvantages are when implementing
+this pattern.  We will also do a high level code walk through using
+Java with the Axon Framework to implement this pattern in a
+microservice. We thank http://techlahoma.org/[Techlahoma] for generously
+providing the materials for the meeting, including the projector,
+pizza, chairs and to http://prototekokc.com/[ProtoTekOKC] for providing
+the cool environment.
+
+=== We are meeting at Techlohoma again this month as the new location does not have A/C yet. Stay tuned for details on the new location.

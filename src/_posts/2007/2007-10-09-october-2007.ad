@@ -1,0 +1,62 @@
+---
+title: "October 2007"
+date: 2007-10-09
+type: post
+tags: blog
+status: published
+author: 1
+---
+
+== Lunch Meeting
+
+When: October 9, 2007 11:30-12:40
+
+Where: University of Phoenix (see
+link:/component/option,com_google_maps/Itemid,31/[Meeting location])
+
+* Topic: Resource Oriented Architecture / REST
+
+Speaker: link:/content/view/41/34/[Ryan Hoegg]
+([.nobr]#http://www.valtech.com/[Valtech])#
+
+Sponsor: http://www.addisongroup.com/[The Addison Group]
+
+*Agenda*
+
+* 11:30 am - Welcome Announcements
+
+* 11:40 am - Main Presentation
+* 12:40 pm - Wrap Up
+
+== Evening Meeting
+
+* When: October 9, 2007 at 6:00PM
+* Where: Computer Club of Oklahoma City (see
+link:/component/option,com_google_maps/Itemid,31/[Meeting location])
+* Topic: Resource Oriented Architecture / REST
+* Speaker: Ryan Hoegg ([.nobr]#http://www.valtech.com/[Valtech])#
+* Sponsor: [.nobr]#http://www.valtech.com/[Valtech]#
+
+*Agenda*
+
+* 6:00 pm - Hello Java - link:/content/view/40/34/[Mitch Blevins] +
+* 6:30 pm - Pizza
+* 7:00 pm - Welcome Announcements
+* 7:15 pm - Main Presentation continued
+* 8:45 pm - Giveaways and Wrap Up
+
+== Presentation Information
+
+=== Hello Java
+
+Introduction to the Java API for RESTful Web Services. +
+ +
+JAX-RS (JSR-311) is meant to help Java programmers implement RESTful
+programs by taking care of a lot of the infrastructure and boilerplate
+code.  We’ll discuss the “how” of implementing RESTful services instead
+of the “why”.
+
+=== Main Presentation
+
+An introduction to the thinking behind RESTful web services and Resource
+Oriented Architecture. "

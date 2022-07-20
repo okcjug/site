@@ -1,0 +1,36 @@
+---
+title: "July 2012 Meeting"
+date: 2012-07-06
+type: post
+tags: blog
+status: published
+author: 6
+---
+
+== **Monthly Meeting**  (http://okcjug.org/registration[register here])
+
+* **When:** July 10, 11:30-12:40
+* **Where:**  http://thediv.org/contact-us/[theDiv]
+* **Speaker:** http://okcjug.org/bios/brian-sheldon[Brian Sheldon]
+* **Topic: **http://rxtx.qbang.org/wiki/index.php/Main_Page[RXTX] -
+Serial Communication using Java
+* *a.k.a:*  Let's get dirty with serial ports
+
+Agenda
+
+* 11:30 am â€“ Welcome Announcements
+* 11:40 am â€“ Main Presentation
+* 12:40 pm â€“ Wrap Up
+
+Presentation Information
+
+When I tried to find a library that would allow me talk to a credit card
+reader via serial/usb under Windows, I didn't find much that sounded
+like it would work. Rxtx works pretty well. It has one .jar and two
+.dll's (one for serial and one for parallel)" I'll talk about
+
+* the Rxtx api
+* finding serial ports
+* my credit card reader applet (aka hexadecimal hell)
+* some multi threading I'm doing in my applet
+* some event listening code to use instead of multi threading

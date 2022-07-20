@@ -1,0 +1,40 @@
+---
+title: "2018 January Meeting"
+date: 2018-01-09
+type: post
+tags: blog
+status: published
+author: 8
+when: 2018-01-09 11:30
+location: StarSpace46 / Techlahoma 1141 W. Sheridan Avenue
+topic: "Google Web Toolkit"
+---
+
+Google Web Toolkit is a development toolkit for building and optimizing
+complex browser-based applications. Its goal is to enable productive
+development of high-performance web applications without the developer
+having to be an expert in browser quirks, XMLHttpRequest, and
+JavaScript. Basically software is written in Java and then translated
+into JavaScript. It is open source, completely free, and used by
+thousands of developers around the world. More information is available
+at
+https://www.gwtproject.org[http://www.gwtproject.org/]
+
+=== Speaker:
+
+James Bearden is owner of Nontrivial Solutions, which provides IT
+support to small businesses. The main focus of Nontrivial Solutions is
+an web based medical records and billing system
+(https://www.chartcaddy.com/index.html[chartcaddy.com])
+targeting outpatient behavioral health agencies. The front end for
+ChartCaddy is written with Google Web Toolkit. James graduated from The
+Ohio State University and has over 15 years experience programming Java
+and other open source technologies.
+
+'''''
+
+Please go to Meetup and sign up so we will have a count for the food.
+https://www.meetup.com/okcjug/events/246437897/[Meetup] We thank
+http://techlahoma.org/[Techlahoma] for generously providing the food
+and drink, and to http://www.starspace46.com/[StarSpace46] for providing
+the facility.

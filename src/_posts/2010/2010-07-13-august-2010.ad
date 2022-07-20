@@ -1,0 +1,39 @@
+---
+title: "August 2010"
+date: 2010-07-13
+type: post
+tags: blog
+status: published
+author: 3
+---
+
+== Monthly Meeting (link:/registration[register here])
+
+* When: August 10, 11:30-12:40
+* Where: Oklahoma City Coworking Collaborative ** (see
+http://okccoco.com/?page_id=109[Meeting location])
+* Speaker: link:/bios/ryan-hoegg[Ryan Hoegg]
+* Topic: Distributed Computing with Apache Hadoop
+
+*Agenda*
+
+* 11:30 am â€“ Welcome Announcements
+* 11:40 am â€“ Main Presentation
+* 12:40 pm â€“ Wrap Up
+
+== Presentation Information
+
+Some of today's internet software serves millions of users and uses
+petabytes of data. NoSQL databases and MapReduce algorithms help us make
+use of large numbers of servers in different locations to manage this
+data and serve these users. Apache Hadoop provides "open source software
+for reliable, scalable, distributed computing". Some
+http://wiki.apache.org/hadoop/PoweredBy[companies using it] are
+http://aws.amazon.com/elasticmapreduce[Amazon],
+http://www.linkedin.com/jobs?viewJob=&jobId=950118[EBay],
+http://hadoopblog.blogspot.com/2010/05/facebook-has-worlds-largest-hadoop.html[Facebook],
+Hulu, http://blog.linkedin.com/tag/hadoop/[LinkedIn],
+http://www.slideshare.net/kevinweil/hadoop-pig-and-twitter-nosql-east-2009[Twitter],
+and http://developer.yahoo.com/blogs/hadoop[Yahoo]. I will give an
+overview of the Hadoop suite, review a sample java application using
+some of the technology, and entertain questions and discussion.

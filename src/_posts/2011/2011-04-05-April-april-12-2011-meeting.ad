@@ -1,0 +1,28 @@
+---
+title: "April 12, 2011 Meeting"
+date: 2011-04-05
+type: post
+tags: blog
+status: published
+author: 3
+---
+
+== Monthly Meeting (http://okcjug.org/registration[register here])
+
+* When: April 12, 11:30-12:40
+* Where: Oklahoma City Coworking Collaborative
+(see http://okccoco.com/?page_id=109[Meeting location])
+* Sponsor: http://www.mbopartners.com/[MBO Partners]
+* Speaker: http://okcjug.org/bios/brett-schuchert[Brett Schuchert]
+* Topic: http://code.google.com/p/jmockit/[JMockit] - Things you
+shouldn't do when testing...
+
+=== Agenda
+
+* 11:30 am â€“ Welcome Announcements
+* 11:40 am â€“ Main Presentation
+* 12:40 pm â€“ Wrap Up
+
+=== Presentation Information
+
+=== JMockIt is a powerful and easy (perhaps too easy) to use mocking tool that allows you to do things that defy logic. Examples include stubbing static methods, changing final classes and pretty much anything that byte code injection on the fly (per test) allows. We'll look at some of those things along with more traditional test double creation and then discuss why on the one hand it is nice to have this power, on the other hand you should almost never use it.

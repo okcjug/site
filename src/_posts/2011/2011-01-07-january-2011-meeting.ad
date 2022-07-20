@@ -1,0 +1,39 @@
+---
+title: "January 2011 Meeting"
+date: 2011-01-07
+type: post
+tags: blog
+status: published
+author: 3
+---
+
+== Monthly Meeting (http://okcjug.org/registration[register here])http://okcjug.org/wp-content/uploads/2011/01/scottc.jpg[image:http://okcjug.org/wp-content/uploads/2011/01/scottc.jpg[image,width=102,height=149]]
+
+"
+
+* When: January 11, 11:30-12:40
+* Where: Oklahoma City Coworking Collaborative
+(see http://okccoco.com/?page_id=109[Meeting location])
+* Speaker: http://okcjug.org/bios/scott-centille[Scott Centille]
+* Sponsor: Valtech http://okcjug.org/bios/john-woodward-phd[]
+* Topic: Spring Security 3
+
+=== Agenda
+
+* 11:30 am â€“ Welcome Announcements
+* 11:40 am â€“ Main Presentation
+* 12:40 pm â€“ Wrap Up
+
+=== Presentation Information
+
+[[_mcePaste]]
+Security is a complicated subject but securing a web application doesn't
+have to be. This presentation will cover an intro to Spring Security 3,
+a Java EE framework that provides advanced authentication, authorization
+and other security features for enterprise applications. As time
+permits, we will work with Spring Security 3 to secure an unsafe web
+application using Spring Expression Language (SpEL), add a custom login
+page, implement basic logout functionality, examine securing credential
+storage by comparing in-memory store vs. database-backed authentication
+store, and configure a "salted" password encoding Authentication
+Provider.

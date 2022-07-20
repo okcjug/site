@@ -1,0 +1,33 @@
+---
+title: "May Meeting: Real Time Data Processing with Apache Storm"
+date: 2015-05-11
+type: post
+tags: blog
+status: published
+author: 4
+---
+
+== When: May 11, 2015    11:30 - 13:00
+
+== Where: Prototek    401 NW 10th St.   Downtown OKC
+
+[[mapDiv]]
+
+Website: http://prototekokc.com/"
+
+== Speaker: Mark Smith
+
+== Topic: Real Time Data Processing with Apache Storm
+
+https://storm.apache.org/[Apache Storm] "makes it easy to reliably
+process unbounded streams of data,
+doing for realtime
+processing what Hadoop did for batch processing."  Mark Smith will
+introduce the concepts behind Apache Storm, and demonstrate how to use
+it through a live demo using Twitter data.
+
+== Pizza, Chairs, etc.
+
+We thank http://techlahoma.org/[Techlahoma] for generously
+providing the materials for the meeting, including the projector,
+pizza, and chairs.

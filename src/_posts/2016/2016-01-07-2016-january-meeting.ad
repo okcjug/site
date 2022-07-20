@@ -1,0 +1,38 @@
+---
+title: "2016 - January Meeting"
+date: 2016-01-07
+type: post
+tags: blog
+status: published
+author: 8
+---
+
+== When: January 12, 2016    11:30 - 13:00
+
+== Where: Prototek    401 NW 10th St.   Downtown OKC
+
+[[mapDiv]]
+
+Website: http://prototekokc.com/"
+
+== Speaker: Brett Schuchert
+
+== Topic: Legacy Refactoring
+
+This is an updated version of a legacy refactoring demonstration.
+We 'll have a look at some code that is a mess (what code isn 't) and
+then work through the code using two different approaches. One, using
+JMockIt - a power mocking tool, the second, plain vanilla legacy
+refactoring. We 'll compare and contrast the differences and then see
+how well the power mocking tool holds after the plain old legacy
+refactoring approach. We 'll touch on some of the important things to
+keep in mind when working with legacy code and, more importantly, the
+smallest unit of reasonable legacy refactoring.
+
+=== 
+
+=== Pizza, Chairs, etc.
+
+We thank http://techlahoma.org/[Techlahoma] for generously
+providing the materials for the meeting, including the projector,
+pizza, and chairs.

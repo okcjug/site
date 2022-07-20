@@ -1,0 +1,34 @@
+---
+title: "March 2012 Meeting"
+date: 2012-02-14
+type: post
+tags: blog
+status: published
+author: 3
+---
+
+== *Monthly Meeting*  (http://okcjug.org/registration[register here])
+
+* *When:* March 13, 11:30-12:40
+* *Where:* Oklahoma City Coworking Collaborative (see
+http://okccoco.com/?page_id=109[Meeting location])
+* **Sponsor:** http://www.mbopartners.com/[MBO Partners]
+* *Speaker:* http://okcjug.org/bios/brian-sheldon[Brian S. Sheldon]
+* *Topic:* Android - dynamic screens & sms & more
+
+Agenda
+
+* 11:30 am â€“ Welcome Announcements & Sponsor
+* 11:40 am â€“ Main Presentation
+* 12:40 pm â€“ Wrap Up
+
+Presentation Information Things I learned while writing a grocery list
+Android application. Dynamically generating screens,
+simple text
+messaging, menus, intents,
+listeners, and lint. The source code can be found
+https://github.com/brianssheldon/BubbasGroceryListApp/tree/removeitemsfromcheckbox[here].
+The slides can be found
+https://docs.google.com/present/edit?id=0AW5dPx18Kes3ZGN3YmNkdHdfMTE4aGdoaGg3Z2Y[here].
+The app can be installed from
+https://market.android.com/developer?pub=brian+s.+sheldon#?t=W251bGwsbnVsbCxudWxsLDIxMiwib3JnLmJ1YmJhLmJ1YmJhc2dyb2NlcnlsaXN0Il0.[here]."
