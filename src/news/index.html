@@ -5,14 +5,19 @@ pagination:
     enabled: true
 ---
 
-<ul>
-{% for post in paginator.posts %}
-<li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-</li>
-{% endfor %}
-</ul>
+<h1>Past Posts</h1>
+<br/>
 
+<ul>
+    {% for post in paginator.posts %}
+    <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <br/>
+        <span style="padding-left: 2em">{{ post.excerpt | strip_html | truncate: 100 }}</span>
+    </li>
+    {% endfor %}
+</ul>
+<br/>
 <ul class="pager">
     {% if paginator.first_page %}
     <li class="previous">

@@ -22,7 +22,7 @@ do
     case "$opt" in
         c)  echo "Cleaning..." ; rm -rf $DEST ;;
         n)  BUILD="" ;;
-        s)  SERVE="serve --incremental" 
+        s)  SERVE="serve --incremental -l -w" 
             BUILD=""
             ;;
         \?) usage ;;
