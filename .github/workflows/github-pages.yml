@@ -6,17 +6,13 @@ on:
       - master
   push:
     branches:
-      - master
-permissions:
-  pages: write      
+      - master     
 
 jobs:
   build_and_deploy:
     runs-on: ubuntu-latest
     permissions:
-      pull-requests: write
-      issues: write
-      repository-projects: write
+      pages: write
     steps:
       - uses: actions/checkout@v3
 
