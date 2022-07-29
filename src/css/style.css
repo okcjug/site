@@ -703,6 +703,7 @@ ul.email li a i {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    display: none;
 }
 
 #myCarousel .testimo {
@@ -785,6 +786,7 @@ ul.email li a i {
 .contact {
     background: #fff;
     padding-top: 74px;
+    display: none;
 }
 
 .main_form .form_control {
@@ -1015,3 +1017,12 @@ ul.pager li.selected {
 }
 /** pager **/
 
+.paragraph {
+    padding-bottom: 1em;
+}
+
+.perfect h1 {
+    padding-bottom: 1em;
+    font-size: 2em;
+    font-weight: bold;
+}

@@ -72,6 +72,7 @@ pagination:
   # Optional, the default name of the index file for generated pages (e.g. 'default.html')
   # Without file extension
   indexpage: 'index'
+  layout: 'post'
 
 asciidoctor:
   attributes:

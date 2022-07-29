@@ -4,10 +4,12 @@
 <!-- body -->
 <body class="main-layout">
 {% include header.html %}
-{% include banner.html %}
+<div class="full_bg">
+</div>
 <!-- perfect -->
 <div class="perfect">
     <div class="container_width">
+        <h1>{{ page.title }}</h1>
         {{ content }}
     </div>
 </div>
