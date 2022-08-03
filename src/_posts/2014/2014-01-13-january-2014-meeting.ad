@@ -6,10 +6,18 @@ layout: post
 tags: blog
 status: published
 author: 4
---- What: AMQP messaging with RabbitMQ Who:
-Ryan Hoegg Where: Northwest Library When: Tuesday, January 14th @11:30am
-Register
-https://plus.google.com/b/105032475714454328144/events/c29ko1g2uiotglgduvbq67f09lk[here].
+---
+
+What: AMQP messaging with RabbitMQ
+
+Who: Ryan Hoegg
+
+Where: Northwest Library
+
+When: Tuesday, January 14th @11:30am
+
+Register https://plus.google.com/b/105032475714454328144/events/c29ko1g2uiotglgduvbq67f09lk[here].
+
 Description: AMQP is an open standard for messaging.  We will learn
 about messaging, about the AMQP standard, and about the different
 messaging patterns we use to allow our applications and services to

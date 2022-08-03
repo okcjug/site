@@ -6,11 +6,18 @@ layout: post
 tags: blog
 status: published
 author: 9
---- What: Hazelcast Who: Chad Gorshing
+---
+
+What: Hazelcast
+
+Who: Chad Gorshing
+
 Where: Northwest Library When: Tuesday, February 18th @11:30am
+
 Register https://plus.google.com/u/0/b/105032475714454328144/events/c0utvfadutlrpmbnd6qj7f94nt0[here].
+
 Description: Today's applications are getting more and more distributed
-everyday and it is well-known that distributed programming is hard. With
+every day and it is well-known that distributed programming is hard. With
 Hazelcast though, distributed programming is easy and lots of fun. Chad
 will give an introduction to Hazelcast and how are some ways to use this
 tool.

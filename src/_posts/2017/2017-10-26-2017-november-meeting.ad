@@ -6,19 +6,10 @@ layout: post
 tags: blog
 status: published
 author: 8
+when: 2017-11-14 11:30
+location: StarSpace46 / Techlahoma 1141 W. Sheridan Avenue
+topic: "The Lagom Microservice Framework"
 ---
-
-== When: November 14, 2017    11:30 - 13:00
-
-== Where: StarSpace46  1141 W. Sheridan Avenue
-
-[[mapDiv]]
-
-Website: http://www.starspace46.com/
-
-== [.m_-8007405605425576190gmail-il]#Speaker: Hugh McKee, Lightbend #
-
-== Topic: The Lagom Microservice Framework #
 
 So you're going to build a microservice system. And this is not just any
 system. This system is going to process a ton of traffic, and it cannot
@@ -30,7 +21,10 @@ cornerstone of this approach is Event Sourcing and CQRS (Command Query
 Responsibility Segregation). ES and CQRS provide the platform for both
 scale and resilience. We will see how this is done using Java, the Akka
 toolkit, the Play framework, and the Lagom microservice framework.
-*Speaker Bio*: Hugh McKee is a developer advocate at Lightbend. He has
+
+
+== Speaker Bio
+Hugh McKee is a developer advocate at Lightbend. He has
 had a long career building applications that evolved slowly, that
 inefficiently utilized their infrastructure, and that was brittle and
 prone to failure. That all changed when we started building reactive,

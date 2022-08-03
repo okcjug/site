@@ -6,19 +6,10 @@ layout: post
 tags: blog
 status: published
 author: 8
+when: 2017-07-11 11:30
+location: StarSpace46 / Techlahoma 1141 W. Sheridan Avenue
+topic: "Akka Actors"
 ---
-
-== When: July 11, 2017    11:30 - 13:00
-
-== Where: StarSpace46  1141 W. Sheridan Avenue
-
-[[mapDiv]]
-
-Website: http://www.starspace46.com/
-
-== [.m_-8007405605425576190gmail-il]#Speaker: Dylan Forciea #
-
-== Topic: Akka Actors #
 
 Have you been frustrated trying to write a multithreaded program and
 sticking synchronized on all of your methods? Can 't tell your monitors
@@ -28,7 +19,9 @@ multithreaded programming. We will distill down Akka Actors, a JVM
 implementation of the concurrency model that made Erlang famous. Hope to
 see you there.
 
-Bio: Dylan Forciea is a software engineer at Oseberg, Inc. in Oklahoma
+== Speaker Bio
+
+Dylan Forciea is a software engineer at Oseberg, Inc. in Oklahoma
 City. He has worked on lots of object-oriented software using Java and
 C++,  and now uses Scala to write software for the oil and gas
 industry. Prior to joining Oseberg, he has worked on systems ranging

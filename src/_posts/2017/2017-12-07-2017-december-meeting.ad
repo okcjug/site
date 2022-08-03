@@ -6,19 +6,10 @@ layout: post
 tags: blog
 status: published
 author: 8
+when: 2017-12-12 11:30
+location: StarSpace46 / Techlahoma 1141 W. Sheridan Avenue
+topic: "Kotlin All the Way Down"
 ---
-
-== When: December 12, 2017    11:30 - 13:00
-
-== Where: StarSpace46  1141 W. Sheridan Avenue
-
-[[mapDiv]]
-
-Website: http://www.starspace46.com/
-
-== [.m_-8007405605425576190gmail-il]##Speaker: ##Jason Lee
-
-== Topic: Kotlin All the Way Down# ##
 
 Recently, JetBrains held the (inaugural?) KotlinConf in San Francisco.
 Along with the conference came management application to help attendees
@@ -30,6 +21,9 @@ application development library Anko, as we build a vastly simplified
 mobile app and backend. This demo application should give you all you
 need both to understand how each of these projects work as well as how
 to build your mobile application, all in Kotlin.
+
+== Speaker Bio
+Jason Lee
 
 '''''
 

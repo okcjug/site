@@ -6,21 +6,12 @@ layout: post
 tags: blog
 status: published
 author: 8
+when: 2017-04-11 11:30
+location: StarSpace46 / Techlahoma 1141 W. Sheridan Avenue
+topic: "We need to talk about \"Production\""
 ---
 
-== When: April 11, 2017    11:30 - 13:00
-
-== Where: StarSpace46  1141 W. Sheridan Avenue
-
-[[mapDiv]]
-
-Website: http://www.starspace46.com/
-
-== [.m_-8007405605425576190gmail-il]#Counselor: Ryan Hoegg #
-
-== Topic: We need to talk about "Production" #
-
-=== Hey Java Developers,
+Hey Java Developers,
 
 I've been meaning to talk to you about something. We've been working
 together a while now, and I feel like you might not always give
@@ -29,7 +20,7 @@ requirements meetings, or work with it much during development.
 Sometimes it feels like you just hand Production your code and move on
 to other things!
 
-I'm setting up a meeting next week ([.aBn]#[.aQJ]#April 11##) to see if
+I'm setting up a meeting next week (April 11) to see if
 we can improve your working relationship.  Here's a rough agenda. I'll
 bring some background on these things, and I hope I can get some good
 conversation started and improve your relationship:
@@ -46,7 +37,9 @@ conversation started and improve your relationship:
 
 
 Please go to Meetup and sign up so we will have a count for the food.
-http://meetu.ps/e/CjXlj/hQ4T0/d[Meetup] We thank
+http://meetu.ps/e/CjXlj/hQ4T0/d[Meetup]
+
+We thank
 http://techlahoma.org/[Techlahoma] for generously providing the food
 and drink, and to http://www.starspace46.com/[StarSpace46] for providing
 the facility.

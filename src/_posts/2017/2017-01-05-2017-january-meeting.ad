@@ -6,21 +6,11 @@ layout: post
 tags: blog
 status: published
 author: 8
+when: 2017-01-10 11:30
+location: StarSpace46 / Techlahoma 1141 W. Sheridan Avenue
+topic: "gRPC 101 for Java Developers"
+
 ---
-
-== When: January 10, 2017    11:30 - 13:00
-
-== Where: StarSpace46  1141 W. Sheridan Avenue
-
-[[mapDiv]]
-
-Website: http://www.starspace46.com/
-
-== Speaker: [.m_-8007405605425576190gmail-il]#Ray Tsang #
-
-== Topic: gRPC 101 for Java Developers #
-
-=== Synopsis
 
 gRPC is a high performance, open source, general RPC framework that puts
 mobile and HTTP/2 first. gRPC is based on many years of Google's
@@ -46,7 +36,7 @@ Spring Boot and RxJava.
 * Integrating w/RxJava's observable sequences, which matches very well
 with gRPC's Stream Observable constructs
 
-==== Speaker Bio:
+== Speaker Bio:
 
 Ray Tsang is a Developer Advocate for the Google Cloud Platform. Ray had
 extensive hands on cross-industry enterprise systems integration

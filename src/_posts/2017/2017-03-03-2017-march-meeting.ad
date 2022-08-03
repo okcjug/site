@@ -6,21 +6,11 @@ layout: post
 tags: blog
 status: published
 author: 8
+when: 2017-03-14 12:30
+location: StarSpace46 / Techlahoma 1141 W. Sheridan Avenue
+topic: "Reactive Spring"
+
 ---
-
-== When: March 14, 2017    _12:30 - 14:00 (Due to Speaker's flight arrival) _
-
-== Where: StarSpace46  1141 W. Sheridan Avenue
-
-[[mapDiv]]
-
-Website: http://www.starspace46.com/
-
-== Speaker: [.m_-8007405605425576190gmail-il]#Mark Heckler, Pivotal #
-
-== Topic: Reactive Spring #
-
-=== Synopsis
 
 Spring 5 is almost here! One of the most exciting introductions in this
 release is support for reactive programming, building on Pivotal's
@@ -42,9 +32,7 @@ Please note that the new start time is 12:30 pm.*
 
 ***********
 
-Please go to Meetup and sign up so we will have a count for the food.
-https://www.meetup.com/okcjug/events/237790220/[Meetup]
+== Speaker Bio
 
-We thank http://techlahoma.org/[Techlahoma] for generously
-providing the food and drink, and to
-http://www.starspace46.com/[StarSpace46] for providing the facility.
+Mark Heckler...
+

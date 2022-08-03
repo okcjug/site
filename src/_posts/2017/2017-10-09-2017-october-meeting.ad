@@ -6,24 +6,18 @@ layout: post
 tags: blog
 status: published
 author: 8
+when: 2017-10-10 11:30
+location: StarSpace46 / Techlahoma 1141 W. Sheridan Avenue
+topic: "Writing DSL's in Groovy"
 ---
-
-== When: October 10, 2017    11:30 - 13:00
-
-== Where: StarSpace46  1141 W. Sheridan Avenue
-
-[[mapDiv]]
-
-Website: http://www.starspace46.com/
-
-== [.m_-8007405605425576190gmail-il]#Speaker: Chad Gorshing #
-
-== Topic: Writing DSL's in Groovy #
 
 Domain Specific Languages have been around for a while and most of us
 have experienced them more from the "user" side. This month's meeting we
 will go over how to be a creator of one using Groovy as the language of
 choice.
+
+== Speaker Bio
+Chad Gorshing
 
 '''''
 

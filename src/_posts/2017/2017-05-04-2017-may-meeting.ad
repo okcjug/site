@@ -6,19 +6,10 @@ layout: post
 tags: blog
 status: published
 author: 8
+when: 2017-05-09 11:30
+location: StarSpace46 / Techlahoma 1141 W. Sheridan Avenue
+topic: "Stick a fork in the websocket, it's done"
 ---
-
-== When: May 9, 2017    11:30 - 13:00
-
-== Where: StarSpace46  1141 W. Sheridan Avenue
-
-[[mapDiv]]
-
-Website: http://www.starspace46.com/
-
-== [.m_-8007405605425576190gmail-il]#Speaker: Brian Sheldon #
-
-== Topic: Stick a fork in the websocket, it's done #
 
 I've wanted to make an app in the cloud (aka someone else's server) that
 uses several technologies.
@@ -36,6 +27,9 @@ My plan is to display a map of the world, click on the map to create a
 marker which then gets broadcast to anyone else on the web page.
 
 Clicking on a marker deletes it from everyone's map.
+
+== Speaker Bio:
+Brian Sheldon
 
 '''''
 
