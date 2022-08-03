@@ -2,6 +2,7 @@
 title: "2019 January Meeting"
 date: 2019-01-08
 type: post
+layout: post
 tags: blog
 status: published
 author: 11
@@ -11,7 +12,7 @@ topic: "Spice up your Java with Project Lombok"
 ---
 
 In this session we will showcase the main features of Project Lombok
-(https://projectlombok.org) and demonstrate how you can make your Java
+(https://projectlombok.org[]) and demonstrate how you can make your Java
 code cleaner, more readable, and way less verbose. With the information
 shared in this talk you should be able to start using Lombok right away
 in your Java projects - even legacy projects.

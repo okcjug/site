@@ -18,9 +18,9 @@
                         <div class="container">
                             <div class="carousel-caption relative">
                                 <div class="row d_flex">
-                                    <div class="col-lg-9 offset-lg-3 col-md-9 offset-md-3">
+                                    <div class="col-lg-10 offset-lg-2 col-md-10 offset-md-2">
                                         <div class="creative">
-                                            <h1>{{ post.title }}</h1>
+                                            <h1><a href="{{ post.url}}" style="color: #fff">{{ post.title }}</a></h1>
                                             <h2>{{ post.when | date: '%B %d, %Y - %I:%M%P' }}</h2>
                                             {{ post.excerpt | strip_html | truncate: 500 }}
                                             <a class="read_more" href="{{ post.url}}">Read More</a>
