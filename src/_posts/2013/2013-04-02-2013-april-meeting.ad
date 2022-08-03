@@ -1,29 +1,29 @@
 ---
-title: "April 9, 2013 Meeting"
+title: "2013 April Meeting"
 date: 2013-04-02
 type: post
 layout: post
 tags: blog
 status: published
 author: 3
+when: 2013-04-09 11:30
+location: Northwest Library
+topic: "Developing Next Generation Apps"
 ---
-What:
- http://www.nofluffjuststuff.com/topics/developing_next_generation_applications[Developing Next
-Generation Apps] Where:
-https://maps.google.com/maps/ms?msid=216695189249498761913.0004d76ac5ac80851d55d&msa=0&ll=35.594253,-97.619158&spn=0.006386,0.00854[Library
-at NW122 east of MacArthur room B] When:  11:30 am to 12:45 pm Who: Â
- http://www.nofluffjuststuff.com/conference/speaker/craig_walls[Craig
-Walls] (author of Spring in Action) Register:
- https://plus.google.com/u/0/105032475714454328144/posts/d5er9Ri5vfe[Here]
+
 Brought to us by http://www.nofluffjuststuff.com/home/main[No Fluff Just
 Stuff ] coming to
 http://www.nofluffjuststuff.com/conference/dallas/2013/05/home[Dallas on
-May 17-19] For a long while, we've built applications pretty much the
+May 17-19]
+
+For a long while, we've built applications pretty much the
 same way. Regardless of the frameworks (or even languages and platforms)
 employed, we've packaged up our web application, deployed it to a server
 somewhere, and asked our users to point their web browser at it. But now
 we're seeing a shift in not only how applications are deployed, but also
-in how they're consumed. The cost and hassle of setting up dedicated
+in how they're consumed.
+
+The cost and hassle of setting up dedicated
 servers is driving more applications into the cloud. Meanwhile, our
 users are on-the-go more than ever, consuming applications from their
 mobile devices more often than a traditional desktop browser. And even
@@ -31,8 +31,14 @@ the desktop user is expecting a more interactive experience than is
 offered by simple page-based HTML sites. With this shift comes new
 programming models and frameworks. It also involves a shift in how we
 think about our application design. Standing up a simple HTML-based
-application is no longer good enough. In this session, we'll discuss
+application is no longer good enough.
+
+In this session, we'll discuss
 what the next generation of applications looks like, exploring such
 things as the mobile web and cloud computing. We'll also dig into some
 of the technologies and practices such as REST, OAuth, and JavaScript
 microframeworks that enable us to move forward.
+
+== Speaker Bio
+http://www.nofluffjuststuff.com/conference/speaker/craig_walls[Craig
+Walls] (author of Spring in Action)

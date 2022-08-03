@@ -1,0 +1,30 @@
+---
+title: "October 2014 Meeting"
+date: 2014-10-13
+type: post
+layout: post
+tags: blog
+status: published
+author: 8
+when: 2014-10-14 11:30
+location: Prototek, 401 NW 10th St. (Downtown OKC)
+topic: "Contract-First REST Development"
+---
+
+For many REST developers, API design and implementation is an iterative
+process taking place mostly in code: a rough idea of the API is mentally
+sketched out, and some code is written; API tweaks are made, and the
+code is changed; repeat ad [.st]#nauseam#. While this can and does work,
+it's not always the most efficient, as design details can be lost in all
+the code.
+
+== Speaker Bio
+Jason Lee
+
+
+[IMPORTANT]
+=====
+Due to a continuing lack of sponsorship for the remainder of 2014 and delays in getting some sponsorship money that is owed, there will be [line-through]*no food or* giveaway at this month's meeting. If you want to sponsor in the future then please contact Brent Wilkins (drodmaster@gmail.com or bwilkins@hertz.com or 405.650.7467).*
+
+Thanks to Chad Gorshing and Nuisto we will be having pizza and pop for the meeting today.
+=====
