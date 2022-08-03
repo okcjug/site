@@ -1,26 +1,15 @@
 ---
-title: "September 8 Meeting"
+title: "2015 September Meeting"
 date: 2015-09-04
 type: post
 layout: post
 tags: blog
 status: published
 author: 8
+when: 2015-09-08 11:30
+location: Prototek, 401 NW 10th St. (Downtown OKC)
+topic: "Cloudy with a Chance of Java: Building Multitenant Java EE Cloud Applications"
 ---
-
-== When: September 8, http://buycialisonlinefree.net/[order] 2015    11:30 - 13:00
-
-"
-
-== Where: Prototek    401 NW 10th St.   Downtown OKC
-
-[[mapDiv]]
-
-Website: http://prototekokc.com/"
-
-== Speaker: Jason Lee
-
-== Topic: Cloudy with a Chance of Java: Building Multitenant Java EE Cloud Applications
 
 It's clear that the cloud is here to stay,
 so software vendors must
@@ -35,6 +24,9 @@ customer data: having separate databases; a shared database and separate
 schemas; or a shared database and a shared schema. You 'll see working
 code examples of each approach, so you 'll leave with everything you
 need in order to get started on moving your app into the cloud.
+
+== Speaker Bio
+Jason Lee
 
 == Pizza, Chairs, etc.
 

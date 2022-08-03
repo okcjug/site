@@ -1,36 +1,27 @@
 ---
-title: "October Meeting"
+title: "2015 October Meeting"
 date: 2015-10-09
 type: post
 layout: post
 tags: blog
 status: published
 author: 4
+when: 2015-10-13 11:30
+location: Prototek, 401 NW 10th St. (Downtown OKC)
+topic: "Test Driven Development Workshop"
 ---
 
-== When: October 13, 2015    11:30 - 13:00
-
-== Where: Prototek    401 NW 10th St.   Downtown OKC
-
-[[mapDiv]]
-
-Website: http://prototekokc.com/"
-
-== Speaker: Brett Schuchert
-
-== Topic: Test Driven Development Workshop
-
-=== Or, You Might Get What You Want If You Ask For Itâ€¦
-
-" It's been some time since we've practiced Test Driven Development
+It's been some time since we've practiced Test Driven Development
 (TDD) in the JUG. This week we 'll start with a problem some of us have
-seen before. We 'll work through it,
-making group
+seen before. We 'll work through it, making group
 decisions, writing code and working on the rhythm of tdd. Brett will
-bring a wireless mouse and keyboard so you can participate (if you want)
+bring a wireless mouse and keyboard, so you can participate (if you want)
 remotely. We 'll either work through a few problems or the same problem
 a few times. If you're coming looking for slides, look elsewhere.
 You 'll see an IDE and an empty test file. OK, let's go!
+
+== Speaker Bio
+Brett Schuchert
 
 == Pizza, Chairs, etc.
 

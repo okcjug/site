@@ -1,28 +1,23 @@
 ---
-title: "April Meeting: Double Header with Venkat Subramaniam"
+title: "2015 April Meeting: Double Header with Venkat Subramaniam"
 date: 2015-04-13
 type: post
 layout: post
 tags: blog
 status: published
 author: 4
+when: 2015-03-10 11:30
+location: The Paramount, OKC, 701 West Sheridan Avenue, Oklahoma City, OK
+topic: "'Transforming to Java 8' and 'Core Software Design Principles'"
 ---
+[NOTE]
+=====
+Please note the change in time and location this month
+=====
 
-== When: April 14, 2014    16:00 - 20:00
+We have a double header this month:
 
-=== Please note the change in time and location this month!Â
-
-== Where: The Paramount, OKC
-
-=== 701 West Sheridan Avenue, Oklahoma City, OK (on Film Row)
-
-
-
-== Speaker: https://nofluffjuststuff.com/conference/speaker/venkat_subramaniam[Venkat Subramaniam]
-
-
-
-=== 4:00pm: Transforming to Java 8
+== 4:00pm: Transforming to Java 8
 
 The new facilities in Java 8 is about the change the way we write code.
 Our code will become more expressive and concise. But, exactly how? In
@@ -31,7 +26,7 @@ discuss the core idea expressed in code, and transform that code to use
 the facilities in Java 8. Watch and interact as you see Java code go
 through a weight loss program right in front of your eyes.
 
-=== 6:00pm: Core Software Design Principles
+== 6:00pm: Core Software Design Principles
 
 Creating code is easy, creating good code takes a lot of time, effort,
 discipline, and commitment. The code we create are truly the
@@ -42,3 +37,6 @@ that can help us create better design and more maintainable code.
 Pizza and drinks will be provided between the 2 sessions. Also, one
 lucky attendee from each session will win a $25 Amazon gift card. Stay
 for both sessions and double your chances of wining.
+
+== Speaker Bio
+https://nofluffjuststuff.com/conference/speaker/venkat_subramaniam[Venkat Subramaniam]

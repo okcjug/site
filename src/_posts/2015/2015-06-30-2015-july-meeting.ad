@@ -1,27 +1,17 @@
 ---
-title: "July Meeting: An Introduction to Programming with Minecraft Mods"
+title: "2015 July Meeting"
 date: 2015-06-30
 type: post
 layout: post
 tags: blog
 status: published
 author: 1
+when: 2015-07-13 11:30
+location: Prototek, 401 NW 10th St. (Downtown OKC)
+topic: "An Introduction to Programming with Minecraft Mods"
 ---
 
-== When: July 13, 2015    11:30 - 13:00
-
-== Where: Prototek    401 NW 10th St.   Downtown OKC
-
-[[mapDiv]]
-
-Website: http://prototekokc.com/"
-
-== Speaker: Jason Lee
-
-== Topic: An Introduction to Programming with Minecraft Mods
-
-Greetings, Oklahoma City
-tech community! Do you have a son or daughter (or niece, nephew,
+Greetings, Oklahoma City tech community! Do you have a son or daughter (or niece, nephew,
 grandchild, super-friendly neighborhood child) who loves Minecraft? Does
 said Minecraftian have an interest in learning how to program? If so,
 this is your lucky day. The Oklahoma City Java User Group would like to
@@ -35,7 +25,7 @@ classes, etc) using the Java programming language. Having a concrete,
 usable goal is always more interesting, so we 'll learn these concepts
 as we develop (and RUN!) simple Minecraft mods.
 
-*Will my _CHILD<Relationship>_ be an expert programmer or modder when
+*Will my _Child<Relationship>_ be an expert programmer or modder when
 we're done?* Probably not, but the hope is that this session will be
 enough to flatten the learning curve a bit, leaving each child
 well-equipped for further study, either self-directed or with you, as
@@ -58,20 +48,22 @@ environment.
 *This sounds great? When and where is it?!* In a departure from our
 normal schedule (which will be significant only for normal JUG
 attendees), we will be meeting on Monday, July 13 at 11:30AM at
-Prototek, which is located at 10th and Hudson in Oklahoma City
-(https://goo.gl/maps/tD26c). You can park in the dirt lot Hudson, just
+https://goo.gl/maps/tD26c[Prototek], which is located at 10th and Hudson in
+Oklahoma City. You can park in the dirt lot on Hudson, just
 north of Park Place. Do not park ON Park Place, as I own both that and
 Boardwalk, and my improvements there are guaranteed to ruin you.
 
 *That's right during lunch. What's wrong with you people?* Nothing
-that some free pizza can 't solve, so bring your appetite!
+that some free pizza can't solve, so bring your appetite!
 
 *What should we bring to the session?* To participate, you will
 obviously need a laptop to work on, with one per laptop per child (no
 government organizations/programs, please) being ideal. If you are
 bringing multiple wee ones and need to share, that would be fine. If you
-don 't have a laptop and just want to come listen, that will work as
-well. :) *Do I need a Minecraft license?* For this session, you do not.
+don't have a laptop and just want to come listen, that will work as
+well. :)
+
+*Do I need a Minecraft license?* For this session, you do not.
 The game will run just fine without a license. The only caveat is that
 you will not be able to connect to any servers without a valid license
 from Mojang.
@@ -89,28 +81,24 @@ come out for a fun time.
 I made that really large for two reasons: I really wanted to use that
 formatting bar in Thunderbird that I 've ignored for so long, and I
 wanted to make sure you don 't miss this part. :) You *can* come and
-set up your laptop at the meeting, but we won 't have time to do that
+set up your laptop at the meeting, but we won't have time to do that
 as a group, so we 'll have to keep moving while you're setting up. If
 you have to do that, that's fine. I hope to conscript a few of the JUG
 leaders to act as workshop assistants in case anyone needs help
 installing the various pieces. Another issue is bandwidth: Prototek will
-let us use their wifi, but regardless of their bandwidth, when two dozen
-people start downloading all of the dependencies, it probably won 't be
+let us use their Wi-Fi, but regardless of their bandwidth, when two dozen
+people start downloading all the dependencies, it probably won't be
 very fast. :)
 
 *What do you need to download then?* These three things:
 
-. Java -
-http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html.
-You will need the Java SDK, and I would suggest the latest version,
+. http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html[Java] - You will need the Java SDK, and I would suggest the latest version,
 which is currently Java SE 8u45. Download the installer appropriate for
 your platform and install it.
-. NetBeans - https://netbeans.org/downloads/ - You will need the Java SE
+. https://netbeans.org/downloads/[NetBeans] -  You will need the Java SE
 version. Again, get the installer appropriate for your platform and
 install it.
-. Minecraft Forge -
-http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8-11.14.1.1341/forge-1.8-11.14.1.1341-src.zip
-- There are platform-specific installers, but I 'd just get this zip
+. http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8-11.14.1.1341/forge-1.8-11.14.1.1341-src.zip[Minecraft Forge] - There are platform-specific installers, but I 'd just get this zip
 
 With those downloaded and installed, extract the zip file (using the
 tool of your choice) in a directory. Mac and Linux users can do this:
@@ -145,8 +133,7 @@ Congratulations, you should be ready to go.
 
 *Whew! That's kind of hard to follow!* Well, yeah. If you're like me
 and like to see pictures, you can see these same instructions on the
-NetBeans blog at
-https://blogs.oracle.com/geertjan/entry/seamless_minecraft_forge_in_netbeans.
+https://blogs.oracle.com/geertjan/entry/seamless_minecraft_forge_in_netbeans[NetBeans blog].
 
 *But I don 't like NetBeans. I like pain!* There may be some Eclipse
 fans out there. If you just have to use Eclipse, you can generate the
@@ -157,7 +144,8 @@ Sure! Just run `gradlew idea` to generate the project files.
 
 *Is that "all"?* Should be. Pretty simple, huh? :P If you run into
 problems, try to do as much as you can before you come, and you can
-either ask for help on the JUG mailing list
-(http://okcjug.org/contact-us) or, worst-case scenario, wait until the
-day of the JUG and get help there (though it would help to arrive early
+either ask for help on the http://okcjug.org/contact-us[JUG mailing list] or, worst-case scenario, wait until the day of the JUG and get help there (though it would help to arrive early
 ;).
+
+== Speaker Bio
+Jason Lee
