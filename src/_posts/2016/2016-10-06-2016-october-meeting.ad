@@ -6,30 +6,28 @@ layout: post
 tags: blog
 status: published
 author: 8
+when: 2016-10-11 11:30
+location: Prototek, 401 NW 10th St. (Downtown OKC)
+topic: "Find Data in the Blink of an Eye"
 ---
 
-== When: October 11, 2016    11:30 - 13:00
-
-== Where: ProtoTek    401 NW 10th St.   Downtown OKC
-
-[[mapDiv]]
-
-Website: http://prototekokc.com/"
-
-== Speaker: [.m_-8007405605425576190gmail-il]##Sourav## Pati , http://buycialisonlinecoupon.net/[purchase] Software Development Engineer , MBO Partners
-
-== Topic: Find Data in the Blink of an Eye #
-
-Elasticsearch â€“ open source ,distributed-full text search engine,built
+Elasticsearch is an open source, distributed, full-text search engine, built
 for speed. It offers solutions of scalability of big data search and it
 is accessible through API . In the recent time due to rapid growth of
 technologies, software development and its unprecedented utilization,
 search engine has become a paramount resource. During my presentation,
 we will see the basic concept of Elasticsearch,why should we care about
-it and how does it serve a mind-boggling performance . At the end we
-will see a few live examples of some the common use cases. We thank
+it and how does it serve a mind-boggling performance. At the end, we
+will see a few live examples of some the common use cases.
+
+== Speaker Bio
+Sourav Pati, Software Development Engineer , MBO Partners
+
+We thank
 http://techlahoma.org/[Techlahoma] for generously providing the food
 and drink, and to http://prototekokc.com/[ProtoTekOKC] for providing the
 facility.
 
-=== We are meeting at ProtoTek again this month as the new location is still not ready. 
+*****
+We are meeting at ProtoTek again this month as the new location is still not ready.
+*****

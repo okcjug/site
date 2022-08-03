@@ -1,24 +1,15 @@
 ---
-title: "2016 - January Meeting"
+title: "2016 January Meeting"
 date: 2016-01-07
 type: post
 layout: post
 tags: blog
 status: published
 author: 8
+when: 2016-01-12 11:30
+location: Prototek, 401 NW 10th St. (Downtown OKC)
+topic: "Legacy Refactoring"
 ---
-
-== When: January 12, 2016    11:30 - 13:00
-
-== Where: Prototek    401 NW 10th St.   Downtown OKC
-
-[[mapDiv]]
-
-Website: http://prototekokc.com/"
-
-== Speaker: Brett Schuchert
-
-== Topic: Legacy Refactoring
 
 This is an updated version of a legacy refactoring demonstration.
 We 'll have a look at some code that is a mess (what code isn 't) and
@@ -30,10 +21,10 @@ refactoring approach. We 'll touch on some of the important things to
 keep in mind when working with legacy code and, more importantly, the
 smallest unit of reasonable legacy refactoring.
 
-=== 
+== Speaker Bio:
+Brett Schuchert
 
-=== Pizza, Chairs, etc.
-
+== Pizza, Chairs, etc.
 We thank http://techlahoma.org/[Techlahoma] for generously
 providing the materials for the meeting, including the projector,
 pizza, and chairs.

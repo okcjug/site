@@ -6,21 +6,15 @@ layout: post
 tags: blog
 status: published
 author: 8
+when: 2016-11-08 11:30
+location: StarSpace46 / Techlahoma 1141 W. Sheridan Avenue
+topic: "Microservices and Me"
 ---
 
-== ***** NOTICE: NEW LOCATION  *****
-
-=== When: November 8, 2016    11:30 - 13:00
-
-=== Where: StarSpace46  1141 W. Sheridan Avenue
-
-[[mapDiv]]
-
-Website: http://www.starspace46.com/
-
-=== Speaker: [.m_-8007405605425576190gmail-il]#Ryan Hoegg #
-
-=== Topic: Microservices and Me #
+[NOTE]
+=====
+NEW LOCATION
+=====
 
 Those of us involved with software systems have probably been hearing
 and reading about microservice architecture more and more. We'll explore
@@ -30,6 +24,9 @@ service discovery, handling failure, and disposable software.
 
 This talk is meant for humans who work together to try to get computers
 to do useful things.  That includes java developers.
+
+== Speaker Bio
+Ryan Hoegg
 
 We thank http://techlahoma.org/[Techlahoma] for generously
 providing the food and drink, and to

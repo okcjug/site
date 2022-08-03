@@ -6,19 +6,10 @@ layout: post
 tags: blog
 status: published
 author: 8
+when: 2016-03-08 11:30
+location: Prototek, 401 NW 10th St. (Downtown OKC)
+topic: "Intro to Continuous Delivery"
 ---
-
-== When: March 8, 2016    11:30 - 13:00
-
-== Where: Prototek    401 NW 10th St.   Downtown OKC
-
-[[mapDiv]]
-
-Website: http://prototekokc.com/"
-
-== Speaker: Ryan Hoegg
-
-== Topic: Intro to Continuous Delivery#
 
 Continuous delivery is a central theme in the DevOps movement, and
 certainly a central component of the culture. It is the set of
@@ -26,6 +17,11 @@ engineering techniques, practices, processes, and tools for releasing
 changes to software services frequently and reliably.# We 'll
 review the concepts involved in CD, take a look a working CD pipeline
 for an example application, and discuss how this could apply to other
-projects.#   Pizza, Chairs, etc. We thank
+projects.
+
+== Speaker Bio
+Ryan Hoegg
+
+Pizza, Chairs, etc. We thank
 http://techlahoma.org/[Techlahoma] for generously providing the
 materials for the meeting, including the projector, pizza, and chairs.

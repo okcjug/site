@@ -29,7 +29,7 @@ We'll use JPA for persistence, and secure the application using JSON Web
 Tokens, all fully tested. At the end of the session, we'll have a solid
 foundation for building microservices using this new offering. +
 
-=== Speaker:
+== Speaker Bio:
 
 *Jason Lee* is a Senior Member of the Technical Staff for Oracle working
 on the GlassFish Administration Console as well as the RESTful

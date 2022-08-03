@@ -6,19 +6,10 @@ layout: post
 tags: blog
 status: published
 author: 8
+when: 2016-06-14 11:30
+location: Prototek, 401 NW 10th St. (Downtown OKC)
+topic: "What Is Functional Programming and Why Should You Care?"
 ---
-
-== When: June 14, 2016    11:30 - 13:00
-
-== Where: Prototek    401 NW 10th St.   Downtown OKC
-
-[[mapDiv]]
-
-Website: http://prototekokc.com/"
-
-== Speaker: Jordan Parmer, Software Engineer, Oseberg
-
-== Topic: What Is Functional Programming and Why Should You Care? #
 
 It's hard to ignore the growing number of Functional Programming
 languages. Haskell, Scala, Clojure, F#, Erlang, R, and many more. But
@@ -26,6 +17,10 @@ what is Functional Programming and why should you care?  This talk sets
 out to demystify FP, debunk common misconceptions, and highlight ways FP
 can solve certain problems. Stuck with Java or C#. No worries!
 Functional programming doesn't require a purely functional programming
-language. It's a different way of building. Let's get functional! We
-thank http://techlahoma.org/[Techlahoma] for generously providing the
+language. It's a different way of building. Let's get functional!
+
+== Speaker Bio
+Jordan Parmer, Software Engineer, Oseberg
+
+We thank http://techlahoma.org/[Techlahoma] for generously providing the
 materials for the meeting, including the projector, pizza, and chairs.

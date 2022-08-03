@@ -20,7 +20,7 @@ bottlenecks caused by locking and memory leaks. We will specifically
 cover Java Mission Control (JMC), and Eclipse Memory Analyzer Tool
 (MAT).
 
-=== Speakers:
+== Speakers:
 
 *Bill Spens* is Director of Software Development at Power Costs, Inc.
 (PCI); He has 10 years of experience troubleshooting Java and Oracle
