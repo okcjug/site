@@ -75,6 +75,7 @@ pagination:
   layout: 'post'
 
 asciidoctor:
+  base_dir: :source
   attributes:
     icons: font
     source-highlighter: rouge

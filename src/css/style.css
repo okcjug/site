@@ -1030,3 +1030,7 @@ ul.pager li.selected {
 .perfect a {
     text-decoration: underline !important;
 }
+
+.right {
+    float: right;
+}
