@@ -6,15 +6,22 @@ layout: post
 tags: blog
 status: published
 author: jdlee
-when: 2024-03-05 TBD
-location: TBD
+when: 2024-03-05 6:30PM
+location: Vareeda Fenimore Learning Lab, room 2023, OMES Data Center, 3115 N Lincoln Blvd, Oklahoma City, OK 73105
 topic: "What the CRaC - Superfast JVM startup"
 speakerdir: ../../_speakers
 ---
 
+== POST UPDATED WITH MEETING LOCATION AND TIME
+
 For our March meeting, we have a special guest coming in to share with us. Gerrit Grunwald is a Java Champion, a JUG leader, and a Principal Engineer with Azul Systems. He'll be discussing and demoing a JDK addition that Azul has developed to boost Java application start up times.
 
-Since he's flying in, we'll have to adjust our normal schedule a bit, and we haven't finalized the details just yet, but I'll update this post (and email the list) when we've done so.
+[NOTE]
+====
+Location details updated below
+====
+
+Since he's flying in, we'll have to adjust our normal schedule a bit. We'll be meeting at *6:30PM*, and we'll be meeting at a new location, the https://maps.app.goo.gl/WTArFPtvEqtihw6v8[Office of Management and Enterprise Services (OMES) Data Center at 3115 N Lincoln Blvd, Oklahoma City, OK 73105].
 
 This should be a great -- and immediately useful -- presentation. I hope to see to you there!
 
