@@ -6,10 +6,22 @@ layout: post
 tags: blog
 status: published
 author: jdlee
-when: 2024-03-05 6:30PM
-location: Vareeda Fenimore Learning Lab, room 2023, OMES Data Center, 3115 N Lincoln Blvd, Oklahoma City, OK 73105
+meeting_date: 2024-03-05
+meeting_time: 6:30PM
+location: omes
+speaker: gerrit-grunwald
 topic: "What the CRaC - Superfast JVM startup"
-speakerdir: ../../_speakers
+presentation: >
+  In a world where microservices are more and more a standard architecture for Java based applications running in the cloud, the JVM warmup time can
+  become a limitation. Especially when you look at spinning up new instances of an app as response to changes in load, the warmup time can be a problem.
+  Native images are one solution to solve these problems because their statically ahead of time compiled code simply doesn’t have to warmup and so has
+  short startup time. But even with the shorter startup time and smaller footprint it doesn’t come without a drawback. The overall performance might be
+  slower because of the missing JIT optimisations at runtime. There is a new OpenJDK project called CRaC (Coordinated Restore at Checkpoint) which goal
+  it is to address the JVM warmup problem with a different approach. The idea is to take a snapshot of the running JVM, store it in files and restore the
+  JVM at a later point in time (or even on another machine).
+
+  This session will give you a short overview of the CRaC project and shows some results from a proof of concept implementation.
+
 ---
 
 == POST UPDATED WITH MEETING LOCATION AND TIME
@@ -26,12 +38,3 @@ Since he's flying in, we'll have to adjust our normal schedule a bit. We'll be m
 This should be a great -- and immediately useful -- presentation. I hope to see to you there!
 
 Please be sure to RSVP over at https://www.meetup.com/oklahoma-city-java-users/events/299357829[Meetup] so we can make an accurate food order.
-
-== The Presentation
-
-In a world where microservices are more and more a standard architecture for Java based applications running in the cloud, the JVM warmup time can become a limitation. Especially when you look at spinning up new instances of an app as response to changes in load, the warmup time can be a problem. Native images are one solution to solve these problems because their statically ahead of time compiled code simply doesn’t have to warmup and so has short startup time. But even with the shorter startup time and smaller footprint it doesn’t come without a drawback. The overall performance might be slower because of the missing JIT optimisations at runtime. There is a new OpenJDK project called CRaC (Coordinated Restore at Checkpoint) which goal it is to address the JVM warmup problem with a different approach. The idea is to take a snapshot of the running JVM, store it in files and restore the JVM at a later point in time (or even on another machine).
-This session will give you a short overview of the CRaC project and shows some results from a proof of concept implementation.
-
-== Speaker Bio
-
-include::_speakers/gerrit-grunwald.ad[]

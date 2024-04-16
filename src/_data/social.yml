@@ -1,0 +1,12 @@
+- site: Twitter/X
+  url: https://twitter.com/okcjug
+  icon: fa-x-twitter
+- site: GitHub
+  url: https://github.com/okcjug
+  icon: fa-square-github
+- site: Slack
+  url: https://techlahoma.slack.com/archives/C3CLVDZ6H
+  icon: fa-slack
+- site: YouTube
+  url: https://youtube.com/okcjug
+  icon: fa-youtube

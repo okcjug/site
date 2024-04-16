@@ -6,8 +6,9 @@ layout: post
 tags: blog
 status: published
 author: 11
-when: 2019-02-12 11:30
-location: StarSpace46 / Techlahoma 1141 W. Sheridan Avenue
+meeting_date: 2019-02-12
+meeting_time: 11:30
+location: starspace
 topic: "Essential Tools for Performance Metrics and Troubleshooting"
 ---
 Every developer creating real-world applications will have to eventually

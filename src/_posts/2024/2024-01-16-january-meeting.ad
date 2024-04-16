@@ -6,10 +6,14 @@ layout: post
 tags: blog
 status: published
 author: jdlee
-when: 2024-01-23 11:30
-location: Verge OKC / 12 E. California St, Suite 200, OKC, OK
+meeting_date: 2024-01-23
+meeting_time: 11:30am
+location: verge
 topic: "Managing Secrets"
 speakerdir: ../../_speakers
+speaker: ryan-hoegg
+presentation: >
+  Managing sensitive information needed by server software is a problem that software teams share with other parts of IT. Let's explore how modern IT teams solve this problem using dedicated secrets management tools, and how we can incorporate these methods and tools into our Mule applications. Some of the tools we'll review are Hashicorp Vault, AWS Secrets Manager, Azure Key Vault, and Google Secret Manager.
 ---
 
 Our first meeting of the year is scheduled! Our speaker will be our very own Ryan Hoegg. Thanks to the generosity of a local business, we'll be meeting at a new location, https://maps.app.goo.gl/X9KziiAM8dvcpEfXA[The Verge OKC]. There's parking south of the building, so come up Oklahoma Ave and turn west on Wanda Jackson. There's a sign with the cost for parking, but tell them that your there for Verge, and we'll take care of it.
@@ -17,11 +21,3 @@ Our first meeting of the year is scheduled! Our speaker will be our very own Rya
 Please be sure to RSVP over at https://www.meetup.com/oklahoma-city-java-users/events/298585831/[Meetup] so we can make an accurate food order.
 
 Looking forward to seeing everyone again!
-
-== The Presentation
-
-Managing sensitive information needed by server software is a problem that software teams share with other parts of IT. Let's explore how modern IT teams solve this problem using dedicated secrets management tools, and how we can incorporate these methods and tools into our Mule applications. Some of the tools we'll review are Hashicorp Vault, AWS Secrets Manager, Azure Key Vault, and Google Secret Manager.
-
-== Speaker Bio
-
-include::_speakers/ryan-hoegg.ad[]

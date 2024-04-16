@@ -7,7 +7,9 @@ tags: blog
 status: published
 author: jdlee
 ---
-image::/images/i_am_once_again_asking.jpg[Asking,336,250,role=right]
+
+[.right]
+image::/img/i_am_once_again_asking.jpg[Asking,336,250,role="right"]
 I know we've been down this road before, but I intend to not let it slip this time. :) I'd really like to get this going in SOME fashion. If you have any interest in helping me run the JUG (and I need all the help I can get!), please see our mailing list (or its archive) for more details and to join the discussion.
 
 Here is our mailing list info for the interested:

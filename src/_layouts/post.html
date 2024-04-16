@@ -1,35 +1,86 @@
-<!DOCTYPE html>
-<html lang="en">
-{% include head.html %}
-<!-- body -->
-<body class="main-layout">
-{% include header.html %}
-<div class="full_bg">
-</div>
-<!-- perfect -->
-<div class="perfect">
-    <div class="container_width">
-        <h1>{{ page.title }}</h1>
-        {% if page.topic %}
-        <h2>What:</h2>
-        <h3 style="padding-left: 2em">{{ page.topic}}</h3>
-        {% endif %}
+---
+layout: simple
+---
+
+<div class="container">
+    <div class="row">
+        <div class="col" style="padding-right: 2em;">
+            <h1 class="heading">{{ page.title }} {% if page.topic %} - {{ page.topic }}{% endif %}</h1>
+            {{ content }}
+            {% if page.presentation %}
+            <div>
+                <h2 class="heading">The Presentation</h2>
+                <div>{{ page.presentation }}</div>
+            </div>
+            {% endif %}
+            {% if page.speaker %}
+            <div>
+                {% assign speaker = site.data.speakers[page.speaker] %}
+                <h2 class="heading">The Speaker</h2>
+                <div>
+                    <img src="/img/speakers/{{ speaker.image }}"
+                         style="float: left; padding-right: 10px; max-height: 215px" alt="{{ speaker.name }}">
+                    {{ speaker.bio }}
+                </div>
+            </div>
+            {% endif %}
+        </div>
         {% if page.location %}
-        <h2>Where:</h2>
-        <h3 style="padding-left: 2em">{{ page.location }}</h3>
+        {% assign location = page.location | default: "error" %}
+        <div class="col-3">
+            <div style="padding-bottom: 1em;">
+                <h2 class="heading">Meeting Time</h2>
+                {% if page.when %}
+                <b>{{ page.when | default: "error" }}</b>
+                {% endif %}
+                {% if page.meeting_date and page.meeting_time %}
+                <div>Date: {{ page.meeting_date }}</div>
+                <div>Time: {{ page.meeting_time }}</div>
+                {% endif %}
+            </div>
+
+            <div>
+                <h2 class="heading">Meeting Location</h2>
+                <!--                <div id="osm-map"></div>-->
+                {% assign loc = site.data.locations[page.location] %}
+                <iframe src="{{ loc.gmaps }}" height="450" style="border:0; width: 100%;"
+                        allowfullscreen=""
+                        loading="lazy"
+                        referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <b>{{ loc.name }}</b>
+                <div>{{ loc.address }}</div>
+            </div>
+        </div>
+<!--
+        <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
+        <link href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" rel="stylesheet"/>
+
+        <script>
+            // Where you want to render the map.
+            var element = document.getElementById('osm-map');
+
+            // Height has to be set. You can do this in CSS too.
+            element.style = 'height:300px;';
+
+            // Create Leaflet map on map element.
+            var map = L.map(element);
+
+            // Add OSM tile layer to the Leaflet map.
+            L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+                attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+            }).addTo(map);
+
+            // Target's GPS coordinates.
+            var target = L.latLng('47.50737', '19.04611');
+
+            // Set map's center to target with zoom 14.
+            map.setView(target, 14);
+
+            // Place a marker on the same location.
+            L.marker(target).addTo(map);
+        </script>
+-->
+
         {% endif %}
-        {% if page.when %}
-        <h2>When:</h2>
-            <h3 style="padding-left: 2em">{{ page.when }}</h3>
-        {% endif %}
-        <hr/>
-        {{ content }}
     </div>
 </div>
-<!-- end perfect -->
-{% include combined.html %}
-{% include contact.html %}
-{% include footer.html %}
-{% include jsfiles.html %}
-</body>
-</html>

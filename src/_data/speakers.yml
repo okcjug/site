@@ -1,0 +1,211 @@
+adam-farlee:
+  name: Adam Farlee
+  bio: >
+    Adam Farlee is a Sr. Software Engineer/Architect working for Objectstream, Inc. on internal
+    applications development. He has 25 years of experience in Software Development and is 
+    currently working on web development under the Rational Unified Process and Agile methodologies. 
+    He has spent his career acting as a proponent for new technologies as they became available, 
+    starting with RPG II and working all the way through Java.
+alex-miller:
+  name: Alex Miller
+  bio: >
+    Alex Miller is a Senior Engineer with Revelytix, building federated semantic web query technology 
+    with Clojure." Prior to Revelytix, Alex was technical lead at Terracotta, an engineer at BEA 
+    Systems, and Chief Architect at MetaMatrix. His interests include Java, concurrency, distributed 
+    systems, languages, and software design. Alex enjoys tweeting as @puredanger and blogging at 
+    https://tech.puredanger.com/. In St. Louis, Alex is the founder of the Lambda Lounge 
+    group for the study of functional and dynamic languages and the Strange Loop developer conference.
+brett-schuchert:
+  name: Brett Schuchert
+  bio: >
+    Brett Schuchert has over 20 years of teaching experience and 17 years of
+    professional software development experience. Starting in the mid 80's
+    he taught computer literacy courses. At the end of the 80's while still
+    teaching, he began professionally developing first in C++ (before C++
+    had multiple-inheritance) and working with Smalltalk (and for a short
+    stint back he used a pre-ANSI, K&R type 1 C compiler for embedded
+    systems development). He continued with C++ and Smalltalk training and
+    consulting, managing to work with both C++ and Smalltalk on the same
+    project using object-oriented database technology for the short time it
+    was in vogue.
+
+    In 1997 he developed and deployed his first Java application on top of
+    Java 1.0, which he later migrated to Java 1.1 to take advantage of the
+    newly-added Java Serialization. The project used applets to directly
+    update the DOM of a complex web page to avoid the full turn-around of an
+    HTTP get (this is now referred to as AJAX).
+
+    He has continued developing enterprise-level applications in Java and
+    has recently changed the emphasis of his training and mentoring towards
+    software professionalism.
+brian-sheldon:
+  name: Brian Sheldon
+  bio: >
+    Brian has been a programmer since 1987 and has been a java developer for Hertz since
+    2002. He is more passionate about getting the job done than making it
+    pretty. He is not proud of his code. If you know a better way to do
+    something, go for it.
+
+    He has been married since 1982 and has two wonderful daughters.
+chad-gorshing:
+  name: Chad Gorshing
+  bio: >
+    Chad Gorshing has been a software developer for nine years and is currently a consultant for Valtech. He
+    started his career working at Tinker AFB, and branched out of the DoD business into the private sector four years 
+    ago. He lives with his wife and two daughters in Midwest City.
+daniel-mavis:
+  name: Daniel Mavis
+  bio: >
+    Daniel Mavis is an agile web application developer working as the technical lead of the Flight Inspection Automation 
+    Team at the FAA in Oklahoma City for Objectstream, Inc. As a relatively young developer, he enjoys working
+    on the bleeding edge of technologies, constantly learning and looking for new ways to be more agile and effective. 
+    In addition to working full-time on the Java platform, he has also worked in .NET and more recently in Ruby and 
+    various Ruby frameworks such as Rails and Sinatra."
+don-mcgreal:
+  name: Don McGreal
+  bio: >
+    An active member of the software development community for over 12 years, Don McGreal welcomes change and has a 
+    passion for learning -- traits which are well suited for the unpredictable field of software engineering.  As a 
+    consultant, he has fulfilled many roles while ensuring that the clients get the most from each engagement: 
+    Developer, Architect, Business Analyst, Process Coach, and Mentor.  As an instructor, he has created and taught 
+    classes in requirements, architecture, design, and process for thousands of software professionals around the 
+    globe.  Currently, Don is the Director of Learning Solutions for Improving Enterprises, an advanced software professional services firm.
+gerrit-grunwald:
+  image: gerrit-grunwald.jpg
+  name: Gerrit Grunwald
+  bio: >
+    Gerrit Grunwald is a software engineer that loves coding for around 40 years already. He is a true
+    believer in open source and has participated in popular projects like JFXtras.org as well as his own
+    projects (TilesFX, Medusa, Enzo, SteelSeries Swing, SteelSeries Canvas).  Gerrit blogs regularly at
+    https://harmonic-code.org, he is an active member of the Java community, where he founded and leads the
+    Java User Group Münster (Germany), he is a JavaOne rockstar and a Java Champion. He is a speaker at
+    conferences and user groups internationally and writes for several magazines.
+grant-schofield:
+  name: Grant Schofield
+greg-bugaj:
+  name: Greg Bugaj
+  bio: >
+    Greg Bugaj was born and raised in Poland, and moved to the US in 1996.  He is a member of the United States Marine
+    Corps, having served in Iraq in 2003 and 2004.  He works as a Java web application developer
+    working with JSF, Seam and Grails, specializing in developing rich
+    client apps.  He is currently employed by American Bank Systems.  In
+    addition to working, Greg is attending the University of Central
+    Oklahoma, with just a few hours left to get his B.S. in C.S.  Greg is a
+    Sun Certified Java Programmer (SCJP 1.5), and a member of ISSA and DC405.
+hobi-haque:
+  name: Hobi Haque
+  bio: >
+    Hobi Haque completed his Bachelor's degree in computer science at the University of
+    Central Oklahoma in 2002. Hobi is a software developer, having worked at the FAA
+    for over 5 years. He also teaches at the Oklahoma City Community
+    College. He is married and enjoys playing racquetball and running.  His
+    blog can be found at https://hobione.wordpress.com
+jason-lee:
+  name: Jason Lee
+  image: jason-lee.jpg
+  bio: >
+    Jason Lee is a software developer living in the middle of Oklahoma. He has been a professional developer since 1997, 
+    using a variety of languages, including Java, Kotlin, Javascript, PHP, Python, Delphi, and even a bit of C#. He 
+    currently works for Red Hat on the WildFly/EAP team, where, among other things, he maintains integrations for some 
+    MicroProfile specs, OpenTelemetry, Micrometer, Jakarta Faces, and Bean Validation. 
+    (<a href="https://jasondl.ee/resume">Resume</a>, <a href="https://www.linkedin.com/in/jasondlee">LinkedIn</a>)
+    He is the president of the Oklahoma City JUG, an occasional speaker there, as well as at a variety of technical 
+    conferences, and a <a href="https://amzn.to/2FD2XAo">book author</a>.
+
+    On the personal side, he is active in his church, and enjoys bass guitar, running, fishing, and a variety of martial 
+    arts. He is also married to a beautiful woman, and has two boys, who, thankfully, look like their mother.
+jennifer-reif:
+  name: Jennifer Reif
+  image: jennifer-reif.jpg
+  bio: >
+    Jennifer Reif is a Developer Advocate at Neo4j, speaker, and blogger with an MS in CMIS. An avid developer and 
+    problem-solver, she has worked with many businesses and projects to organize and make sense of widespread data 
+    assets and leverage them for maximum business value. She has expertise in a variety of commercial and open source 
+    tools, and she enjoys learning new technologies, sometimes on a daily basis! Her passion is finding ways to organize 
+    chaos and deliver software more effectively.
+john-woodward:
+  name: John Woodward
+  bio: >
+    John Woodward is a Principal Consultant for Improving Enterprises, based out of Dallas, Texas. He has been with 
+    Improving Enterprises for 4 years, and has been a professional software developer for the last 15 years (not 
+    counting 5 years of writing fluid dynamics software while pursuing his PhD in Astrophysics).
+ken-sipe:
+  name: Ken Sipe
+  bio: >
+    Ken Sipe is the CTO of Gradleware, Inc. (https://www.gradleware.com/[gradleware.com]). With the co-founders Hans
+    Dockter and Adam Murdoch, Ken helps companies of all sizes adopt agile practices and automate
+    their enterprise systems enabling faster time to market and higher
+    quality. Ken has been a practitioner and instructor of RUP since the
+    late 1990s, and an extreme programmer and coach since the middle 2000s.
+    Ken has worked with Fortune 500 companies to small startups in the roles
+    of developer, designer, application architect and enterprise architect.
+    Ken's current focus is on enterprise system automation and continuous
+    delivery systems. Ken is an international speaker on the subject of
+    software engineering speaking at conferences such as JavaOne, JavaZone,
+    Jax-India, and The Strange Loop. He is a regular speaker with NFJS where
+    he is best known for his architecture and security hacking talks. In
+    2009, Ken was honored by being awarded the JavaOne Rockstar Award at
+    JavaOne in SF, California and the JavaZone Rockstar Award at JavaZone in
+    Oslo, Norway as the top ranked speaker.
+kenyatta-clark:
+  name: Kenyatta Clark
+  bio: >
+    Kenyatta is a mild mannered fellow with a love for technology. Kenyatta has 11 years of relevant real world
+    experience. He works for MBO Partners in Edmond, OK. He lives in Oklahoma City with his lovely wife and three children.
+les-martin:
+  name: Les Martin
+  bio: >
+    Les Martin is a programmer for MBO Partners (https://mbopartners.com).  He has been programming web related software since 2004.
+
+    Les is married and has one child.  He enjoys music and watches too much television (Lost anyone?).  A fan and user of Ubuntu Linux.
+michael-shorter:
+  name: Michael Shorter
+  bio: >
+    Michael Shorter is a professional code poet who works for Power Costs, Inc. He has been working with Java almost 
+    since its inception. Mike has been professionally programming over the past two and a half decades and has
+    primarily worked in the arenas of systems architecture and systems programming. As a code poet, he has worked with 
+    over 27 different languages, and in environments ranging from mini and mainframe computers to n-tiered client server
+    architectures. His operating system of choice is UNIX, or any derivative (spelled LINUX). When he first learned how 
+    to program, his goal was to write HAL-9000 from 2001: A Space Odyssey, so his interests in the field of computing 
+    are neural networks, genetic algorithms, fuzzy logic and arithmetic and data persistence. Outside of computing, 
+    Mike enjoys dabbling in high energy particle physics, astrophysics, cosmology, quantum physics and comparative
+    belief systems based on sacred texts - the goal being to integrate consciousness and life as basic forces of nature 
+    along with those specified by the Standard Model. He lives in Norman with his wonderful wife Tina Rae and their four 
+    Whippets Buster, Currie, Einstein and Newton.
+mitch-blevins:
+  name: Mitch Blevins
+  bio: >
+    Mitch Blevins is the IT Manager at International Environmental Corp (https://www.iec-okc.com). He comes from a 
+    Mechanical Engineering background, but has enjoyed programming for the past 10 years using C, Perl, and Java.
+    
+    Current interests are: Scala, API Design, and playing with his two daughters. He thinks you all should just leave 
+    Britney alone.  She’s HUMAN!!!!
+rod-coffin:
+  name: Rod Coffin
+  bio: >
+    Rod Coffin is a professional software programmer, architect, and mentor. Perhaps more interesting, he is also an 
+    amateur beer brewer and fly tier.  One can find information about Rod, his thoughts on current software development 
+    trends, and his ongoing projects and interests on his home page (https://rodcoffin.com).  Rod encourages readers to 
+    view his blog (https://blog.rodcoffin.com/) and wikie (https://wiki.rodcoffin.com/) sites as that is where he publishes 
+    most of his content.
+ryan-hoegg:
+  name: Ryan Hoegg
+  image: ryan-hoegg.jpg
+  bio: >
+    Ryan Hoegg has been a member of the OKCJUG since 2006, and still writes software!
+scott-centille:
+  name: Scott Centille
+  bio: >
+    Scott Centille is a Senior Consultant for Valtech Technologies, who has worked as an: Architect, Developer, Project 
+    Leader, and Mentor for over 20 years in the Consulting, Tele-Communication, Hydraulic Distribution, Financial, and 
+    Food Service Industries. As an instructor, he created and taught Java Programming and Web Development with Java 
+    Server Page classes. Scott is a 2nd Degree Black Belt in Taekwondo martial arts Level 1 CIT instructor, who enjoys 
+    competing in tournaments, sparring and performing the double Ssahng Jeol Bong (nunchucks) form. He lives with his 
+    lovely wife and four sons here in Edmond.
+stephen-maina:
+  name: Stephen Maina
+  bio: >
+    Stephen Maina is a consultant (software developer) with Valtech, mainly using Java and Java-related tools. He loves 
+    using Microsoft development tools too, when the opportunity knocks. His interest is in developing POS systems, 
+    factory automation, expert systems, architectural software patterns and management using agile methodologies. 
+    For leisure time, he has an insatiable appetite for travel, movies and making merry.

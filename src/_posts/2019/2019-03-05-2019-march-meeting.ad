@@ -6,9 +6,11 @@ layout: post
 tags: blog
 status: published
 author: 11
-when: 2019-03-12 11:30
-location: StarSpace46 / Techlahoma 1141 W. Sheridan Avenue
+meeting_date: 2019-03-12
+meeting_time: 11:30
+location: starspace
 topic: "Microservices with Micronaut"
+speaker: jason-lee
 ---
 
 As microservices have exploded on to the scene, so have microservice
@@ -28,25 +30,3 @@ a small subset of those features as we build a simple REST service. +
 We'll use JPA for persistence, and secure the application using JSON Web
 Tokens, all fully tested. At the end of the session, we'll have a solid
 foundation for building microservices using this new offering. +
-
-== Speaker Bio:
-
-*Jason Lee* is a Senior Member of the Technical Staff for Oracle working
-on the GlassFish Administration Console as well as the RESTful
-Administration interface. Jason has extensive experience working with
-web-based technologies such as JavaServer Faces and Ajax, as well as
-many other enterprise technologies based on the GlassFish platform.
-
-Jason has been writing software professionally since 1997 in a wide
-variety of languages and environments, including Java, PHP, C/C++, and
-Delphi on both Linux/Unix and Windows. You can read more about what
-Jason's working on at his blog.
-
-Most importantly, Jason is married to a beautiful woman and has two sons
-who, thankfully, look like their mother.
-
-*RSVP via Meetup*: https://www.meetup.com/okcjug/events/258628656/
-
-*StarSpace46 / Techlahoma*: 1141 W Sheridan Ave, Oklahoma City, OK 73106
-
-[[mapDiv]]

@@ -90,7 +90,7 @@ permalink: /news/:year/:title:output_ext
 defaults:
   - scope:
       path: ""
-      type: "authors"
+      type: "speakers"
     values:
       layout: "author"
   - scope:

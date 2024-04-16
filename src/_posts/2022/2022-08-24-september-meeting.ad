@@ -6,10 +6,22 @@ layout: post
 tags: blog
 status: published
 author: jdlee
-when: 2022-09-13 11:30
-location: StarSpace46 / Techlahoma 1141 W. Sheridan Avenue
+meeting_date: 2022-09-13
+meeting_time: 11:30
+location: starspace
 topic: "jOOQ: Data Abstractions Without Distraction"
 speakerdir: ../../_speakers
+speaker: jason-lee
+presentation: >
+  When writing any non-trivial application, database access is a must, and there's a myriad of options for abstracting away the database. For many of those, though, you get abstractions at the cost of transparency. "Why did JPA generate that query?" "Why isn't this join working?" "Why isn't the query executing?" Fortunately, there is a library that gives you full access to the power and flexibility of SQL while also you giving you Java-friendly APIs.
+
+  * Type-safe queries? ✓
+  * Executing stored procedures? ✓
+  * ActiveRecords? ✓
+
+  All of this and more is possible using jOOQ.
+
+  In this session, we'll see how to get started with jOOQ, take a quick survey of its features, and end with a demo application letting jOOQ sell itself.
 ---
 
 After a too-long absence, the Oklahoma City Java Users Group is making a comeback!
@@ -19,19 +31,3 @@ get started then tighten things up as go.
 That means, for least this month, we'll be meeting in a conference room at Starspace (as opposed to the event space used to), at least for now, and no food, so you'll need to bring your own. We're working on fixing those logistics, but, as I noted, we'd like to fix things on the move. :)
 
 We don't currently have a way to RSVP, so just show up. If any of the details change, we'll update this post and email the list. We hope to see as many of you there as we can.
-
-== The Presentation
-
-When writing any non-trivial application, database access is a must, and there's a myriad of options for abstracting away the database. For many of those, though, you get abstractions at the cost of transparency. "Why did JPA generate that query?" "Why isn't this join working?" "Why isn't the query executing?" Fortunately, there is a library that gives you full access to the power and flexibility of SQL while also you giving you Java-friendly APIs.
-
-* Type-safe queries? ✓
-* Executing stored procedures? ✓
-* ActiveRecords? ✓
-
-All of this and more is possible using jOOQ.
-
-In this session, we'll see how to get started with jOOQ, take a quick survey of its features, and end with a demo application letting jOOQ sell itself.
-
-== Speaker Bio
-
-include::_speakers/jason-lee.ad[]

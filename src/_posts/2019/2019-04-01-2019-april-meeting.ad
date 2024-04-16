@@ -6,8 +6,9 @@ layout: post
 tags: blog
 status: published
 author: 11
-when: 2019-04-09 11:30
-location: StarSpace46 / Techlahoma 1141 W. Sheridan Avenue
+meeting_date: 2019-04-09
+meeting_time: 11:30
+location: starspace
 topic: "Reactive Programming Applying Duality: The Lost Art of Denotational Semantics"
 ---
 

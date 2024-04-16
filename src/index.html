@@ -1,66 +1,89 @@
 ---
-layout: default
+layout: simple
 title: Home
 banner: true
 ---
 
-<h1>Almost there!</h1>
+<div class="container">
+    <div class="row  banner">
+        <div class="col-12 d-flex align-flex-end justify-content-center blur"
+             style="min-height: 300px; align-items: flex-end;">
+            <img class="logo mb-4" src="/img/logo-notext.png" alt=""
+                 style="width: 175px; height:180px;">
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12 blur">
+            <h1 class="text-center text-capitalize">Oklahoma City Java User Group</h1>
+            <p class="p-1">
+                For over 18 years, the Oklahoma City JUG has provided a space local developers to meet new friends
+                and share their expertise in working on and with a variety of Java/JVM technologies. Our membership is
+                wide
+                and varied, and is open to all. So, then, whether you're a new developer or a mid- to senior-level
+                developer, there's a place for you. If you're a recruiter looking to network or fill a role, there's
+                also
+                a place for you. All we ask is that you come willing to learn and to share.
+            </p>
+            <p class="p-1">
+                To get involved, you can look over the list below of our recent updates. You can also click the
+                <a href="/news">News</a> link here or in the header to see a complete list.
+            </p>
 
-We're still working on getting the site back up and running. Please be patient.
+            <p class="p-1">
+                If you are interested in speaking at the JUG, please contact the Steering Committee at
+                <a href="mailto:sc@okcjug.org">sc@okcjug.org</a>. We'd love to start a conversation with you.
+            </p>
+        </div>
+    </div>
 
-<!--
-        <div class="row d_flex grig">
-            <div class="col-lg-6">
-                <div class="perfect_img">
-                    <span>02 feb</span>
-                    <figure><img src="images/perfe1.jpg" alt="#"/></figure>
-                </div>
-            </div>
-            <div class="col-lg-6 order">
-                <div class="titlepage text_align_left">
-                    <h2>Some Tips for Planning a Perfect Summer Vacation in </h2>
-                    <p>All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the
-                        first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined withAll the
-                        Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first
-                        true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with</p>
-                    <a class="read_more" href="perfect.html">Read More</a>
-                </div>
-            </div>
-        </div>
-        <div class="row d_flex">
-            <div class="col-lg-6">
-                <div class="titlepage flot_right text_align_left">
-                    <h2>Magic: Things You Can’t Resist</h2>
-                    <p>All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the
-                        first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined withAll the
-                        Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first
-                        true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with</p>
-                    <a class="read_more" href="perfect.html">Read More</a>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="perfect_img right_span">
-                    <span>03 feb</span>
-                    <figure><img src="images/perfe2.jpg" alt="#"/></figure>
-                </div>
-            </div>
-        </div>
-        <div class="row d_flex grig">
-            <div class="col-lg-6">
-                <div class="perfect_img">
-                    <span>04 feb</span>
-                    <figure><img src="images/perfe3.jpg" alt="#"/></figure>
-                </div>
-            </div>
-            <div class="col-lg-6 order">
-                <div class="titlepage text_align_left">
-                    <h2>Magic: Things You Can’t Resist</h2>
-                    <p>All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the
-                        first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined withAll the
-                        Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first
-                        true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with</p>
-                    <a class="read_more" href="perfect.html">Read More</a>
-                </div>
+    <div class="row pt-2">
+        <div class="container">
+            <div class="row">
+                {% for post in site.posts limit: 9 %}
+                <article class="col-4 article">
+                    <div class="container">
+                        {% if post.speaker %}
+                        {% assign speaker = "speakers/" | append: post.speaker | append: ".html" %}
+                        {% assign speaker = site.data.speakers[post.speaker] %}
+                        {% else %}
+                        {% assign speaker = false %}
+                        {% endif %}
+                        <div class="row" style="padding: 0 0 1em 0">
+                            <div class="col">
+                                <a class="post-link" href="{{ post.url}}" title="{{ post.title }}"
+                                   data-toggle="tooltip">
+                                    {{ post.title }}
+                                </a>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col">
+                                <b>{{ post.when | date: '%B %d, %Y - %I:%M%P' }}</b>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col">
+                                {% if speaker %}
+                                <img src="/img/speakers/{{ speaker.image }}"
+                                     class="speaker-img"/>
+                                {% endif %}
+                                <p>{{ post.excerpt | strip_html | truncate: 300 }}</p>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col">
+                                <a class="read_more" href="{{ post.url}}">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+                {% endfor %}
             </div>
         </div>
--->
+    </div>
+    <script>
+        $(document).ready(function () {
+            $('[data-toggle="tooltip"]').tooltip();
+        });
+    </script>
+</div>
