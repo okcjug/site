@@ -8,7 +8,7 @@ github_username:  okcjug
 source: src
 
 # Build settings
-theme: minima
+#theme: minima
 gems:
 plugins:
   - jekyll-feed
@@ -102,7 +102,7 @@ defaults:
   - scope:
       path: ""
     values:
-      layout: "default"
+      layout: "simple"
 
 publication:
   group_by: type
@@ -112,7 +112,7 @@ jekyll-archives:
   enabled:
     - tags
   layouts:
-    tag: tag
+    tag: simple
   permalinks:
     year: '/:year/'
     month: '/:year/:month/'

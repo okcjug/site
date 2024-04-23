@@ -7,7 +7,7 @@ tags: blog
 status: published
 author: 8
 when: 2018-05-08 11:30
-location: StarSpace46 / Techlahoma 1141 W. Sheridan Avenue
+location: starspace
 topic: "Jerkey: An introduction to Kotlin DSLs using Jersey"
 ---
 One of the many strengths of Kotlin is the ease with it allows us to
