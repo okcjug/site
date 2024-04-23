@@ -7,26 +7,27 @@ tags: blog
 status: published
 author: 11
 meeting_date: 2019-03-12
-meeting_time: 11:30
+meeting_time: 11:30am
 location: starspace
 topic: "Microservices with Micronaut"
 speaker: jason-lee
+presentation: >
+    As microservices have exploded on to the scene, so have microservice
+    frameworks. In the JVM world, we have a myriad of options. In an already
+    crowded space, though, a new framework has appeared that is extremely
+    promising. Micronaut is a polyglot microservice framework from the
+    inventors of the Grails framework, supporting Java, Kotlin, and Groovy
+    out of the box. Micronaut ships with support for a wide number of
+    capabilities, including dependency injection, aspect oriented
+    programming, object relational mapping (via JPA or GORM), cloud native
+    features (Consul, Eureka, Kubernetes, AWS, and others),
+    serverless/functions-as-a-service, and many more. It even comes with a
+    testing framework.
+    <p/>
+    In this presentation, we'll see how to get started using Micronaut using
+    a small subset of those features as we build a simple REST service.
+    We'll use JPA for persistence, and secure the application using JSON Web
+    Tokens, all fully tested. At the end of the session, we'll have a solid
+    foundation for building microservices using this new offering.
+
 ---
-
-As microservices have exploded on to the scene, so have microservice
-frameworks. In the JVM world, we have a myriad of options. In an already
-crowded space, though, a new framework has appeared that is extremely
-promising. Micronaut is a polyglot microservice framework from the
-inventors of the Grails framework, supporting Java, Kotlin, and Groovy
-out of the box. Micronaut ships with support for a wide number of
-capabilities, including dependency injection, aspect oriented
-programming, object relational mapping (via JPA or GORM), cloud native
-features (Consul, Eureka, Kubernetes, AWS, and others),
-serverless/functions-as-a-service, and many more. It even comes with a
-testing framework.
-
-In this presentation, we'll see how to get started using Micronaut using
-a small subset of those features as we build a simple REST service. +
-We'll use JPA for persistence, and secure the application using JSON Web
-Tokens, all fully tested. At the end of the session, we'll have a solid
-foundation for building microservices using this new offering. +

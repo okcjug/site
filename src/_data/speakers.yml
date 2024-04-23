@@ -28,13 +28,13 @@ brett-schuchert:
     consulting, managing to work with both C++ and Smalltalk on the same
     project using object-oriented database technology for the short time it
     was in vogue.
-
+    <p/>
     In 1997 he developed and deployed his first Java application on top of
     Java 1.0, which he later migrated to Java 1.1 to take advantage of the
     newly-added Java Serialization. The project used applets to directly
     update the DOM of a complex web page to avoid the full turn-around of an
     HTTP get (this is now referred to as AJAX).
-
+    <p/>
     He has continued developing enterprise-level applications in Java and
     has recently changed the emphasis of his training and mentoring towards
     software professionalism.
@@ -45,7 +45,7 @@ brian-sheldon:
     2002. He is more passionate about getting the job done than making it
     pretty. He is not proud of his code. If you know a better way to do
     something, go for it.
-
+    <p/>
     He has been married since 1982 and has two wonderful daughters.
 chad-gorshing:
   name: Chad Gorshing
@@ -111,7 +111,7 @@ jason-lee:
     (<a href="https://jasondl.ee/resume">Resume</a>, <a href="https://www.linkedin.com/in/jasondlee">LinkedIn</a>)
     He is the president of the Oklahoma City JUG, an occasional speaker there, as well as at a variety of technical 
     conferences, and a <a href="https://amzn.to/2FD2XAo">book author</a>.
-
+    <p/>
     On the personal side, he is active in his church, and enjoys bass guitar, running, fishing, and a variety of martial 
     arts. He is also married to a beautiful woman, and has two boys, who, thankfully, look like their mother.
 jennifer-reif:
@@ -156,7 +156,7 @@ les-martin:
   name: Les Martin
   bio: >
     Les Martin is a programmer for MBO Partners (https://mbopartners.com).  He has been programming web related software since 2004.
-
+    <p/>
     Les is married and has one child.  He enjoys music and watches too much television (Lost anyone?).  A fan and user of Ubuntu Linux.
 michael-shorter:
   name: Michael Shorter
@@ -177,7 +177,7 @@ mitch-blevins:
   bio: >
     Mitch Blevins is the IT Manager at International Environmental Corp (https://www.iec-okc.com). He comes from a 
     Mechanical Engineering background, but has enjoyed programming for the past 10 years using C, Perl, and Java.
-    
+    <p/>
     Current interests are: Scala, API Design, and playing with his two daughters. He thinks you all should just leave 
     Britney alone.  She’s HUMAN!!!!
 rod-coffin:
