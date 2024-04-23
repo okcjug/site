@@ -7,7 +7,7 @@ tags: blog
 status: published
 author: 4
 when: 2014-01-14 11:30
-location: Northwest Library
+location: nw-library
 topic: "AMQP messaging with RabbitMQ"
 ---
 

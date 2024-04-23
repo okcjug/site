@@ -7,7 +7,7 @@ tags: blog
 status: published
 author: 3
 when: 2013-11-19 11:30
-location: Northwest Library
+location: nw-library
 topic: "Vert.x - polyglot asynchronous application framework for the JVM"
 ---
 

@@ -7,7 +7,7 @@ tags: blog
 status: published
 author: 8
 when: 2015-03-10 11:30
-location: Prototek, 401 NW 10th St. (Downtown OKC)
+location: prototek
 topic: "Webscale HTTP services with Dropwizard"
 ---
 
