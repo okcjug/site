@@ -1,57 +1,57 @@
-<meta property="og:site_name" content="{{ site.title }}">
-{% if page.title %}
-<meta property="og:title" content="{{ page.title }}">
-<meta name="twitter:title" content="{{ page.title }}">
-<meta property="og:type" content="article">
-{% else %}
-<meta property="og:title" content="{{ site.title }}">
-<meta name="twitter:title" content="{{ site.title }}">
-<meta property="og:type" content="website">
-{% endif %}
+    <meta property="og:site_name" content="{{ site.title }}">
+    {% if page.title %}
+    <meta property="og:title" content="{{ page.title }}">
+    <meta name="twitter:title" content="{{ page.title }}">
+    <meta property="og:type" content="article">
+    {% else %}
+    <meta property="og:title" content="{{ site.title }}">
+    <meta name="twitter:title" content="{{ site.title }}">
+    <meta property="og:type" content="website">
+    {% endif %}
 
-{% if page.description %}
-<meta property="og:description" content="{{ page.description }}">
-<meta name="twitter:description" content="{{ page.description }}">
-{% else %}
-<meta property="og:description" content="{{ site.description }}">
-<meta name="twitter:description" content="{{ site.description }}">
-{% endif %}
+    {% if page.description %}
+    <meta property="og:description" content="{{ page.description }}">
+    <meta name="twitter:description" content="{{ page.description }}">
+    {% else %}
+    <meta property="og:description" content="{{ site.description }}">
+    <meta name="twitter:description" content="{{ site.description }}">
+    {% endif %}
 
-{% if page.url %}
-<meta property="og:url" content="{{ site.url }}{{ page.url }}">
-{% else %}
-<meta property="og:url" content="{{ site.url }}">
-{% endif %}
+    {% if page.url %}
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    {% else %}
+    <meta property="og:url" content="{{ site.url }}">
+    {% endif %}
 
-{% if page.date %}
-<meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
-<meta property="article:author" content="{{ site.url }}/about/">
-{% endif %}
+    {% if page.date %}
+    <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+    <meta property="article:author" content="{{ site.url }}/about/">
+    {% endif %}
 
-{% if page.categories %}
-{% for category in page.categories limit:1 %}
-<meta property="article:section" content="{{ category }}">
-{% endfor %}
-{% endif %}
+    {% if page.categories %}
+    {% for category in page.categories limit:1 %}
+    <meta property="article:section" content="{{ category }}">
+    {% endfor %}
+    {% endif %}
 
-{% if page.tags %}
-{% for tag in page.tags %}
-<meta property="article:tag" content="{{ tag }}">
-{% endfor %}
-{% endif %}
+    {% if page.tags %}
+    {% for tag in page.tags %}
+    <meta property="article:tag" content="{{ tag }}">
+    {% endfor %}
+    {% endif %}
 
-<meta name="twitter:url" content="{{ site.url }}">
-<meta name="twitter:site" content="@{{ site.twitter_username }}">
-<meta name="twitter:creator" content="@{{ site.twitter_username }}">
-<meta name="twitter:card" content="summary_small_image">
+    <meta name="twitter:url" content="{{ site.url }}">
+    <meta name="twitter:site" content="@{{ site.twitter_username }}">
+    <meta name="twitter:creator" content="@{{ site.twitter_username }}">
+    <meta name="twitter:card" content="summary_small_image">
 
-{% if page.speaker %}
-{% assign speaker = site.data.speakers[page.speaker] %}
-<meta name="twitter:image" content="{{ site.url }}/img/speakers/{{ speaker.image }}">
-<meta property="og:image" content="{{ site.url }}/img/speakers/{{ speaker.image }}">
-{% else %}
-<meta name="twitter:image" content="{{ site.url }}/img/logo-notext.png">
-<meta property="og:image" content="{{ site.url }}/img/logo-notext.png">
-{% endif %}
-<meta property="og:image:width" content="250">
-<meta property="og:image:height" content="125">
+    {% if page.speaker %}
+    {% assign speaker = site.data.speakers[page.speaker] %}
+    <meta name="twitter:image" content="{{ site.url }}/img/speakers/{{ speaker.image }}">
+    <meta property="og:image" content="{{ site.url }}/img/speakers/{{ speaker.image }}">
+    {% else %}
+    <meta name="twitter:image" content="{{ site.url }}/img/logo-notext.png">
+    <meta property="og:image" content="{{ site.url }}/img/logo-notext.png">
+    {% endif %}
+    <meta property="og:image:width" content="250">
+    <meta property="og:image:height" content="125">
