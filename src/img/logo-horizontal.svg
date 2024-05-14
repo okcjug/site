@@ -3,15 +3,8 @@
    version="1.1"
    viewBox="0 0 1500 406"
    id="svg120"
-   sodipodi:docname="logo-horizontal.svg"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
-   inkscape:export-filename="logo-horizontal - large.png"
-   inkscape:export-xdpi="159.61"
-   inkscape:export-ydpi="159.61"
    width="1500"
    height="406"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
@@ -29,24 +22,6 @@
        height="188.49751"
        id="rect120" />
   </defs>
-  <sodipodi:namedview
-     id="namedview120"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.78515625"
-     inkscape:cx="666.10945"
-     inkscape:cy="512"
-     inkscape:window-width="1920"
-     inkscape:window-height="1008"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg120" />
   <g
      id="g1"
      transform="translate(-293.12438,-231.12438)">

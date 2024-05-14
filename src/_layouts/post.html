@@ -39,6 +39,15 @@ layout: simple
                 {% endif %}
             </div>
 
+            {% if page.stream %}
+            <div style="padding-bottom: 1em;">
+                {% assign stream_host = page.stream | split: "/" | slice: 2 %}
+                <h2 class="heading">Meeting Live Stream</h2>
+                <img src="https://{{ stream_host }}/favicon.ico"/>
+                <a href="{{ page.stream }}" target="_blank">{{ stream_host }}</a>
+            </div>
+            {% endif %}
+
             <div>
                 <h2 class="heading">Meeting Location</h2>
                 <!--                <div id="osm-map"></div>-->
