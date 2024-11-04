@@ -1,0 +1,14 @@
+version: "3"
+
+services:
+  my-jekyll-container:
+    image: my-ruby-env:latest
+    container_name: okcjug_jekyll
+    environment:
+      GEM_HOME: .gems
+    restart: always
+    tty: true
+    volumes:
+      - .:/app
+    ports:
+      - "1337:4000"

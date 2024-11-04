@@ -1,0 +1,36 @@
+---
+title: "2024 November Meeting"
+date: 2024-11-03
+type: post
+layout: post
+tags: blog
+status: published
+author: jdlee
+meeting_date: 2024-11-12
+meeting_time: 6:30pm
+location: starspace
+speaker: matt-hicks
+stream:
+topic: "Building LightDB: Beyond Traditional Databases to a High-Performance, Type-Safe Solution"
+presentation: >
+    What if you could combine the best aspects of key-value stores, relational databases, and graph databases, yet overcome the limitations of each? This session introduces LightDB, a type-safe, high-performance database solution that evolved from a need for greater flexibility, speed, and developer control. Drawing on lessons learned while testing MongoDB, PostgreSQL, Neo4J, and ArangoDB, LightDB was designed to blend the fast retrieval of key-value stores, the structure of relational databases, and the interconnectedness of graph databases—yet moves beyond the constraints of linear traversal typical in graph databases.
+    <p/>
+    I’ll share how LightDB’s architecture optimizes data traversal and storage without locking developers into a single model, allowing more versatile and complex relationships to be expressed naturally. Leveraging Scala’s type safety and macros, LightDB reduces processing times from days to hours, all while offering a clean, intuitive API that emphasizes developer freedom and high performance.
+    <p/>
+    Key Takeaways:
+    <ul>
+    <li>Understanding key-value stores, relational databases, and graph databases: strengths, weaknesses, and use cases.</li>
+    <li>How LightDB combines these paradigms to offer a flexible, powerful approach to data handling.</li>
+    <li>Scala’s type safety and macros in LightDB for clean, reliable code.</li>
+    <li>Moving beyond graph databases' limitations: how LightDB enables complex data relationships without arbitrary linear constraints.</li>
+    <li>This session will give Java developers a deep dive into LightDB’s architecture and philosophy, showing how it moves data handling to the next level by combining diverse database strengths into one coherent solution.</li>
+    </ul>
+
+---
+Great news! We have scheduled our November meeting. This month, local developer and entrepreneur Matt Hicks will be discussing https://github.com/outr/lightdb[LightDB], a "computationally focused database using pluggable store + indexer", which leverages Scala as a core part of its architecture. This is a great chance to take another look at both a new technology and a JVM language that silently powers a number of high-scale workloads.
+
+We will be meeting back at Starspace this month, and our meeting will be at 6:30pm so that those on the outer edges of the metro will have time to attend.
+
+We're looking forward to hosting Matt and seeing everyone again.
+
+As always, please https://www.meetup.com/oklahoma-city-java-user-group/events/304380885[RSVP] to help with the food order. :)

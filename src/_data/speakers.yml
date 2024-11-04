@@ -2,18 +2,18 @@ adam-farlee:
   name: Adam Farlee
   bio: >
     Adam Farlee is a Sr. Software Engineer/Architect working for Objectstream, Inc. on internal
-    applications development. He has 25 years of experience in Software Development and is 
-    currently working on web development under the Rational Unified Process and Agile methodologies. 
-    He has spent his career acting as a proponent for new technologies as they became available, 
+    applications development. He has 25 years of experience in Software Development and is
+    currently working on web development under the Rational Unified Process and Agile methodologies.
+    He has spent his career acting as a proponent for new technologies as they became available,
     starting with RPG II and working all the way through Java.
 alex-miller:
   name: Alex Miller
   bio: >
-    Alex Miller is a Senior Engineer with Revelytix, building federated semantic web query technology 
-    with Clojure." Prior to Revelytix, Alex was technical lead at Terracotta, an engineer at BEA 
-    Systems, and Chief Architect at MetaMatrix. His interests include Java, concurrency, distributed 
-    systems, languages, and software design. Alex enjoys tweeting as @puredanger and blogging at 
-    https://tech.puredanger.com/. In St. Louis, Alex is the founder of the Lambda Lounge 
+    Alex Miller is a Senior Engineer with Revelytix, building federated semantic web query technology
+    with Clojure." Prior to Revelytix, Alex was technical lead at Terracotta, an engineer at BEA
+    Systems, and Chief Architect at MetaMatrix. His interests include Java, concurrency, distributed
+    systems, languages, and software design. Alex enjoys tweeting as @puredanger and blogging at
+    https://tech.puredanger.com/. In St. Louis, Alex is the founder of the Lambda Lounge
     group for the study of functional and dynamic languages and the Strange Loop developer conference.
 brett-schuchert:
   name: Brett Schuchert
@@ -51,24 +51,24 @@ chad-gorshing:
   name: Chad Gorshing
   bio: >
     Chad Gorshing has been a software developer for nine years and is currently a consultant for Valtech. He
-    started his career working at Tinker AFB, and branched out of the DoD business into the private sector four years 
+    started his career working at Tinker AFB, and branched out of the DoD business into the private sector four years
     ago. He lives with his wife and two daughters in Midwest City.
 daniel-mavis:
   name: Daniel Mavis
   bio: >
-    Daniel Mavis is an agile web application developer working as the technical lead of the Flight Inspection Automation 
+    Daniel Mavis is an agile web application developer working as the technical lead of the Flight Inspection Automation
     Team at the FAA in Oklahoma City for Objectstream, Inc. As a relatively young developer, he enjoys working
-    on the bleeding edge of technologies, constantly learning and looking for new ways to be more agile and effective. 
-    In addition to working full-time on the Java platform, he has also worked in .NET and more recently in Ruby and 
+    on the bleeding edge of technologies, constantly learning and looking for new ways to be more agile and effective.
+    In addition to working full-time on the Java platform, he has also worked in .NET and more recently in Ruby and
     various Ruby frameworks such as Rails and Sinatra."
 don-mcgreal:
   name: Don McGreal
   bio: >
-    An active member of the software development community for over 12 years, Don McGreal welcomes change and has a 
-    passion for learning -- traits which are well suited for the unpredictable field of software engineering.  As a 
-    consultant, he has fulfilled many roles while ensuring that the clients get the most from each engagement: 
-    Developer, Architect, Business Analyst, Process Coach, and Mentor.  As an instructor, he has created and taught 
-    classes in requirements, architecture, design, and process for thousands of software professionals around the 
+    An active member of the software development community for over 12 years, Don McGreal welcomes change and has a
+    passion for learning -- traits which are well suited for the unpredictable field of software engineering.  As a
+    consultant, he has fulfilled many roles while ensuring that the clients get the most from each engagement:
+    Developer, Architect, Business Analyst, Process Coach, and Mentor.  As an instructor, he has created and taught
+    classes in requirements, architecture, design, and process for thousands of software professionals around the
     globe.  Currently, Don is the Director of Learning Solutions for Improving Enterprises, an advanced software professional services firm.
 gerrit-grunwald:
   image: gerrit-grunwald.jpg
@@ -104,30 +104,30 @@ jason-lee:
   name: Jason Lee
   image: jason-lee.jpg
   bio: >
-    Jason Lee is a software developer living in the middle of Oklahoma. He has been a professional developer since 1997, 
-    using a variety of languages, including Java, Kotlin, Javascript, PHP, Python, Delphi, and even a bit of C#. He 
-    currently works for Red Hat on the WildFly/EAP team, where, among other things, he maintains integrations for some 
-    MicroProfile specs, OpenTelemetry, Micrometer, Jakarta Faces, and Bean Validation. 
+    Jason Lee is a software developer living in the middle of Oklahoma. He has been a professional developer since 1997,
+    using a variety of languages, including Java, Kotlin, Javascript, PHP, Python, Delphi, and even a bit of C#. He
+    currently works for Red Hat on the WildFly/EAP team, where, among other things, he maintains integrations for some
+    MicroProfile specs, OpenTelemetry, Micrometer, Jakarta Faces, and Bean Validation.
     (<a href="https://jasondl.ee/resume">Resume</a>, <a href="https://www.linkedin.com/in/jasondlee">LinkedIn</a>)
-    He is the president of the Oklahoma City JUG, an occasional speaker there, as well as at a variety of technical 
+    He is the president of the Oklahoma City JUG, an occasional speaker there, as well as at a variety of technical
     conferences, and a <a href="https://amzn.to/2FD2XAo">book author</a>.
     <p/>
-    On the personal side, he is active in his church, and enjoys bass guitar, running, fishing, and a variety of martial 
+    On the personal side, he is active in his church, and enjoys bass guitar, running, fishing, and a variety of martial
     arts. He is also married to a beautiful woman, and has two boys, who, thankfully, look like their mother.
 jennifer-reif:
   name: Jennifer Reif
   image: jennifer-reif.jpg
   bio: >
-    Jennifer Reif is a Developer Advocate at Neo4j, speaker, and blogger with an MS in CMIS. An avid developer and 
-    problem-solver, she has worked with many businesses and projects to organize and make sense of widespread data 
-    assets and leverage them for maximum business value. She has expertise in a variety of commercial and open source 
-    tools, and she enjoys learning new technologies, sometimes on a daily basis! Her passion is finding ways to organize 
+    Jennifer Reif is a Developer Advocate at Neo4j, speaker, and blogger with an MS in CMIS. An avid developer and
+    problem-solver, she has worked with many businesses and projects to organize and make sense of widespread data
+    assets and leverage them for maximum business value. She has expertise in a variety of commercial and open source
+    tools, and she enjoys learning new technologies, sometimes on a daily basis! Her passion is finding ways to organize
     chaos and deliver software more effectively.
 john-woodward:
   name: John Woodward
   bio: >
-    John Woodward is a Principal Consultant for Improving Enterprises, based out of Dallas, Texas. He has been with 
-    Improving Enterprises for 4 years, and has been a professional software developer for the last 15 years (not 
+    John Woodward is a Principal Consultant for Improving Enterprises, based out of Dallas, Texas. He has been with
+    Improving Enterprises for 4 years, and has been a professional software developer for the last 15 years (not
     counting 5 years of writing fluid dynamics software while pursuing his PhD in Astrophysics).
 ken-sipe:
   name: Ken Sipe
@@ -158,35 +158,44 @@ les-martin:
     Les Martin is a programmer for MBO Partners (https://mbopartners.com).  He has been programming web related software since 2004.
     <p/>
     Les is married and has one child.  He enjoys music and watches too much television (Lost anyone?).  A fan and user of Ubuntu Linux.
+matt-hicks:
+  name: Matt Hicks
+  image: matt-hicks.jpg
+  bio: >
+      I’ve built a career on architecting scalable, innovative systems that push the boundaries of what's possible. As the
+      CTO of OUTR Software, LLC, I design platforms that handle absurd workloads with precision—because pushing the limits
+      is where the fun begins. My toolkit includes Java, Scala, Kotlin, Rust, and Dart, and I enjoy mentoring those bold
+      enough to join me on this experimental journey. I’ve worked with companies like eBay and Lightbend, always blending
+      creativity with solid technical expertise to craft solutions that just work—even when they shouldn’t.
 michael-shorter:
   name: Michael Shorter
   bio: >
-    Michael Shorter is a professional code poet who works for Power Costs, Inc. He has been working with Java almost 
+    Michael Shorter is a professional code poet who works for Power Costs, Inc. He has been working with Java almost
     since its inception. Mike has been professionally programming over the past two and a half decades and has
-    primarily worked in the arenas of systems architecture and systems programming. As a code poet, he has worked with 
+    primarily worked in the arenas of systems architecture and systems programming. As a code poet, he has worked with
     over 27 different languages, and in environments ranging from mini and mainframe computers to n-tiered client server
-    architectures. His operating system of choice is UNIX, or any derivative (spelled LINUX). When he first learned how 
-    to program, his goal was to write HAL-9000 from 2001: A Space Odyssey, so his interests in the field of computing 
-    are neural networks, genetic algorithms, fuzzy logic and arithmetic and data persistence. Outside of computing, 
+    architectures. His operating system of choice is UNIX, or any derivative (spelled LINUX). When he first learned how
+    to program, his goal was to write HAL-9000 from 2001: A Space Odyssey, so his interests in the field of computing
+    are neural networks, genetic algorithms, fuzzy logic and arithmetic and data persistence. Outside of computing,
     Mike enjoys dabbling in high energy particle physics, astrophysics, cosmology, quantum physics and comparative
-    belief systems based on sacred texts - the goal being to integrate consciousness and life as basic forces of nature 
-    along with those specified by the Standard Model. He lives in Norman with his wonderful wife Tina Rae and their four 
+    belief systems based on sacred texts - the goal being to integrate consciousness and life as basic forces of nature
+    along with those specified by the Standard Model. He lives in Norman with his wonderful wife Tina Rae and their four
     Whippets Buster, Currie, Einstein and Newton.
 mitch-blevins:
   name: Mitch Blevins
   bio: >
-    Mitch Blevins is the IT Manager at International Environmental Corp (https://www.iec-okc.com). He comes from a 
+    Mitch Blevins is the IT Manager at International Environmental Corp (https://www.iec-okc.com). He comes from a
     Mechanical Engineering background, but has enjoyed programming for the past 10 years using C, Perl, and Java.
     <p/>
-    Current interests are: Scala, API Design, and playing with his two daughters. He thinks you all should just leave 
+    Current interests are: Scala, API Design, and playing with his two daughters. He thinks you all should just leave
     Britney alone.  She’s HUMAN!!!!
 rod-coffin:
   name: Rod Coffin
   bio: >
-    Rod Coffin is a professional software programmer, architect, and mentor. Perhaps more interesting, he is also an 
-    amateur beer brewer and fly tier.  One can find information about Rod, his thoughts on current software development 
-    trends, and his ongoing projects and interests on his home page (https://rodcoffin.com).  Rod encourages readers to 
-    view his blog (https://blog.rodcoffin.com/) and wikie (https://wiki.rodcoffin.com/) sites as that is where he publishes 
+    Rod Coffin is a professional software programmer, architect, and mentor. Perhaps more interesting, he is also an
+    amateur beer brewer and fly tier.  One can find information about Rod, his thoughts on current software development
+    trends, and his ongoing projects and interests on his home page (https://rodcoffin.com).  Rod encourages readers to
+    view his blog (https://blog.rodcoffin.com/) and wikie (https://wiki.rodcoffin.com/) sites as that is where he publishes
     most of his content.
 ryan-hoegg:
   name: Ryan Hoegg
@@ -196,16 +205,16 @@ ryan-hoegg:
 scott-centille:
   name: Scott Centille
   bio: >
-    Scott Centille is a Senior Consultant for Valtech Technologies, who has worked as an: Architect, Developer, Project 
-    Leader, and Mentor for over 20 years in the Consulting, Tele-Communication, Hydraulic Distribution, Financial, and 
-    Food Service Industries. As an instructor, he created and taught Java Programming and Web Development with Java 
-    Server Page classes. Scott is a 2nd Degree Black Belt in Taekwondo martial arts Level 1 CIT instructor, who enjoys 
-    competing in tournaments, sparring and performing the double Ssahng Jeol Bong (nunchucks) form. He lives with his 
+    Scott Centille is a Senior Consultant for Valtech Technologies, who has worked as an: Architect, Developer, Project
+    Leader, and Mentor for over 20 years in the Consulting, Tele-Communication, Hydraulic Distribution, Financial, and
+    Food Service Industries. As an instructor, he created and taught Java Programming and Web Development with Java
+    Server Page classes. Scott is a 2nd Degree Black Belt in Taekwondo martial arts Level 1 CIT instructor, who enjoys
+    competing in tournaments, sparring and performing the double Ssahng Jeol Bong (nunchucks) form. He lives with his
     lovely wife and four sons here in Edmond.
 stephen-maina:
   name: Stephen Maina
   bio: >
-    Stephen Maina is a consultant (software developer) with Valtech, mainly using Java and Java-related tools. He loves 
-    using Microsoft development tools too, when the opportunity knocks. His interest is in developing POS systems, 
-    factory automation, expert systems, architectural software patterns and management using agile methodologies. 
+    Stephen Maina is a consultant (software developer) with Valtech, mainly using Java and Java-related tools. He loves
+    using Microsoft development tools too, when the opportunity knocks. His interest is in developing POS systems,
+    factory automation, expert systems, architectural software patterns and management using agile methodologies.
     For leisure time, he has an insatiable appetite for travel, movies and making merry.
