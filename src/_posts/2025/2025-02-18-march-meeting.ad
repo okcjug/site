@@ -11,7 +11,7 @@ meeting_time: TBD
 location: starspace
 speaker: jason-lee
 stream:
-topic: "Building Kotlin Multiplatform Applications"
+topic: "One Codebase, Multiple Platforms with Kotlin Multiplatform"
 presentation: >
     One of the big challenges in building mobile applications is that, once you've built it for one platform, you have to turn around and build it for "the other". These days, there's really only two you have to worry about, but that's still two applications you have to maintain. To make things more complicated, what if you want a matching web app, or a desktop app? Now we're up to three or four codebases, and anyone who's been around for any time at all knows the pain that lies in THAT direction.
     <p/>
