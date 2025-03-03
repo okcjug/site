@@ -7,8 +7,8 @@ tags: blog
 status: published
 author: jdlee
 meeting_date: 2025-03-11
-meeting_time: TBD
-location: TBD
+meeting_time: 6:30PM
+location: starspace
 speaker: jason-lee
 stream:
 topic: "One Codebase, Multiple Platforms with Kotlin Multiplatform"
