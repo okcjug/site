@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://okcjug.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://okcjug.org/" rel="alternate" type="text/html" /><updated>2025-03-07T19:28:37+00:00</updated><id>https://okcjug.org/feed.xml</id><title type="html">Oklahoma City Java User Group</title><subtitle>OKC JUG site</subtitle><entry><title type="html">2025 March Meeting</title><link href="https://okcjug.org/news/2025/march-meeting.html" rel="alternate" type="text/html" title="2025 March Meeting" /><published>2025-02-18T00:00:00+00:00</published><updated>2025-02-18T00:00:00+00:00</updated><id>https://okcjug.org/news/2025/march-meeting</id><content type="html" xml:base="https://okcjug.org/news/2025/march-meeting.html"><![CDATA[<div class="paragraph">
+<p>It&#8217;s 2025 and while we&#8217;re getting a slow start, we&#8217;ve scheduled our first meeting of the year. You&#8217;ll have to listen to me, but we&#8217;re going to return to a topic we haven&#8217;t discussed in several years: Android development. There are lots of ways to build a mobile app, but only a few for writing cross-platform applications. In this session, I&#8217;ll demo an approach that works for me.</p>
+</div>
+<div class="paragraph">
+<p>As always, please <a href="https://www.meetup.com/oklahoma-city-java-user-group/events/306247122/">RSVP</a> to help with the food order. :)</p>
+</div>]]></content><author><name>jdlee</name></author><category term="blog" /><summary type="html"><![CDATA[It&#8217;s 2025 and while we&#8217;re getting a slow start, we&#8217;ve scheduled our first meeting of the year. You&#8217;ll have to listen to me, but we&#8217;re going to return to a topic we haven&#8217;t discussed in several years: Android development. There are lots of ways to build a mobile app, but only a few for writing cross-platform applications. In this session, I&#8217;ll demo an approach that works for me. As always, please RSVP to help with the food order. :)]]></summary></entry><entry><title type="html">2024 November Meeting</title><link href="https://okcjug.org/news/2024/november-meeting.html" rel="alternate" type="text/html" title="2024 November Meeting" /><published>2024-11-03T00:00:00+00:00</published><updated>2024-11-03T00:00:00+00:00</updated><id>https://okcjug.org/news/2024/november-meeting</id><content type="html" xml:base="https://okcjug.org/news/2024/november-meeting.html"><![CDATA[<div class="paragraph">
+<p>Great news! We have scheduled our November meeting. This month, local developer and entrepreneur Matt Hicks will be discussing <a href="https://github.com/outr/lightdb">LightDB</a>, a "computationally focused database using pluggable store + indexer", which leverages Scala as a core part of its architecture. This is a great chance to take another look at both a new technology and a JVM language that silently powers a number of high-scale workloads.</p>
+</div>
+<div class="paragraph">
+<p>We will be meeting back at Starspace this month, and our meeting will be at 6:30pm so that those on the outer edges of the metro will have time to attend.</p>
+</div>
+<div class="paragraph">
+<p>We&#8217;re looking forward to hosting Matt and seeing everyone again.</p>
+</div>
+<div class="paragraph">
+<p>As always, please <a href="https://www.meetup.com/oklahoma-city-java-user-group/events/304380885">RSVP</a> to help with the food order. :)</p>
+</div>]]></content><author><name>jdlee</name></author><category term="blog" /><summary type="html"><![CDATA[Great news! We have scheduled our November meeting. This month, local developer and entrepreneur Matt Hicks will be discussing LightDB, a "computationally focused database using pluggable store + indexer", which leverages Scala as a core part of its architecture. This is a great chance to take another look at both a new technology and a JVM language that silently powers a number of high-scale workloads. We will be meeting back at Starspace this month, and our meeting will be at 6:30pm so that those on the outer edges of the metro will have time to attend. We&#8217;re looking forward to hosting Matt and seeing everyone again. As always, please RSVP to help with the food order. :)]]></summary></entry><entry><title type="html">2024 March Meeting</title><link href="https://okcjug.org/news/2024/march-meeting.html" rel="alternate" type="text/html" title="2024 March Meeting" /><published>2024-02-20T00:00:00+00:00</published><updated>2024-02-20T00:00:00+00:00</updated><id>https://okcjug.org/news/2024/march-meeting</id><content type="html" xml:base="https://okcjug.org/news/2024/march-meeting.html"><![CDATA[<div class="sect1">
+<h2 id="post-updated-with-meeting-location-and-time">POST UPDATED WITH MEETING LOCATION AND TIME</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>For our March meeting, we have a special guest coming in to share with us. Gerrit Grunwald is a Java Champion, a JUG leader, and a Principal Engineer with Azul Systems. He&#8217;ll be discussing and demoing a JDK addition that Azul has developed to boost Java application start up times.</p>
+</div>
+<div class="admonitionblock note">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-note" title="Note"></i>
+</td>
+<td class="content">
+<div class="paragraph">
+<p>Location details updated below</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="paragraph">
+<p>Since he&#8217;s flying in, we&#8217;ll have to adjust our normal schedule a bit. We&#8217;ll be meeting at <strong>6:30PM</strong>, and we&#8217;ll be meeting at a new location, the <a href="https://maps.app.goo.gl/WTArFPtvEqtihw6v8">Office of Management and Enterprise Services (OMES) Data Center at 3115 N Lincoln Blvd, Oklahoma City, OK 73105</a>. A big thank you to Joe and Susan at OMES for providing a space for us to meet.</p>
+</div>
+<div class="paragraph">
+<p>This should be a great&#8201;&#8212;&#8201;and immediately useful&#8201;&#8212;&#8201;presentation. I hope to see to you there!</p>
+</div>
+<div class="paragraph">
+<p>Please be sure to RSVP over at <a href="https://www.meetup.com/oklahoma-city-java-user-group/events/299357829">Meetup</a> so we can make an accurate food order.</p>
+</div>
+</div>
+</div>]]></content><author><name>jdlee</name></author><category term="blog" /><summary type="html"><![CDATA[POST UPDATED WITH MEETING LOCATION AND TIME For our March meeting, we have a special guest coming in to share with us. Gerrit Grunwald is a Java Champion, a JUG leader, and a Principal Engineer with Azul Systems. He&#8217;ll be discussing and demoing a JDK addition that Azul has developed to boost Java application start up times. Location details updated below Since he&#8217;s flying in, we&#8217;ll have to adjust our normal schedule a bit. We&#8217;ll be meeting at 6:30PM, and we&#8217;ll be meeting at a new location, the Office of Management and Enterprise Services (OMES) Data Center at 3115 N Lincoln Blvd, Oklahoma City, OK 73105. A big thank you to Joe and Susan at OMES for providing a space for us to meet. This should be a great&#8201;&#8212;&#8201;and immediately useful&#8201;&#8212;&#8201;presentation. I hope to see to you there! Please be sure to RSVP over at Meetup so we can make an accurate food order.]]></summary></entry><entry><title type="html">2024 May Meeting</title><link href="https://okcjug.org/news/2024/may-meeting.html" rel="alternate" type="text/html" title="2024 May Meeting" /><published>2024-02-20T00:00:00+00:00</published><updated>2024-02-20T00:00:00+00:00</updated><id>https://okcjug.org/news/2024/may-meeting</id><content type="html" xml:base="https://okcjug.org/news/2024/may-meeting.html"><![CDATA[<div class="paragraph">
+<p>Our May meeting has been scheduled, and it should be another great one: Artificial Intelligence! This month, we will be
+hosting a well-known speaker (and awesome person) from the St. Louis area, Jennifer Reif, who will be discussing generative AI and how it might of use (or not!) to us as Java developers.</p>
+</div>
+<div class="paragraph">
+<p>Note that this meeting will be in our normal (can we still it that?) lunch hour slot at 11:30am. We will be meeting where we did last time at the Office of Management and Enterprise Services (see the map to the right). Please don&#8217;t forget to hit the <a href="https://www.meetup.com/oklahoma-city-java-user-group/events/299488303">Meetup</a> and RSVP!</p>
+</div>]]></content><author><name>jdlee</name></author><category term="blog" /><summary type="html"><![CDATA[Our May meeting has been scheduled, and it should be another great one: Artificial Intelligence! This month, we will be hosting a well-known speaker (and awesome person) from the St. Louis area, Jennifer Reif, who will be discussing generative AI and how it might of use (or not!) to us as Java developers. Note that this meeting will be in our normal (can we still it that?) lunch hour slot at 11:30am. We will be meeting where we did last time at the Office of Management and Enterprise Services (see the map to the right). Please don&#8217;t forget to hit the Meetup and RSVP!]]></summary></entry><entry><title type="html">2024 January Meeting</title><link href="https://okcjug.org/news/2024/january-meeting.html" rel="alternate" type="text/html" title="2024 January Meeting" /><published>2024-01-16T00:00:00+00:00</published><updated>2024-01-16T00:00:00+00:00</updated><id>https://okcjug.org/news/2024/january-meeting</id><content type="html" xml:base="https://okcjug.org/news/2024/january-meeting.html"><![CDATA[<div class="paragraph">
+<p>Our first meeting of the year is scheduled! Our speaker will be our very own Ryan Hoegg. Thanks to the generosity of a local business, we&#8217;ll be meeting at a new location, <a href="https://maps.app.goo.gl/X9KziiAM8dvcpEfXA">The Verge OKC</a>. There&#8217;s parking south of the building, so come up Oklahoma Ave and turn west on Wanda Jackson. There&#8217;s a sign with the cost for parking, but tell them that your there for Verge, and we&#8217;ll take care of it.</p>
+</div>
+<div class="paragraph">
+<p>Please be sure to RSVP over at <a href="https://www.meetup.com/oklahoma-city-java-user-group/events/298585831/">Meetup</a> so we can make an accurate food order.</p>
+</div>
+<div class="paragraph">
+<p>Looking forward to seeing everyone again!</p>
+</div>]]></content><author><name>jdlee</name></author><category term="blog" /><summary type="html"><![CDATA[Our first meeting of the year is scheduled! Our speaker will be our very own Ryan Hoegg. Thanks to the generosity of a local business, we&#8217;ll be meeting at a new location, The Verge OKC. There&#8217;s parking south of the building, so come up Oklahoma Ave and turn west on Wanda Jackson. There&#8217;s a sign with the cost for parking, but tell them that your there for Verge, and we&#8217;ll take care of it. Please be sure to RSVP over at Meetup so we can make an accurate food order. Looking forward to seeing everyone again!]]></summary></entry><entry><title type="html">Let’s try this again, but this time with gusto!</title><link href="https://okcjug.org/news/2023/lets-try-this-again.html" rel="alternate" type="text/html" title="Let’s try this again, but this time with gusto!" /><published>2023-09-21T00:00:00+00:00</published><updated>2023-09-21T00:00:00+00:00</updated><id>https://okcjug.org/news/2023/lets-try-this-again</id><content type="html" xml:base="https://okcjug.org/news/2023/lets-try-this-again.html"><![CDATA[<div class="imageblock right">
+<div class="content">
+<img src="/img/i_am_once_again_asking.jpg" alt="Asking" width="336" height="250">
+</div>
+</div>
+<div class="paragraph">
+<p>I know we&#8217;ve been down this road before, but I intend to not let it slip this time. :) I&#8217;d really like to get this going in SOME fashion. If you have any interest in helping me run the JUG (and I need all the help I can get!), please see our mailing list (or its archive) for more details and to join the discussion.</p>
+</div>
+<div class="paragraph">
+<p>Here is our mailing list info for the interested:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>General List</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Archive: <a href="http://lists.okcjug.org/pipermail/jug-okcjug.org/" class="bare">http://lists.okcjug.org/pipermail/jug-okcjug.org/</a></p>
+</li>
+<li>
+<p>Signup: <a href="http://lists.okcjug.org/listinfo.cgi/jug-okcjug.org" class="bare">http://lists.okcjug.org/listinfo.cgi/jug-okcjug.org</a></p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Steering Committee:</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Archive: <a href="http://lists.okcjug.org/pipermail/sc-okcjug.org/" class="bare">http://lists.okcjug.org/pipermail/sc-okcjug.org/</a></p>
+</li>
+<li>
+<p>Signup: <a href="http://lists.okcjug.org/listinfo.cgi/sc-okcjug.org" class="bare">http://lists.okcjug.org/listinfo.cgi/sc-okcjug.org</a></p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>We would be pleased and honored to have you come help us. Or just hang out with us.</p>
+</div>]]></content><author><name>jdlee</name></author><category term="blog" /><summary type="html"><![CDATA[I know we&#8217;ve been down this road before, but I intend to not let it slip this time. :) I&#8217;d really like to get this going in SOME fashion. If you have any interest in helping me run the JUG (and I need all the help I can get!), please see our mailing list (or its archive) for more details and to join the discussion. Here is our mailing list info for the interested: General List Archive: http://lists.okcjug.org/pipermail/jug-okcjug.org/ Signup: http://lists.okcjug.org/listinfo.cgi/jug-okcjug.org Steering Committee: Archive: http://lists.okcjug.org/pipermail/sc-okcjug.org/ Signup: http://lists.okcjug.org/listinfo.cgi/sc-okcjug.org We would be pleased and honored to have you come help us. Or just hang out with us.]]></summary></entry><entry><title type="html">2022 September Meeting - We’re Back!</title><link href="https://okcjug.org/news/2022/september-meeting.html" rel="alternate" type="text/html" title="2022 September Meeting - We’re Back!" /><published>2022-08-24T00:00:00+00:00</published><updated>2022-08-24T00:00:00+00:00</updated><id>https://okcjug.org/news/2022/september-meeting</id><content type="html" xml:base="https://okcjug.org/news/2022/september-meeting.html"><![CDATA[<div class="paragraph">
+<p>After a too-long absence, the Oklahoma City Java User Group is making a comeback!
+It&#8217;s going to take us a bit to get completely back up to speed, but we&#8217;re going to
+get started then tighten things up as go.</p>
+</div>
+<div class="paragraph">
+<p>That means, for least this month, we&#8217;ll be meeting in a conference room at Starspace (as opposed to the event space used to), at least for now, and no food, so you&#8217;ll need to bring your own. We&#8217;re working on fixing those logistics, but, as I noted, we&#8217;d like to fix things on the move. :)</p>
+</div>
+<div class="paragraph">
+<p>We don&#8217;t currently have a way to RSVP, so just show up. If any of the details change, we&#8217;ll update this post and email the list. We hope to see as many of you there as we can.</p>
+</div>]]></content><author><name>jdlee</name></author><category term="blog" /><summary type="html"><![CDATA[After a too-long absence, the Oklahoma City Java User Group is making a comeback! It&#8217;s going to take us a bit to get completely back up to speed, but we&#8217;re going to get started then tighten things up as go. That means, for least this month, we&#8217;ll be meeting in a conference room at Starspace (as opposed to the event space used to), at least for now, and no food, so you&#8217;ll need to bring your own. We&#8217;re working on fixing those logistics, but, as I noted, we&#8217;d like to fix things on the move. :) We don&#8217;t currently have a way to RSVP, so just show up. If any of the details change, we&#8217;ll update this post and email the list. We hope to see as many of you there as we can.]]></summary></entry><entry><title type="html">[Re-]Kick-off Meeting</title><link href="https://okcjug.org/news/2022/re-kick-off-meeting.html" rel="alternate" type="text/html" title="[Re-]Kick-off Meeting" /><published>2022-07-29T00:00:00+00:00</published><updated>2022-07-29T00:00:00+00:00</updated><id>https://okcjug.org/news/2022/re-kick-off-meeting</id><content type="html" xml:base="https://okcjug.org/news/2022/re-kick-off-meeting.html"><![CDATA[<div class="paragraph">
+<p>Good afternoon, Oklahoma City. It&#8217;s been a while since the OKC JUG has met, and we&#8217;re trying to fix that. The details are still being working out, but
+that&#8217;s where you come in. As has been the case throughout the history of the JUG, your opinion is desired, and we have an opportunity for you to share it.</p>
+</div>
+<div class="paragraph">
+<p>We, the Steering Committee, will be meeting Wednesday, August 3 at 11:30 at <a href="https://goo.gl/maps/AarHG4Pn9uRYVz6J7">McAlister&#8217;s Deli</a> on NW Expressway.
+We&#8217;re going to work through topics like when to meet, where to meet, how often to meet, and hopefully have some initial sessions scoped out. We&#8217;re also
+going to have some great food and catch up on each other&#8217;s' lives from the past two years. :)</p>
+</div>
+<div class="paragraph">
+<p>If you have any interest in helping steer the JUG, or if you just want to come hang out with some fellow geeks, please come join us. While you&#8217;re thinking
+about it, sign up for the <a href="https://lists.okcjug.org/listinfo.cgi/sc-okcjug.org">SC mailing list</a> as well!</p>
+</div>
+<div class="paragraph">
+<p>I hope to see as many of you there as possible!</p>
+</div>]]></content><author><name>jdlee</name></author><category term="blog" /><summary type="html"><![CDATA[Good afternoon, Oklahoma City. It&#8217;s been a while since the OKC JUG has met, and we&#8217;re trying to fix that. The details are still being working out, but that&#8217;s where you come in. As has been the case throughout the history of the JUG, your opinion is desired, and we have an opportunity for you to share it. We, the Steering Committee, will be meeting Wednesday, August 3 at 11:30 at McAlister&#8217;s Deli on NW Expressway. We&#8217;re going to work through topics like when to meet, where to meet, how often to meet, and hopefully have some initial sessions scoped out. We&#8217;re also going to have some great food and catch up on each other&#8217;s' lives from the past two years. :) If you have any interest in helping steer the JUG, or if you just want to come hang out with some fellow geeks, please come join us. While you&#8217;re thinking about it, sign up for the SC mailing list as well! I hope to see as many of you there as possible!]]></summary></entry><entry><title type="html">Stay tuned…</title><link href="https://okcjug.org/news/2022/stay-tuned.html" rel="alternate" type="text/html" title="Stay tuned…" /><published>2022-07-19T00:00:00+00:00</published><updated>2022-07-19T00:00:00+00:00</updated><id>https://okcjug.org/news/2022/stay-tuned</id><content type="html" xml:base="https://okcjug.org/news/2022/stay-tuned.html"><![CDATA[<div class="paragraph">
+<p>It&#8217;s been a while since you&#8217;re heard from us, and for that we&#8217;re sorry. There have been a number of circumstances, not the least of which being COVID, that has knocked us off our game. We are currently working diligently to restart the JUG and, hopefully, return to being a fun and helpful part of your work day. :)</p>
+</div>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[It&#8217;s been a while since you&#8217;re heard from us, and for that we&#8217;re sorry. There have been a number of circumstances, not the least of which being COVID, that has knocked us off our game. We are currently working diligently to restart the JUG and, hopefully, return to being a fun and helpful part of your work day. :)]]></summary></entry><entry><title type="html">2019 April Meeting</title><link href="https://okcjug.org/news/2019/2019-april-meeting.html" rel="alternate" type="text/html" title="2019 April Meeting" /><published>2019-04-01T00:00:00+00:00</published><updated>2019-04-01T00:00:00+00:00</updated><id>https://okcjug.org/news/2019/2019-april-meeting</id><content type="html" xml:base="https://okcjug.org/news/2019/2019-april-meeting.html"><![CDATA[<div class="paragraph">
+<p>The phrase Denotational Semantics is an academic term for mapping
+programs to mathematical objects as a way to define their meanings. This
+phrase is not well-known in industry but we use it here to make it clear
+that this presentation is a shamelss rip off of a talk by Erik Meijer of
+a similar title. Erik Meijer, the founder of Applied Duality, is often
+cited as the inventor of 'reactive', a group of frameworks which have
+shown up in almost every programming language. The universal
+applicability of Meijer&#8217;s initial reactive framework is attributed by
+Meijer to long-established mathematical principles such as currying,
+duality, and coproducts. With these few simple constructions we can
+understand a wide variety of interfaces in a deeper way.</p>
+</div>
+<div class="paragraph">
+<p>As a practical example, we will cover Meijer&#8217;s derivation of
+Observable/Observer interfaces as duals of Iterable/Iterator interfaces.
+The takeaway is that every developer can apply denotational semantics to
+better design and implement common programs.</p>
+</div>
+<div class="sect1">
+<h2 id="speaker-bio">Speaker Bio:</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Justin is an awesome, funny Math guy who&#8217;s became a Java prodigy in the
+last 5 years - switching from academia to the software industry. He
+holds a PhD in Mathematics from Northwestern University, and works at
+PCI as a Senior Principal Developer. He&#8217;s got a passion for system
+architecture and super-clean well-structured code.</p>
+</div>
+<div class="paragraph">
+<p><strong>RSVP via Meetup</strong>: <a href="https://www.meetup.com/okcjug/events/260243783/" class="bare">https://www.meetup.com/okcjug/events/260243783/</a></p>
+</div>
+<div class="paragraph">
+<p><strong>StarSpace46 / Techlahoma</strong>: 1141 W Sheridan Ave, Oklahoma City, OK 73106</p>
+</div>
+</div>
+</div>]]></content><author><name>11</name></author><category term="blog" /><summary type="html"><![CDATA[The phrase Denotational Semantics is an academic term for mapping programs to mathematical objects as a way to define their meanings. This phrase is not well-known in industry but we use it here to make it clear that this presentation is a shamelss rip off of a talk by Erik Meijer of a similar title. Erik Meijer, the founder of Applied Duality, is often cited as the inventor of 'reactive', a group of frameworks which have shown up in almost every programming language. The universal applicability of Meijer&#8217;s initial reactive framework is attributed by Meijer to long-established mathematical principles such as currying, duality, and coproducts. With these few simple constructions we can understand a wide variety of interfaces in a deeper way. As a practical example, we will cover Meijer&#8217;s derivation of Observable/Observer interfaces as duals of Iterable/Iterator interfaces. The takeaway is that every developer can apply denotational semantics to better design and implement common programs. Speaker Bio: Justin is an awesome, funny Math guy who&#8217;s became a Java prodigy in the last 5 years - switching from academia to the software industry. He holds a PhD in Mathematics from Northwestern University, and works at PCI as a Senior Principal Developer. He&#8217;s got a passion for system architecture and super-clean well-structured code. RSVP via Meetup: https://www.meetup.com/okcjug/events/260243783/ StarSpace46 / Techlahoma: 1141 W Sheridan Ave, Oklahoma City, OK 73106]]></summary></entry></feed>

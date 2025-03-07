@@ -1,0 +1,242 @@
+<!doctype html>
+<html lang="en">
+
+
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="OKC JUG site">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta property="og:site_name" content="Oklahoma City Java User Group">
+    
+    <meta property="og:title" content="2024 November Meeting">
+    <meta name="twitter:title" content="2024 November Meeting">
+    <meta property="og:type" content="article">
+    
+
+    
+    <meta property="og:description" content="OKC JUG site">
+    <meta name="twitter:description" content="OKC JUG site">
+    
+
+    
+    <meta property="og:url" content="https://okcjug.org/news/2024/november-meeting.html">
+    
+
+    
+    <meta property="article:published_time" content="2024-11-03T00:00:00+00:00">
+    <meta property="article:author" content="https://okcjug.org/about/">
+    
+
+    
+    
+    
+
+    
+    
+    <meta property="article:tag" content="blog">
+    
+    
+
+    <meta name="twitter:url" content="https://okcjug.org">
+    <meta name="twitter:site" content="@okcjug">
+    <meta name="twitter:creator" content="@okcjug">
+    <meta name="twitter:card" content="summary_small_image">
+
+    
+    
+    <meta name="twitter:image" content="https://okcjug.org/img/speakers/matt-hicks.jpg">
+    <meta property="og:image" content="https://okcjug.org/img/speakers/matt-hicks.jpg">
+    
+    <meta property="og:image:width" content="250">
+    <meta property="og:image:height" content="125">
+
+
+    <title>2024 November Meeting</title>
+    <link rel="canonical" href="Oklahoma City Java User Group/">
+    <link rel="icon" href="/img/favicon.png" type="image/png">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+          rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+          crossorigin="anonymous">
+    <script src="https://kit.fontawesome.com/e164f43477.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="/css/okcjug2.css">
+</head>
+
+<body>
+<div class="container">
+    <div id="header" class="row">
+        <div class="col-8">
+            <a title="Oklahoma City Java User Group" href="/">
+                <img src="/img/logo-horizontal.png" width="250"/>
+            </a>
+        </div>
+        <div class="col align-self-center justify-content-end d-flex">
+            <ul class="navbar-nav" style="">
+                <li><a class="nav-link" href="/">Home</a></li>
+                <li><a class="nav-link" href="/about">About</a></li>
+                <li><a class="nav-link" href="/news">News</a></li>
+                <li><a class="nav-link" href="mailto:jug@okcjug.org">Contact</a></li>
+            </ul>
+            <div>
+    
+    <a class="social-link" href="https://twitter.com/okcjug" title="">
+        <i class="fa-brands fa-x-twitter"></i>
+    </a>
+    
+    <a class="social-link" href="https://github.com/okcjug" title="">
+        <i class="fa-brands fa-square-github"></i>
+    </a>
+    
+    <a class="social-link" href="https://techlahoma.slack.com/archives/C3CLVDZ6H" title="">
+        <i class="fa-brands fa-slack"></i>
+    </a>
+    
+    <a class="social-link" href="https://youtube.com/@OklahomaCityJUG" title="">
+        <i class="fa-brands fa-youtube"></i>
+    </a>
+    
+</div>
+
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12 ">
+            <div class="container">
+    <div class="row">
+        <div class="col" style="padding-right: 2em;">
+            <h1 class="heading">2024 November Meeting  - Building LightDB: Beyond Traditional Databases to a High-Performance, Type-Safe Solution</h1>
+            <div class="paragraph">
+<p>Great news! We have scheduled our November meeting. This month, local developer and entrepreneur Matt Hicks will be discussing <a href="https://github.com/outr/lightdb">LightDB</a>, a "computationally focused database using pluggable store + indexer", which leverages Scala as a core part of its architecture. This is a great chance to take another look at both a new technology and a JVM language that silently powers a number of high-scale workloads.</p>
+</div>
+<div class="paragraph">
+<p>We will be meeting back at Starspace this month, and our meeting will be at 6:30pm so that those on the outer edges of the metro will have time to attend.</p>
+</div>
+<div class="paragraph">
+<p>We&#8217;re looking forward to hosting Matt and seeing everyone again.</p>
+</div>
+<div class="paragraph">
+<p>As always, please <a href="https://www.meetup.com/oklahoma-city-java-user-group/events/304380885">RSVP</a> to help with the food order. :)</p>
+</div>
+            
+            <div>
+                <h2 class="heading">The Presentation</h2>
+                <div style="white-space: pre-line">What if you could combine the best aspects of key-value stores, relational databases, and graph databases, yet overcome the limitations of each? This session introduces LightDB, a type-safe, high-performance database solution that evolved from a need for greater flexibility, speed, and developer control. Drawing on lessons learned while testing MongoDB, PostgreSQL, Neo4J, and ArangoDB, LightDB was designed to blend the fast retrieval of key-value stores, the structure of relational databases, and the interconnectedness of graph databases—yet moves beyond the constraints of linear traversal typical in graph databases. <p/> I’ll share how LightDB’s architecture optimizes data traversal and storage without locking developers into a single model, allowing more versatile and complex relationships to be expressed naturally. Leveraging Scala’s type safety and macros, LightDB reduces processing times from days to hours, all while offering a clean, intuitive API that emphasizes developer freedom and high performance. <p/> Key Takeaways: <ul> <li>Understanding key-value stores, relational databases, and graph databases: strengths, weaknesses, and use cases.</li> <li>How LightDB combines these paradigms to offer a flexible, powerful approach to data handling.</li> <li>Scala’s type safety and macros in LightDB for clean, reliable code.</li> <li>Moving beyond graph databases' limitations: how LightDB enables complex data relationships without arbitrary linear constraints.</li> <li>This session will give Java developers a deep dive into LightDB’s architecture and philosophy, showing how it moves data handling to the next level by combining diverse database strengths into one coherent solution.</li> </ul>
+</div>
+            </div>
+            
+            
+            <div>
+                
+                <h2 class="heading">The Speaker</h2>
+                <div>
+                    <img src="/img/speakers/matt-hicks.jpg"
+                         style="float: left; padding-right: 10px; max-height: 215px" alt="Matt Hicks">
+                    I’ve built a career on architecting scalable, innovative systems that push the boundaries of what's possible. As the CTO of OUTR Software, LLC, I design platforms that handle absurd workloads with precision—because pushing the limits is where the fun begins. My toolkit includes Java, Scala, Kotlin, Rust, and Dart, and I enjoy mentoring those bold enough to join me on this experimental journey. I’ve worked with companies like eBay and Lightbend, always blending creativity with solid technical expertise to craft solutions that just work—even when they shouldn’t.
+
+                </div>
+            </div>
+            
+        </div>
+        
+        
+        <div class="col-4">
+            <div style="padding-bottom: 1em;">
+                <h2 class="heading">Meeting Time</h2>
+                
+                
+                <div>Date: 2024-11-12</div>
+                <div>Time: 6:30pm</div>
+                
+            </div>
+
+            
+
+            <div>
+                <h2 class="heading">Meeting Location</h2>
+                <!--                <div id="osm-map"></div>-->
+                
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6499.033136936341!2d-97.53480032394228!3d35.46676094172524!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87b210d6c554c175%3A0xf5da5a590293f2c7!2sStarSpace46%20Coworking!5e0!3m2!1sen!2sus!4v1713844224986!5m2!1sen!2sus" height="450" style="border:0; width: 100%;"
+                        allowfullscreen=""
+                        loading="lazy"
+                        referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <div><b>StarSpace46 / Techlahoma</b></div>
+                
+                <div>1141 W Sheridan Ave, Oklahoma City, OK 73106</div>
+            </div>
+        </div>
+<!--
+        <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
+        <link href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" rel="stylesheet"/>
+
+        <script>
+            // Where you want to render the map.
+            var element = document.getElementById('osm-map');
+
+            // Height has to be set. You can do this in CSS too.
+            element.style = 'height:300px;';
+
+            // Create Leaflet map on map element.
+            var map = L.map(element);
+
+            // Add OSM tile layer to the Leaflet map.
+            L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+                attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+            }).addTo(map);
+
+            // Target's GPS coordinates.
+            var target = L.latLng('47.50737', '19.04611');
+
+            // Set map's center to target with zoom 14.
+            map.setView(target, 14);
+
+            // Place a marker on the same location.
+            L.marker(target).addTo(map);
+        </script>
+-->
+
+        
+    </div>
+</div>
+
+        </div>
+    </div>
+    <div id="footer" class="row pt-2">
+        <div class="col">
+            <img src="/img/logo-horizontal.png" width="450"/>
+        </div>
+        <div class="col justify-content-end d-flex">
+            <div>
+    
+    <a class="social-link" href="https://twitter.com/okcjug" title="">
+        <i class="fa-brands fa-x-twitter"></i>
+    </a>
+    
+    <a class="social-link" href="https://github.com/okcjug" title="">
+        <i class="fa-brands fa-square-github"></i>
+    </a>
+    
+    <a class="social-link" href="https://techlahoma.slack.com/archives/C3CLVDZ6H" title="">
+        <i class="fa-brands fa-slack"></i>
+    </a>
+    
+    <a class="social-link" href="https://youtube.com/@OklahomaCityJUG" title="">
+        <i class="fa-brands fa-youtube"></i>
+    </a>
+    
+</div>
+
+        </div>
+    </div>
+    <div class="col-md-12">
+        <p>©2024 All Rights Reserved.</p>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous">
+</script>
+</body>
+
+</html>

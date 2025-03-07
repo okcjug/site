@@ -1,0 +1,91 @@
+:root {
+    --bs-primary: #a06725;
+    --bs-secondary: #dcb97c;
+    --bs-link-color: var(--bs-primary);
+    --bs-link-color-rgb: var(--bs-primary);
+    --bs-link-hover-color: var(--bs-secondary);
+    --bs-link-hover-color-rgb: var(--bs-secondary);
+    --bs-link-decoration: none;
+}
+
+.skip-to-main-content {
+    background-color: #000;
+    color: #fff;
+    left: -9999px;
+    opacity: 0;
+    padding: 1em;
+    position: absolute;
+    z-index: 999;
+}
+
+#header {
+    margin-bottom: 1em;
+}
+
+.banner {
+    background-image: url('/img/okcskyline.png');
+    background-size: cover;
+}
+
+.blur {
+    background-color: rgb(255,255,255,0.45);
+    /*backdrop-filter: blur(1px);*/
+}
+
+ul.navbar-nav {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+
+.navbar-nav .nav-link {
+    padding-right: .5rem;
+    padding-left: .5rem;
+}
+
+.fa-brands {
+    font-size: xx-large;
+}
+
+.post-link {
+    display: block;
+    font-size: x-large;
+    text-decoration: none;
+    background-color: var(--bs-secondary);
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    padding-left: 10px;
+}
+
+.social-link {
+    text-decoration: none;
+    padding-left: 5px;
+}
+
+.article {
+    padding: 0 0 1em 0;
+}
+
+.speaker-img {
+    max-height: 125px;
+    float: left;
+    padding-right: 10px;
+}
+
+.location-box {
+    min-width: 25pc;
+    max-width: 25pc;
+    padding: 1em;
+    margin-left: 1em;
+    margin-bottom: 1em;
+    float: right;
+    background-color: var(--bs-secondary);
+    border-style: solid;
+    border-width: 1px;
+    border-color: var(--bs-primary);
+}
+
+.heading {
+    border-bottom: 1px solid var(--bs-secondary);
+}

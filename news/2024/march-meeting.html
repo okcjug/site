@@ -1,0 +1,264 @@
+<!doctype html>
+<html lang="en">
+
+
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="OKC JUG site">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta property="og:site_name" content="Oklahoma City Java User Group">
+    
+    <meta property="og:title" content="2024 March Meeting">
+    <meta name="twitter:title" content="2024 March Meeting">
+    <meta property="og:type" content="article">
+    
+
+    
+    <meta property="og:description" content="OKC JUG site">
+    <meta name="twitter:description" content="OKC JUG site">
+    
+
+    
+    <meta property="og:url" content="https://okcjug.org/news/2024/march-meeting.html">
+    
+
+    
+    <meta property="article:published_time" content="2024-02-20T00:00:00+00:00">
+    <meta property="article:author" content="https://okcjug.org/about/">
+    
+
+    
+    
+    
+
+    
+    
+    <meta property="article:tag" content="blog">
+    
+    
+
+    <meta name="twitter:url" content="https://okcjug.org">
+    <meta name="twitter:site" content="@okcjug">
+    <meta name="twitter:creator" content="@okcjug">
+    <meta name="twitter:card" content="summary_small_image">
+
+    
+    
+    <meta name="twitter:image" content="https://okcjug.org/img/speakers/gerrit-grunwald.jpg">
+    <meta property="og:image" content="https://okcjug.org/img/speakers/gerrit-grunwald.jpg">
+    
+    <meta property="og:image:width" content="250">
+    <meta property="og:image:height" content="125">
+
+
+    <title>2024 March Meeting</title>
+    <link rel="canonical" href="Oklahoma City Java User Group/">
+    <link rel="icon" href="/img/favicon.png" type="image/png">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+          rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+          crossorigin="anonymous">
+    <script src="https://kit.fontawesome.com/e164f43477.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="/css/okcjug2.css">
+</head>
+
+<body>
+<div class="container">
+    <div id="header" class="row">
+        <div class="col-8">
+            <a title="Oklahoma City Java User Group" href="/">
+                <img src="/img/logo-horizontal.png" width="250"/>
+            </a>
+        </div>
+        <div class="col align-self-center justify-content-end d-flex">
+            <ul class="navbar-nav" style="">
+                <li><a class="nav-link" href="/">Home</a></li>
+                <li><a class="nav-link" href="/about">About</a></li>
+                <li><a class="nav-link" href="/news">News</a></li>
+                <li><a class="nav-link" href="mailto:jug@okcjug.org">Contact</a></li>
+            </ul>
+            <div>
+    
+    <a class="social-link" href="https://twitter.com/okcjug" title="">
+        <i class="fa-brands fa-x-twitter"></i>
+    </a>
+    
+    <a class="social-link" href="https://github.com/okcjug" title="">
+        <i class="fa-brands fa-square-github"></i>
+    </a>
+    
+    <a class="social-link" href="https://techlahoma.slack.com/archives/C3CLVDZ6H" title="">
+        <i class="fa-brands fa-slack"></i>
+    </a>
+    
+    <a class="social-link" href="https://youtube.com/@OklahomaCityJUG" title="">
+        <i class="fa-brands fa-youtube"></i>
+    </a>
+    
+</div>
+
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12 ">
+            <div class="container">
+    <div class="row">
+        <div class="col" style="padding-right: 2em;">
+            <h1 class="heading">2024 March Meeting  - What the CRaC - Superfast JVM startup</h1>
+            <div class="sect1">
+<h2 id="post-updated-with-meeting-location-and-time">POST UPDATED WITH MEETING LOCATION AND TIME</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>For our March meeting, we have a special guest coming in to share with us. Gerrit Grunwald is a Java Champion, a JUG leader, and a Principal Engineer with Azul Systems. He&#8217;ll be discussing and demoing a JDK addition that Azul has developed to boost Java application start up times.</p>
+</div>
+<div class="admonitionblock note">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-note" title="Note"></i>
+</td>
+<td class="content">
+<div class="paragraph">
+<p>Location details updated below</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="paragraph">
+<p>Since he&#8217;s flying in, we&#8217;ll have to adjust our normal schedule a bit. We&#8217;ll be meeting at <strong>6:30PM</strong>, and we&#8217;ll be meeting at a new location, the <a href="https://maps.app.goo.gl/WTArFPtvEqtihw6v8">Office of Management and Enterprise Services (OMES) Data Center at 3115 N Lincoln Blvd, Oklahoma City, OK 73105</a>. A big thank you to Joe and Susan at OMES for providing a space for us to meet.</p>
+</div>
+<div class="paragraph">
+<p>This should be a great&#8201;&#8212;&#8201;and immediately useful&#8201;&#8212;&#8201;presentation. I hope to see to you there!</p>
+</div>
+<div class="paragraph">
+<p>Please be sure to RSVP over at <a href="https://www.meetup.com/oklahoma-city-java-user-group/events/299357829">Meetup</a> so we can make an accurate food order.</p>
+</div>
+</div>
+</div>
+            
+            <div>
+                <h2 class="heading">The Presentation</h2>
+                <div style="white-space: pre-line">In a world where microservices are more and more a standard architecture for Java based applications running in the cloud, the JVM warmup time can become a limitation. Especially when you look at spinning up new instances of an app as response to changes in load, the warmup time can be a problem. Native images are one solution to solve these problems because their statically ahead of time compiled code simply doesn’t have to warmup and so has short startup time. But even with the shorter startup time and smaller footprint it doesn’t come without a drawback. The overall performance might be slower because of the missing JIT optimisations at runtime. There is a new OpenJDK project called CRaC (Coordinated Restore at Checkpoint) which goal it is to address the JVM warmup problem with a different approach. The idea is to take a snapshot of the running JVM, store it in files and restore the JVM at a later point in time (or even on another machine).
+This session will give you a short overview of the CRaC project and shows some results from a proof of concept implementation.
+</div>
+            </div>
+            
+            
+            <div>
+                
+                <h2 class="heading">The Speaker</h2>
+                <div>
+                    <img src="/img/speakers/gerrit-grunwald.jpg"
+                         style="float: left; padding-right: 10px; max-height: 215px" alt="Gerrit Grunwald">
+                    Gerrit Grunwald is a software engineer that loves coding for around 40 years already. He is a true believer in open source and has participated in popular projects like JFXtras.org as well as his own projects (TilesFX, Medusa, Enzo, SteelSeries Swing, SteelSeries Canvas).  Gerrit blogs regularly at https://harmonic-code.org, he is an active member of the Java community, where he founded and leads the Java User Group Münster (Germany), he is a JavaOne rockstar and a Java Champion. He is a speaker at conferences and user groups internationally and writes for several magazines.
+
+                </div>
+            </div>
+            
+        </div>
+        
+        
+        <div class="col-4">
+            <div style="padding-bottom: 1em;">
+                <h2 class="heading">Meeting Time</h2>
+                
+                
+                <div>Date: 2024-03-05</div>
+                <div>Time: 6:30PM</div>
+                
+            </div>
+
+            
+
+            <div>
+                <h2 class="heading">Meeting Location</h2>
+                <!--                <div id="osm-map"></div>-->
+                
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d51993.33599034664!2d-97.55283637227166!3d35.46510439163446!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87b2175de8123aa5%3A0x93f48dee5d18d46c!2sOffice%20of%20Management%20and%20Enterprise%20Services!5e0!3m2!1sen!2sus!4v1713838911107!5m2!1sen!2sus" height="450" style="border:0; width: 100%;"
+                        allowfullscreen=""
+                        loading="lazy"
+                        referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <div><b>OMES Data Center, Vareeda Fenimore Learning Lab</b></div>
+                
+                <div>Room 2023</div>
+                
+                <div>3115 N Lincoln Blvd, Oklahoma City, OK 73105</div>
+            </div>
+        </div>
+<!--
+        <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
+        <link href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" rel="stylesheet"/>
+
+        <script>
+            // Where you want to render the map.
+            var element = document.getElementById('osm-map');
+
+            // Height has to be set. You can do this in CSS too.
+            element.style = 'height:300px;';
+
+            // Create Leaflet map on map element.
+            var map = L.map(element);
+
+            // Add OSM tile layer to the Leaflet map.
+            L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+                attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+            }).addTo(map);
+
+            // Target's GPS coordinates.
+            var target = L.latLng('47.50737', '19.04611');
+
+            // Set map's center to target with zoom 14.
+            map.setView(target, 14);
+
+            // Place a marker on the same location.
+            L.marker(target).addTo(map);
+        </script>
+-->
+
+        
+    </div>
+</div>
+
+        </div>
+    </div>
+    <div id="footer" class="row pt-2">
+        <div class="col">
+            <img src="/img/logo-horizontal.png" width="450"/>
+        </div>
+        <div class="col justify-content-end d-flex">
+            <div>
+    
+    <a class="social-link" href="https://twitter.com/okcjug" title="">
+        <i class="fa-brands fa-x-twitter"></i>
+    </a>
+    
+    <a class="social-link" href="https://github.com/okcjug" title="">
+        <i class="fa-brands fa-square-github"></i>
+    </a>
+    
+    <a class="social-link" href="https://techlahoma.slack.com/archives/C3CLVDZ6H" title="">
+        <i class="fa-brands fa-slack"></i>
+    </a>
+    
+    <a class="social-link" href="https://youtube.com/@OklahomaCityJUG" title="">
+        <i class="fa-brands fa-youtube"></i>
+    </a>
+    
+</div>
+
+        </div>
+    </div>
+    <div class="col-md-12">
+        <p>©2024 All Rights Reserved.</p>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous">
+</script>
+</body>
+
+</html>
