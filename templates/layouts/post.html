@@ -31,7 +31,8 @@ layout: simple
             {/if}
         </div>
         {#if page.data('location')}
-        {#let loc = cdi:locations.get(page.data('location').or("error"))}
+        {#let loc = cdi:locations.get(page.data('location').or(""))}
+        {#if loc}
         <div class="col-4">
             <div style="padding-bottom: 1em;">
                 <h2 class="heading">Meeting Time</h2>
@@ -67,6 +68,7 @@ layout: simple
                 <div>{loc.address}</div>
             </div>
         </div>
+        {/if}
         {/let}
         {/if}
     </div>
