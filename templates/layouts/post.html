@@ -1,0 +1,73 @@
+---
+layout: simple
+---
+
+<div class="container">
+    <div class="row">
+        <div class="col" style="padding-right: 2em;">
+            <h1>{page.title}</h1>
+            {#if page.data('topic')}<h2>{page.data('topic')}</h2>{/if}
+            <div style="border-top: 1px solid var(--bs-secondary);">
+            {#insert /}
+            {! #include partials/share-page /!}
+            </div>
+            {#if page.data('presentation')}
+            <div>
+                <h2 class="heading">The Presentation</h2>
+                <div style="white-space: pre-line">{page.data('presentation').raw}</div>
+            </div>
+            {/if}
+            {#if page.data("speaker")}
+            <div>
+                {#let speaker = cdi:speakers.get(page.data("speaker").or(""))}
+                <h2 class="heading">The Speaker</h2>
+                <div>
+                    <img src="/img/{speaker.image}"
+                         style="float: left; padding-right: 10px; max-height: 215px" alt="{speaker.name}">
+                    {speaker.bio.raw}
+                </div>
+                {/let}
+            </div>
+            {/if}
+        </div>
+        {#if page.data('location')}
+        {#let loc = cdi:locations.get(page.data('location').or("error"))}
+        <div class="col-4">
+            <div style="padding-bottom: 1em;">
+                <h2 class="heading">Meeting Time</h2>
+                {#if page.data('when')}
+                <b>{page.data('when').or("error")}</b>
+                {/if}
+                {#if page.data('meeting_date') and page.data('meeting_time')}
+                <div>Date: {page.data('meeting_date')}</div>
+                <div>Time: {page.data('meeting_time')}</div>
+                {/if}
+            </div>
+
+            {#if page.data('stream')}
+            <div style="padding-bottom: 1em;">
+                {#let stream_host = page.data('stream')} {! | split: "/" | slice: 2 !}
+                <h2 class="heading">Meeting Live Stream</h2>
+                <img src="https://{stream_host}/favicon.ico"/>
+                <a href="{page.data('stream')}" target="_blank">{stream_host}</a>
+                {/let}
+            </div>
+            {/if}
+
+            <div>
+                <h2 class="heading">Meeting Location</h2>
+
+                <iframe src="{loc.gmaps}" height="450" style="border:0; width: 100%;"
+                        allowfullscreen="" loading="lazy"
+                        referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <div><b>{loc.name}</b></div>
+                {#if loc.room}
+                <div>Room {loc.room}</div>
+                {/if}
+                <div>{loc.address}</div>
+            </div>
+        </div>
+        {/let}
+        {/if}
+    </div>
+</div>

@@ -1,0 +1,7 @@
+<div>
+    {#for site in cdi:sites.list}
+    <a class="social-link" href="{site.url}" title="{site.name}">
+        <i class="fa-brands {site.icon}"></i>
+    </a>
+    {/for}
+</div>

@@ -1,0 +1,29 @@
+---
+title: News
+layout: simple
+paginate:
+    size: 10
+    collection: news
+    link: /news/page-:page
+permalink: /news/
+---
+
+{#include partials/pagination.html/}
+<br/>
+<ul>
+    {#for post in site.collections.news.paginated(page.paginator)}
+    <li>
+        <a href="{post.url}">{post.title}</a>
+        <div style="padding-left: 2em">
+            {#if post.data('topic')}
+            <div>
+                <strong>Topic:</strong> {post.data('topic')}
+            </div>
+            {/if}
+            {post.rawContent.convert.stripHtml}
+        </div>
+    </li>
+    {/for}
+</ul>
+<br/>
+{#include partials/pagination.html/}

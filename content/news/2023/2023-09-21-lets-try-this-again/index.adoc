@@ -1,0 +1,27 @@
+---
+title: "Let's try this again, but this time with gusto!"
+date: 2023-09-21
+type: post
+layout: post
+tags: blog
+status: published
+author: jdlee
+---
+
+++++
+<div style="padding-top: 10px"/>
+<img style="float: right" awidth=350 src="/img/i_am_once_again_asking.jpg"/>
+++++
+
+I know we've been down this road before, but I intend to not let it slip this time. :) I'd really like to get this going in SOME fashion. If you have any interest in helping me run the JUG (and I need all the help I can get!), please see our mailing list (or its archive) for more details and to join the discussion.
+
+Here is our mailing list info for the interested:
+
+* General List
+** https://lists.okcjug.org/listinfo.cgi/jug-okcjug.org[Signup]
+** https://lists.okcjug.org/pipermail/jug-okcjug.org/[Archive]
+* Steering Committee:
+** https://lists.okcjug.org/listinfo.cgi/sc-okcjug.org[Signup]
+** https://lists.okcjug.org/pipermail/sc-okcjug.org/[Archive]
+
+We would be pleased and honored to have you come help us. Or just hang out with us.
