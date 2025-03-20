@@ -4,3 +4,6 @@ _site
 
 .idea
 .DS_Store
+
+target/
+.quarkus/
