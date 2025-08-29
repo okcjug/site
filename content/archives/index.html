@@ -20,7 +20,7 @@ permalink: /news/
                 <strong>Topic:</strong> {post.data('topic')}
             </div>
             {/if}
-            {post.rawContent.convert.stripHtml}
+            {site.pageContent(post).stripHtml}
         </div>
     </li>
     {/for}

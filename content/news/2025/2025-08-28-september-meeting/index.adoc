@@ -1,0 +1,29 @@
+---
+title: "2025 September Meeting"
+date: 2025-08-28
+type: post
+layout: post
+tags: blog
+status: draft
+author: jdlee
+meeting_date: 2025-09-09
+meeting_time: 7:00PM
+location: merrick
+speaker: jason-lee
+stream:
+topic: "JBang! Java Scripting the Way It Was Meant to Be"
+presentation: >
+    When it comes to writing a script or command line tool, Java is not often even in the conversation. Languages like bash, python, etc. tend to get all the glory, and for good reason. They're usually already installed, easy to get started with, and start up super fast. That's what you want in a command line tool. But what if I told you that you could have all of that AND get to write in a real language? Enter, stage left, JBang.
+    <p>
+    <p>
+    In this session, we'll find out what JBang is and learn to write complex command line tools using the language, frameworks, and libraries we already know and love as Java developers. We'll even look at more advanced topics like how to distribute and share your creations for the adoration of millions. Or a handful. Whatever. When we're done, you'll be Java "scripting" like a pro.
+    <p>
+---
+
+Here we are in late August, and our slow start turns out to be not a slow start, but just a slow year. :P But that hardly matters, because we have at long last another session that should excite and invigorate, and I'm not just saying that because I'm the speaker!
+
+==== BIG LOCATION CHANGE
+
+We're changing things up a bit this month, and we'll be meeting in Norman. We have a number of JUG members who drive up from the south to meet, so we're going to drive down their way this month. We'll be meeting at 7pm at the Merrick Computer Center of the University of Oklahoma (see map on the right). Park south of the building.
+
+Please RSVP over at https://www.meetup.com/oklahoma-city-java-user-group/events/310753626/[Meetup]! I look forward to seeing to you there!

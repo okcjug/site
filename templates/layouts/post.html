@@ -67,6 +67,9 @@ link: /:collection/:year/:slug
                 <div>Room {loc.room}</div>
                 {/if}
                 <div>{loc.address}</div>
+                {#if loc.notes}
+                <div><i>({loc.notes})</i></div>
+                {/if}
             </div>
         </div>
         {/if}

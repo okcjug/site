@@ -61,7 +61,7 @@ title: Oklahoma City Java User Group
                                 {#if speaker}
                                 <img src="/img/{speaker.image}" class="speaker-img"/>
                                 {/if}
-                                {post.rawContent.convert.stripHtml}
+                                {site.pageContent(post).stripHtml}
                             </div>
                         </div>
                         <div class="row">

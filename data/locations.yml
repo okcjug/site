@@ -31,3 +31,8 @@
   name: Verge OKC
   address: 12 E. California St, Suite 200, OKC, OK
   gmaps: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3249.586216487767!2d-97.51421172394231!3d35.465037141819494!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87b21726a916821d%3A0x3ab10824454cbe2f!2sThe%20Verge%20OKC!5e0!3m2!1sen!2sus!4v1713838862506!5m2!1sen!2sus
+- id: merrick
+  name: Merrick Computer Center - University of Oklahoma
+  address: 1610 Newton Dr, Norman, OK 73069
+  gmaps: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3258.7154482094206!2d-97.45885618823762!3d35.23845287261971!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87b269f266a779a1%3A0x4320c2c82a806692!2sUniversity%20of%20Oklahoma%20-%20Merrick%20Computer%20Center!5e0!3m2!1sen!2sus!4v1756501329691!5m2!1sen!2sus
+  notes: Park on the south side of the building
