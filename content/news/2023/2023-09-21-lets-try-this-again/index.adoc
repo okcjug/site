@@ -10,7 +10,7 @@ author: jdlee
 
 ++++
 <div style="padding-top: 10px"/>
-<img style="float: right" awidth=350 src="/img/i_am_once_again_asking.jpg"/>
+<img style="float: right; width: 40%" src="/img/i_am_once_again_asking.jpg"/>
 ++++
 
 I know we've been down this road before, but I intend to not let it slip this time. :) I'd really like to get this going in SOME fashion. If you have any interest in helping me run the JUG (and I need all the help I can get!), please see our mailing list (or its archive) for more details and to join the discussion.

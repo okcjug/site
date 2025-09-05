@@ -22,7 +22,10 @@ presentation: >
 
 Here we are in late August, and our slow start turns out to be not a slow start, but just a slow year. :P But that hardly matters, because we have at long last another session that should excite and invigorate, and I'm not just saying that because I'm the speaker!
 
-==== BIG LOCATION CHANGE
+[IMPORTANT]
+====
+BIG LOCATION CHANGE
+====
 
 We're changing things up a bit this month, and we'll be meeting in Norman. We have a number of JUG members who drive up from the south to meet, so we're going to drive down their way this month. We'll be meeting at 7pm at the Merrick Computer Center of the University of Oklahoma (see map on the right). Park south of the building.
 

@@ -24,11 +24,9 @@ presentation: >
 
 ---
 
-== POST UPDATED WITH MEETING LOCATION AND TIME
-
 For our March meeting, we have a special guest coming in to share with us. Gerrit Grunwald is a Java Champion, a JUG leader, and a Principal Engineer with Azul Systems. He'll be discussing and demoing a JDK addition that Azul has developed to boost Java application start up times.
 
-[NOTE]
+[IMPORTANT]
 ====
 Location details updated below
 ====

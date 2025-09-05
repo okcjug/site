@@ -56,12 +56,12 @@ title: Oklahoma City Java User Group
                                 <b>{post.data('when')}</b>
                             </div>
                         </div>
-                        <div class="row" id="blargh">
+                        <div class="row">
                             <div class="col">
                                 {#if speaker}
                                 <img src="/img/{speaker.image}" class="speaker-img"/>
                                 {/if}
-                                {site.pageContent(post).stripHtml}
+                                {site.pageContent(post).raw}
                             </div>
                         </div>
                         <div class="row">

@@ -10,6 +10,10 @@
     --bs-link-decoration: none;
 }
 
+.container {
+    margin-top: 10px;
+}
+
 .skip-to-main-content {
     background-color: #000;
     color: #fff;
