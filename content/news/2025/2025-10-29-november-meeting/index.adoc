@@ -6,7 +6,7 @@ layout: post
 tags: blog
 author: jdlee
 meeting_date: 2025-11-11
-meeting_time: 7:00PM
+meeting_time: 6:30PM
 location: starspace
 speaker: billy-korando
 stream:
