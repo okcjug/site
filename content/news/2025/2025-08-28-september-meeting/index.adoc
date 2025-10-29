@@ -4,7 +4,6 @@ date: 2025-08-28
 type: post
 layout: post
 tags: blog
-status: draft
 author: jdlee
 meeting_date: 2025-09-09
 meeting_time: 7:00PM
@@ -29,4 +28,4 @@ BIG LOCATION CHANGE
 
 We're changing things up a bit this month, and we'll be meeting in Norman. We have a number of JUG members who drive up from the south to meet, so we're going to drive down their way this month. We'll be meeting at 7pm at the Merrick Computer Center of the University of Oklahoma (see map on the right). Park south of the building.
 
-Please RSVP over at https://www.meetup.com/oklahoma-city-java-user-group/events/310753626/[Meetup]! I look forward to seeing to you there!
+Please RSVP over at https://www.meetup.com/oklahoma-city-java-user-group/events/310753626/[Meetup]! I look forward to seeing you there!

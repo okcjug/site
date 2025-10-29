@@ -218,3 +218,12 @@
     using Microsoft development tools too, when the opportunity knocks. His interest is in developing POS systems,
     factory automation, expert systems, architectural software patterns and management using agile methodologies.
     For leisure time, he has an insatiable appetite for travel, movies and making merry.
+- id: billy-korando
+  name: Billy Korando
+  image: speakers/billy-korando.jpg
+  bio: >
+    Billy is a Java Developer Advocate with the Java Platform Group at Oracle. With over a decade of experience in Java, 
+    Billy brings a passion for helping developers reduce tedious work, such as project initiation, deployment, testing, 
+    and validation, through automation and adopting the latest features and tools in the Java ecosystem. Outside of work, 
+    Billy enjoys traveling, playing kickball, and cheering on the Kansas City Chiefs. Billy also co-organizes the Kansas 
+    City Java users group.
