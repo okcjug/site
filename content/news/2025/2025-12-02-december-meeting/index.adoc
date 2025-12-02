@@ -1,0 +1,20 @@
+---
+title: "2025 December Meeting"
+date: 2025-12-02
+type: post
+layout: post
+tags: blog
+author: jdlee
+meeting_date: 2025-12-16
+meeting_time: 6:30PM
+location: starspace
+speaker: ryan-hoegg
+stream:
+topic: "Voronoi Diagrams in Java: The Secret Geometry Behind Everything Cool"
+presentation: >
+    Voronoi diagrams help solve problems in GIS/maps, games, and networking, but more importantly they make pretty pictures!  Come see what a Voronoi diagram is, and how to build one with java.  We'll look into the algorithms used, and see some of the java libraries that do it for you.  Also maybe get into a little math
+---
+
+We are going to finish out the year strong with another meeting. This month, our very own Ryan Hoegg will be joining us to introduce us to Voronoi diagrams, "pretty pictures" with a host of real world applications.
+
+We'll be back at StarSpace 46 at 6:30PM on December 16. Please RSVP over at https://www.meetup.com/oklahoma-city-java-user-group/events/312265617/[Meetup]! I look forward to seeing you there!
